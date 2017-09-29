@@ -1,0 +1,1 @@
+<?php echo 'admin:'; var_dump(phpversion()); ?>

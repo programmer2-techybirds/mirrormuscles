@@ -1,0 +1,10 @@
+drwxr-xr-x   4 muscles  muscles      4096 Feb 21 08:34 .
+drwxr-xr-x  13 muscles  muscles      4096 Feb 21 08:33 ..
+-rw-r--r--   1 muscles  muscles       816 Feb 21 08:33 config.php
+-rw-r--r--   1 muscles  muscles    150780 Feb 21 08:33 games.json
+-rw-r--r--   1 muscles  muscles       338 Feb 21 08:33 icon.png
+-rw-r--r--   1 muscles  muscles      5628 Feb 21 08:33 index.php
+drwxr-xr-x   2 muscles  muscles      4096 Feb 21 08:34 js
+-rw-r--r--   1 muscles  muscles       943 Feb 21 08:33 lang.php
+-rw-r--r--   1 muscles  muscles      1578 Feb 21 08:33 settings.php
+drwxr-xr-x   4 muscles  muscles      4096 Feb 21 08:37 themes

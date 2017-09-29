@@ -1,0 +1,579 @@
+
+ Sep 20 20:03:56 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/install.php [L: 61] [Level: 8]
+		
+Undefined variable: baseurl
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 20 20:06:39 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_shared.php [L: 187] [Level: 2]
+		
+mysqli_query() expects parameter 1 to be mysqli, null given
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 20 20:06:39 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_shared.php [L: 224] [Level: 2]
+		
+mysqli_error() expects parameter 1 to be mysqli, null given
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 20 20:06:39 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_shared.php [L: 191] [Level: 256]
+		
+Key: ALTER TABLE `cometchat_users`
+add column(
+`roleid` varchar(255) default NULL
+) 	 SQL: ALTER TABLE `cometchat_users`
+add column(
+`roleid` varchar(255) default NULL
+) 	 Error: 
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 20 20:06:39 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_shared.php [L: 224] [Level: 2]
+		
+mysqli_error() expects parameter 1 to be mysqli, null given
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 20 20:06:39 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_shared.php [L: 187] [Level: 2]
+		
+mysqli_query() expects parameter 1 to be mysqli, null given
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 20 20:06:39 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_shared.php [L: 224] [Level: 2]
+		
+mysqli_error() expects parameter 1 to be mysqli, null given
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 20 20:06:39 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_shared.php [L: 191] [Level: 256]
+		
+Key: REPLACE INTO `cometchat_settings` (setting_key,value,key_type) values ('dbversion','24','1'); 	 SQL: REPLACE INTO `cometchat_settings` (setting_key,value,key_type) values ('dbversion','24','1'); 	 Error: 
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 20 20:06:39 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_shared.php [L: 224] [Level: 2]
+		
+mysqli_error() expects parameter 1 to be mysqli, null given
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 20 20:06:41 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_shared.php [L: 187] [Level: 2]
+		
+mysqli_query() expects parameter 1 to be mysqli, null given
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 20 20:06:41 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_shared.php [L: 187] [Level: 2]
+		
+mysqli_query() expects parameter 1 to be mysqli, null given
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 20 20:06:41 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_shared.php [L: 224] [Level: 2]
+		
+mysqli_error() expects parameter 1 to be mysqli, null given
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 20 20:06:41 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_shared.php [L: 224] [Level: 2]
+		
+mysqli_error() expects parameter 1 to be mysqli, null given
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 20 20:06:41 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_shared.php [L: 191] [Level: 256]
+		
+Key: ALTER TABLE `cometchat_users`
+add column(
+`roleid` varchar(255) default NULL
+) 	 SQL: ALTER TABLE `cometchat_users`
+add column(
+`roleid` varchar(255) default NULL
+) 	 Error: 
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 20 20:06:41 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_shared.php [L: 191] [Level: 256]
+		
+Key: ALTER TABLE `cometchat_users`
+add column(
+`roleid` varchar(255) default NULL
+) 	 SQL: ALTER TABLE `cometchat_users`
+add column(
+`roleid` varchar(255) default NULL
+) 	 Error: 
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 20 20:06:41 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_shared.php [L: 224] [Level: 2]
+		
+mysqli_error() expects parameter 1 to be mysqli, null given
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 20 20:06:41 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_shared.php [L: 224] [Level: 2]
+		
+mysqli_error() expects parameter 1 to be mysqli, null given
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 20 20:06:41 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_shared.php [L: 187] [Level: 2]
+		
+mysqli_query() expects parameter 1 to be mysqli, null given
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 20 20:06:41 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_shared.php [L: 187] [Level: 2]
+		
+mysqli_query() expects parameter 1 to be mysqli, null given
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 20 20:06:41 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_shared.php [L: 224] [Level: 2]
+		
+mysqli_error() expects parameter 1 to be mysqli, null given
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 20 20:06:41 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_shared.php [L: 224] [Level: 2]
+		
+mysqli_error() expects parameter 1 to be mysqli, null given
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 20 20:06:41 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_shared.php [L: 191] [Level: 256]
+		
+Key: REPLACE INTO `cometchat_settings` (setting_key,value,key_type) values ('dbversion','24','1'); 	 SQL: REPLACE INTO `cometchat_settings` (setting_key,value,key_type) values ('dbversion','24','1'); 	 Error: 
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 20 20:06:41 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_shared.php [L: 191] [Level: 256]
+		
+Key: REPLACE INTO `cometchat_settings` (setting_key,value,key_type) values ('dbversion','24','1'); 	 SQL: REPLACE INTO `cometchat_settings` (setting_key,value,key_type) values ('dbversion','24','1'); 	 Error: 
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 20 20:06:41 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_shared.php [L: 224] [Level: 2]
+		
+mysqli_error() expects parameter 1 to be mysqli, null given
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 20 20:06:41 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_shared.php [L: 224] [Level: 2]
+		
+mysqli_error() expects parameter 1 to be mysqli, null given
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 20 20:06:41 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_cache.php [L: 979] [Level: 2]
+		
+unlink(/home/mirrorm0/public_html/mirrormuscles.com/cometchat/writable/cache/cache.storage.www.mirrormuscles.com/c2/c2V0dGluZ3M.txt): No such file or directory
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 21 00:12:36 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_cache.php [L: 967] [Level: 2]
+		
+unlink(/home/mirrorm0/public_html/mirrormuscles.com/cometchat/writable/cache/cache.storage.www.mirrormuscles.com/c2/c2V0dGluZ3M.txt): No such file or directory
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 21 00:12:36 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_cache.php [L: 1022] [Level: 2]
+		
+unlink(/home/mirrorm0/public_html/mirrormuscles.com/cometchat/writable/cache/cache.storage.www.mirrormuscles.com//Zn/ZnJpZW5kX2lkc19vZl8yNzBjY19f.txt): No such file or directory
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 21 00:12:36 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_cache.php [L: 1022] [Level: 2]
+		
+unlink(/home/mirrorm0/public_html/mirrormuscles.com/cometchat/writable/cache/cache.storage.www.mirrormuscles.com//YW/YWxsX29ubGluZWNjX18.txt): No such file or directory
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 21 00:12:36 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_cache.php [L: 1022] [Level: 2]
+		
+unlink(/home/mirrorm0/public_html/mirrormuscles.com/cometchat/writable/cache/cache.storage.www.mirrormuscles.com//Y2/Y29tZXRjaGF0X2JvdHM.txt): No such file or directory
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 21 00:12:36 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_cache.php [L: 1022] [Level: 2]
+		
+unlink(/home/mirrorm0/public_html/mirrormuscles.com/cometchat/writable/cache/cache.storage.www.mirrormuscles.com//Y2/Y29tZXRjaGF0X2NvbG9y.txt): No such file or directory
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 21 00:12:36 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_cache.php [L: 1022] [Level: 2]
+		
+unlink(/home/mirrorm0/public_html/mirrormuscles.com/cometchat/writable/cache/cache.storage.www.mirrormuscles.com//Y2/Y2hhdHJvb21fbGlzdGNjX18.txt): No such file or directory
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 21 00:12:36 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_cache.php [L: 1022] [Level: 2]
+		
+unlink(/home/mirrorm0/public_html/mirrormuscles.com/cometchat/writable/cache/cache.storage.www.mirrormuscles.com//Y2/Y29tZXRjaGF0X2xhbmd1YWdl.txt): No such file or directory
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 21 14:24:45 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_cache.php [L: 967] [Level: 2]
+		
+unlink(/home/mirrorm0/public_html/mirrormuscles.com/cometchat/writable/cache/cache.storage.www.mirrormuscles.com/c2/c2V0dGluZ3M.txt): No such file or directory
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 22 04:16:47 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_cache.php [L: 967] [Level: 2]
+		
+unlink(/home/mirrorm0/public_html/mirrormuscles.com/cometchat/writable/cache/cache.storage.www.mirrormuscles.com/c2/c2V0dGluZ3M.txt): No such file or directory
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 23 03:56:57 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_cache.php [L: 967] [Level: 2]
+		
+unlink(/home/mirrorm0/public_html/mirrormuscles.com/cometchat/writable/cache/cache.storage.www.mirrormuscles.com/c2/c2V0dGluZ3M.txt): No such file or directory
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 23 03:56:57 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_cache.php [L: 967] [Level: 2]
+		
+unlink(/home/mirrorm0/public_html/mirrormuscles.com/cometchat/writable/cache/cache.storage.www.mirrormuscles.com/a2/a2V5d29yZF9jbGVhbl91cF9kcml2ZXJfZmlsZXM.txt): No such file or directory
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 23 03:56:57 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_cache.php [L: 1022] [Level: 2]
+		
+unlink(/home/mirrorm0/public_html/mirrormuscles.com/cometchat/writable/cache/cache.storage.www.mirrormuscles.com//YW/YWxsX29ubGluZWNjX18.txt): No such file or directory
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 23 03:56:57 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_cache.php [L: 1022] [Level: 2]
+		
+unlink(/home/mirrorm0/public_html/mirrormuscles.com/cometchat/writable/cache/cache.storage.www.mirrormuscles.com//Y2/Y29tZXRjaGF0X2JvdHM.txt): No such file or directory
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 23 03:56:57 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_cache.php [L: 1022] [Level: 2]
+		
+unlink(/home/mirrorm0/public_html/mirrormuscles.com/cometchat/writable/cache/cache.storage.www.mirrormuscles.com//Y2/Y29tZXRjaGF0X2NvbG9y.txt): No such file or directory
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 23 03:56:57 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_cache.php [L: 1022] [Level: 2]
+		
+unlink(/home/mirrorm0/public_html/mirrormuscles.com/cometchat/writable/cache/cache.storage.www.mirrormuscles.com//Y2/Y29tZXRjaGF0X2xhbmd1YWdl.txt): No such file or directory
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 25 03:12:09 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_cache.php [L: 967] [Level: 2]
+		
+unlink(/home/mirrorm0/public_html/mirrormuscles.com/cometchat/writable/cache/cache.storage.www.mirrormuscles.com/c2/c2V0dGluZ3M.txt): No such file or directory
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 25 03:12:09 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_cache.php [L: 967] [Level: 2]
+		
+unlink(/home/mirrorm0/public_html/mirrormuscles.com/cometchat/writable/cache/cache.storage.www.mirrormuscles.com/a2/a2V5d29yZF9jbGVhbl91cF9kcml2ZXJfZmlsZXM.txt): No such file or directory
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 25 03:12:09 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_cache.php [L: 1022] [Level: 2]
+		
+unlink(/home/mirrorm0/public_html/mirrormuscles.com/cometchat/writable/cache/cache.storage.www.mirrormuscles.com//Zn/ZnJpZW5kX2lkc19vZl8xODI5Y2NfXw.txt): No such file or directory
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 25 03:12:09 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_cache.php [L: 1022] [Level: 2]
+		
+unlink(/home/mirrorm0/public_html/mirrormuscles.com/cometchat/writable/cache/cache.storage.www.mirrormuscles.com//YW/YWxsX29ubGluZWNjX18.txt): No such file or directory
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 25 03:12:09 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_cache.php [L: 1022] [Level: 2]
+		
+unlink(/home/mirrorm0/public_html/mirrormuscles.com/cometchat/writable/cache/cache.storage.www.mirrormuscles.com//Y2/Y29tZXRjaGF0X2JvdHM.txt): No such file or directory
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 25 03:12:09 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_cache.php [L: 1022] [Level: 2]
+		
+unlink(/home/mirrorm0/public_html/mirrormuscles.com/cometchat/writable/cache/cache.storage.www.mirrormuscles.com//Y2/Y29tZXRjaGF0X2NvbG9y.txt): No such file or directory
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 25 03:12:09 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_cache.php [L: 1022] [Level: 2]
+		
+unlink(/home/mirrorm0/public_html/mirrormuscles.com/cometchat/writable/cache/cache.storage.www.mirrormuscles.com//Y2/Y29tZXRjaGF0X2xhbmd1YWdl.txt): No such file or directory
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 25 09:38:51 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_cache.php [L: 967] [Level: 2]
+		
+unlink(/home/mirrorm0/public_html/mirrormuscles.com/cometchat/writable/cache/cache.storage.www.mirrormuscles.com/c2/c2V0dGluZ3M.txt): No such file or directory
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 25 13:21:59 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_cache.php [L: 967] [Level: 2]
+		
+unlink(/home/mirrorm0/public_html/mirrormuscles.com/cometchat/writable/cache/cache.storage.www.mirrormuscles.com/c2/c2V0dGluZ3M.txt): No such file or directory
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 25 13:21:59 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_cache.php [L: 967] [Level: 2]
+		
+unlink(/home/mirrorm0/public_html/mirrormuscles.com/cometchat/writable/cache/cache.storage.www.mirrormuscles.com/a2/a2V5d29yZF9jbGVhbl91cF9kcml2ZXJfZmlsZXM.txt): No such file or directory
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 25 13:21:59 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_cache.php [L: 1022] [Level: 2]
+		
+unlink(/home/mirrorm0/public_html/mirrormuscles.com/cometchat/writable/cache/cache.storage.www.mirrormuscles.com//Zn/ZnJpZW5kX2lkc19vZl8xMTg5Y2NfXw.txt): No such file or directory
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 25 13:21:59 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_cache.php [L: 1022] [Level: 2]
+		
+unlink(/home/mirrorm0/public_html/mirrormuscles.com/cometchat/writable/cache/cache.storage.www.mirrormuscles.com//YW/YWxsX29ubGluZWNjX18.txt): No such file or directory
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 26 03:28:07 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_cache.php [L: 967] [Level: 2]
+		
+unlink(/home/mirrorm0/public_html/mirrormuscles.com/cometchat/writable/cache/cache.storage.www.mirrormuscles.com/c2/c2V0dGluZ3M.txt): No such file or directory
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 26 03:28:07 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_cache.php [L: 1022] [Level: 2]
+		
+unlink(/home/mirrorm0/public_html/mirrormuscles.com/cometchat/writable/cache/cache.storage.www.mirrormuscles.com//Y2/Y29tZXRjaGF0X2NvbG9y.txt): No such file or directory
+		
+print_r(debug_backtrace(),true)
+		
+****************************
+ Sep 26 03:28:07 : 		
+****************************
+		
+/home/mirrorm0/public_html/mirrormuscles.com/cometchat/cometchat_cache.php [L: 1022] [Level: 2]
+		
+unlink(/home/mirrorm0/public_html/mirrormuscles.com/cometchat/writable/cache/cache.storage.www.mirrormuscles.com//Y2/Y29tZXRjaGF0X2xhbmd1YWdl.txt): No such file or directory
+		
+print_r(debug_backtrace(),true)
+		
+****************************

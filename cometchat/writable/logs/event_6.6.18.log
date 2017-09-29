@@ -1,0 +1,17 @@
+
+ Aug 9 07:08:03 : {"LATEST_VERSION":"","api_response":""}
+ Aug 9 07:08:08 : {"LATEST_VERSION":"","api_response":""}
+ Aug 9 07:10:40 : {"DEV_MODE":"1","ERROR_LOGGING":"0","CROSS_DOMAIN":"0","AVOIDCALLBACK":"0","CC_SITE_URL":"","firstguestID":"10000000","USE_CS_LEGACY":"0"}
+ Aug 9 07:10:43 : {"DEV_MODE":"1","ERROR_LOGGING":"1","CROSS_DOMAIN":"0","AVOIDCALLBACK":"0","CC_SITE_URL":"","firstguestID":"10000000","USE_CS_LEGACY":"0"}
+ Aug 9 07:14:25 : {"LATEST_VERSION":"","api_response":""}
+ Aug 9 07:17:53 : {"LATEST_VERSION":"","api_response":""}
+ Aug 9 07:24:58 : {"LATEST_VERSION":"","api_response":""}
+ Aug 9 07:28:15 : {"LATEST_VERSION":"","api_response":""}
+ Aug 9 07:29:24 : {"licensekey":"PB3XC-BUU6F-4RSPM-F4MYJ-CPDP8","api_response":""}
+ Aug 9 07:29:42 : {"disableContactsTab":"0","hideOffline":"1","DISPLAY_ALL_USERS":"1","displayOfflineNotification":"1","displayBusyNotification":"1","displayOnlineNotification":"1","thumbnailDisplayNumber":"40","searchDisplayNumber":"10"}
+ Aug 9 09:09:28 : {"disableContactsTab":"0","hideOffline":"1","DISPLAY_ALL_USERS":"0","displayOfflineNotification":"1","displayBusyNotification":"1","displayOnlineNotification":"1","thumbnailDisplayNumber":"40","searchDisplayNumber":"10"}
+ Aug 10 15:26:12 : {"LATEST_VERSION":"","api_response":""}
+ Aug 10 15:27:08 : {"ccactiveauth":["Facebook","Google","Twitter"],"USE_CCAUTH":"0","guestsMode":"0","guestnamePrefix":"Guest","guestsList":"2","guestsUsersList":"2","firebaseAPIKey":"","firebaseAuthDomain":"","firebaseProjectID":""}
+ Aug 11 18:57:48 : {"LATEST_VERSION":"6.6.19","api_response":""}
+ Aug 15 20:55:40 : {"LATEST_VERSION":"6.7.0","api_response":""}
+ Sep 20 19:55:53 : {"LATEST_VERSION":"6.8.3","api_response":""}

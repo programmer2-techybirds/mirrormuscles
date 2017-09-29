@@ -1,0 +1,13 @@
+
+ Jul 24 10:24:13 : {"hideBar":"1","autoPopupChatbox":"1","messageBeep":"1","beepOnAllMessages":"1","searchDisplayNumber":"10","thumbnailDisplayNumber":"40","displayOfflineNotification":"1","displayBusyNotification":"1","notificationTime":"5000","announcementTime":"15000","armyTime":"1","disableForMobileDevices":"1","startOffline":"0","lightboxWindows":"1","desktopNotifications":"1","windowTitleNotify":"1","floodControl":"0","windowFavicon":"1","blockpluginmode":"0","lastseen":"1","gatrackerid":""}
+ Jul 25 19:51:19 : {"LATEST_VERSION":"6.6.11","api_response":""}
+ Aug 4 20:24:13 : {"BAR_DISABLED":"1","minHeartbeat":"3000","maxHeartbeat":"12000","typingTimeout":"10000","idleTimeout":"300","recentListLimit":"30","displayOnlineNotification":"1","apikey":"27af71bb68c13ac94f9709979529b141","BASE_URL":"\/cometchat\/"}
+ Aug 4 20:24:18 : {"BAR_DISABLED":"0","minHeartbeat":"3000","maxHeartbeat":"12000","typingTimeout":"10000","idleTimeout":"300","recentListLimit":"30","displayOnlineNotification":"1","apikey":"27af71bb68c13ac94f9709979529b141","BASE_URL":"\/cometchat\/"}
+ Aug 4 20:24:28 : {"ccactiveauth":["Facebook","Google","Twitter"],"USE_CCAUTH":"0","guestsMode":"0","guestnamePrefix":"Guest","guestsList":"3","guestsUsersList":"2"}
+ Aug 9 07:00:21 : {"LATEST_VERSION":"6.6.18","api_response":""}
+ Aug 9 07:00:39 : {"LATEST_VERSION":"6.6.18","api_response":""}
+ Aug 9 07:00:44 : {"LATEST_VERSION":"6.6.18","api_response":""}
+ Aug 9 07:00:51 : {"LATEST_VERSION":"6.6.18","api_response":""}
+ Aug 9 07:04:15 : {"LATEST_VERSION":"6.6.18","api_response":""}
+ Aug 9 07:04:32 : {"latest_update_token":"940490fd3cf0e894f9e17164bcdf2dca"}
+ Aug 9 07:04:32 : {"LATEST_VERSION":"6.6.18"}
