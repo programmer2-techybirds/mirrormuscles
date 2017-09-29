@@ -1,0 +1,12 @@
+drwxr-xr-x   7 muscles  muscles      4096 Aug 19  2015 .
+drwxr-xr-x  11 muscles  muscles      4096 Feb  9 20:38 ..
+drwxr-xr-x   2 muscles  muscles      4096 May  7  2015 langs
+-rw-r--r--   1 muscles  muscles     26427 Apr 11  2011 license.txt
+drwxr-xr-x  24 muscles  muscles      4096 Dec  9  2015 plugins
+drwxr-xr-x   4 muscles  muscles      4096 May  7  2015 skins
+drwxr-xr-x   4 muscles  muscles      4096 Aug 18  2016 themes
+-rw-r--r--   1 muscles  muscles    405134 May 16 11:43 tinymce.min.js
+-rw-r--r--   1 muscles  muscles     15091 May 12  2016 tiny_mce_popup.js
+drwxr-xr-x   2 muscles  muscles      4096 May  7  2015 utils
+-rw-r--r--   1 muscles  muscles    182840 May 16 11:43 wp-tinymce.js.gz
+-rw-r--r--   1 muscles  muscles      1126 Jan  3  2015 wp-tinymce.php
