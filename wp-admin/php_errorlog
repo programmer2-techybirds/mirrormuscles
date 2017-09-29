@@ -1,0 +1,1499 @@
+[14-Aug-2017 13:08:43 CST6CDT] PHP Warning:  require(/home/mirrorm0/public_html/mirrormuscles.com/wp-includes/load.php): failed to open stream: Permission denied in /home/mirrorm0/public_html/mirrormuscles.com/wp-settings.php on line 19
+[14-Aug-2017 13:08:43 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/mirrorm0/public_html/mirrormuscles.com/wp-includes/load.php' (include_path='.:/usr/local/php56/pear') in /home/mirrorm0/public_html/mirrormuscles.com/wp-settings.php on line 19
+[14-Aug-2017 13:08:58 CST6CDT] PHP Warning:  require(/home/mirrorm0/public_html/mirrormuscles.com/wp-includes/load.php): failed to open stream: Permission denied in /home/mirrorm0/public_html/mirrormuscles.com/wp-settings.php on line 19
+[14-Aug-2017 13:08:58 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/mirrorm0/public_html/mirrormuscles.com/wp-includes/load.php' (include_path='.:/usr/local/php56/pear') in /home/mirrorm0/public_html/mirrormuscles.com/wp-settings.php on line 19
+[14-Aug-2017 18:32:33 UTC] WordPress database error Column 'user_id' cannot be null for query INSERT INTO `wp_bp_notifications` (`user_id`, `item_id`, `secondary_item_id`, `component_name`, `component_action`, `date_notified`, `is_new`) VALUES (NULL, 2858, 0, 'buddyboss_wall_like_notifier', 'new_wall_post_like_2858', '2017-08-14 18:32:33', 1) made by do_action('wp_ajax_activity_mark_fav'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, buddyboss_wall_mark_activity_favorite, bp_activity_add_user_favorite, do_action('bp_activity_add_user_favorite'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, BuddyBoss_Wall_Like_Notification->add_like_notification, bp_notifications_add_notification, BP_Notifications_Notification->save, BP_Notifications_Notification::_insert
+[15-Aug-2017 15:29:09 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[15-Aug-2017 15:29:09 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[15-Aug-2017 20:09:49 UTC] PHP Warning:  Creating default object from empty value in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php on line 1049
+[15-Aug-2017 20:09:50 UTC] PHP Warning:  Creating default object from empty value in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php on line 1049
+[15-Aug-2017 20:09:57 UTC] PHP Warning:  Creating default object from empty value in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php on line 1049
+[15-Aug-2017 20:12:22 UTC] PHP Warning:  Creating default object from empty value in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php on line 1049
+[15-Aug-2017 20:12:27 UTC] PHP Warning:  Creating default object from empty value in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php on line 1049
+[15-Aug-2017 20:22:37 UTC] PHP Warning:  Creating default object from empty value in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php on line 1049
+[15-Aug-2017 20:30:41 UTC] PHP Warning:  Creating default object from empty value in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php on line 1049
+[15-Aug-2017 20:30:46 UTC] PHP Warning:  Creating default object from empty value in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php on line 1049
+[15-Aug-2017 20:31:27 UTC] PHP Warning:  Creating default object from empty value in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php on line 1049
+[15-Aug-2017 20:31:36 UTC] PHP Warning:  Creating default object from empty value in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php on line 1049
+[15-Aug-2017 20:31:51 UTC] PHP Warning:  Creating default object from empty value in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php on line 1049
+[15-Aug-2017 20:31:57 UTC] PHP Warning:  Creating default object from empty value in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php on line 1049
+[15-Aug-2017 20:32:35 UTC] PHP Warning:  Creating default object from empty value in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php on line 1049
+[15-Aug-2017 20:33:08 UTC] PHP Warning:  Creating default object from empty value in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php on line 1049
+[15-Aug-2017 20:33:58 UTC] PHP Warning:  Creating default object from empty value in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php on line 1049
+[15-Aug-2017 20:36:58 UTC] PHP Warning:  Creating default object from empty value in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php on line 1049
+[15-Aug-2017 20:37:44 UTC] PHP Warning:  Creating default object from empty value in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php on line 1049
+[15-Aug-2017 20:38:10 UTC] PHP Warning:  Creating default object from empty value in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php on line 1049
+[15-Aug-2017 20:39:21 UTC] PHP Warning:  Creating default object from empty value in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php on line 1049
+[15-Aug-2017 20:43:38 UTC] PHP Warning:  Creating default object from empty value in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php on line 1049
+[15-Aug-2017 20:47:07 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[15-Aug-2017 20:47:07 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[15-Aug-2017 20:51:03 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[15-Aug-2017 20:51:03 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[15-Aug-2017 20:51:32 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[15-Aug-2017 20:51:32 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[15-Aug-2017 20:51:48 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[15-Aug-2017 20:51:48 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[16-Aug-2017 08:34:57 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[16-Aug-2017 08:34:57 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[16-Aug-2017 08:34:57 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[16-Aug-2017 08:35:17 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[16-Aug-2017 08:35:17 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[16-Aug-2017 09:32:14 UTC] PHP Warning:  Creating default object from empty value in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php on line 1049
+[16-Aug-2017 09:32:20 UTC] PHP Warning:  Creating default object from empty value in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php on line 1049
+[16-Aug-2017 09:33:35 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[16-Aug-2017 09:33:35 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[16-Aug-2017 09:38:16 UTC] PHP Warning:  Creating default object from empty value in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php on line 1049
+[16-Aug-2017 10:04:49 UTC] PHP Warning:  Missing argument 2 for bea_activity_content() in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/buddyboss-media/includes/media-edit-activity.php on line 56
+[16-Aug-2017 10:04:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/buddyboss-media/includes/media-functions.php on line 249
+[16-Aug-2017 13:12:20 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[16-Aug-2017 13:12:20 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[16-Aug-2017 13:27:26 UTC] PHP Warning:  Creating default object from empty value in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php on line 1065
+[16-Aug-2017 13:27:31 UTC] PHP Warning:  Creating default object from empty value in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php on line 1065
+[16-Aug-2017 13:52:23 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[16-Aug-2017 14:19:58 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[16-Aug-2017 14:19:58 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[16-Aug-2017 19:09:57 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[16-Aug-2017 20:24:35 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[16-Aug-2017 20:29:23 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[17-Aug-2017 10:34:34 UTC] WordPress database error Column 'user_id' cannot be null for query INSERT INTO `wp_bp_notifications` (`user_id`, `item_id`, `secondary_item_id`, `component_name`, `component_action`, `date_notified`, `is_new`) VALUES (NULL, 2925, 0, 'buddyboss_wall_like_notifier', 'new_wall_post_like_2925', '2017-08-17 10:34:34', 1) made by do_action('wp_ajax_activity_mark_fav'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, buddyboss_wall_mark_activity_favorite, bp_activity_add_user_favorite, do_action('bp_activity_add_user_favorite'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, BuddyBoss_Wall_Like_Notification->add_like_notification, bp_notifications_add_notification, BP_Notifications_Notification->save, BP_Notifications_Notification::_insert
+[17-Aug-2017 10:43:09 UTC] WordPress database error Column 'item_id' cannot be null for query INSERT INTO `wp_bp_notifications` (`user_id`, `item_id`, `secondary_item_id`, `component_name`, `component_action`, `date_notified`, `is_new`) VALUES (1758, NULL, 1825, 'activity', 'update_reply', '2017-08-17 10:43:09', 1) made by do_action('wp_ajax_new_activity_comment'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, bp_legacy_theme_new_activity_comment, bp_activity_new_comment, do_action('bp_activity_comment_posted'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, bp_activity_new_comment_notification_helper, bp_activity_new_comment_notification, do_action('bp_activity_sent_reply_to_update_notification'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, bp_activity_update_reply_add_notification, bp_notifications_add_notification, BP_Notifications_Notification->save, BP_Notifications_Notification::_insert
+[17-Aug-2017 10:47:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/buddyboss-media/includes/media-edit-activity.php on line 24
+[17-Aug-2017 10:49:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/buddyboss-media/includes/media-edit-activity.php on line 24
+[17-Aug-2017 10:49:03 UTC] PHP Warning:  Missing argument 2 for bea_activity_content() in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/buddyboss-media/includes/media-edit-activity.php on line 56
+[17-Aug-2017 10:49:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/buddyboss-media/includes/media-functions.php on line 249
+[17-Aug-2017 10:50:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/buddyboss-media/includes/media-edit-activity.php on line 24
+[17-Aug-2017 10:50:27 UTC] PHP Warning:  Missing argument 2 for bea_activity_content() in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/buddyboss-media/includes/media-edit-activity.php on line 56
+[17-Aug-2017 10:50:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/buddyboss-media/includes/media-functions.php on line 249
+[17-Aug-2017 10:50:48 UTC] PHP Warning:  Missing argument 2 for bea_activity_content() in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/buddyboss-media/includes/media-edit-activity.php on line 56
+[17-Aug-2017 10:50:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/buddyboss-media/includes/media-functions.php on line 249
+[17-Aug-2017 10:56:19 UTC] WordPress database error Column 'user_id' cannot be null for query INSERT INTO `wp_bp_notifications` (`user_id`, `item_id`, `secondary_item_id`, `component_name`, `component_action`, `date_notified`, `is_new`) VALUES (NULL, 2960, 0, 'buddyboss_wall_like_notifier', 'new_wall_post_like_2960', '2017-08-17 10:56:19', 1) made by do_action('wp_ajax_activity_mark_fav'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, buddyboss_wall_mark_activity_favorite, bp_activity_add_user_favorite, do_action('bp_activity_add_user_favorite'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, BuddyBoss_Wall_Like_Notification->add_like_notification, bp_notifications_add_notification, BP_Notifications_Notification->save, BP_Notifications_Notification::_insert
+[17-Aug-2017 11:07:43 UTC] PHP Warning:  Missing argument 2 for bea_activity_content() in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/buddyboss-media/includes/media-edit-activity.php on line 56
+[17-Aug-2017 11:07:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/buddyboss-media/includes/media-functions.php on line 249
+[17-Aug-2017 11:11:55 UTC] WordPress database error Column 'user_id' cannot be null for query INSERT INTO `wp_bp_notifications` (`user_id`, `item_id`, `secondary_item_id`, `component_name`, `component_action`, `date_notified`, `is_new`) VALUES (NULL, 2965, 0, 'buddyboss_wall_like_notifier', 'new_wall_post_like_2965', '2017-08-17 11:11:55', 1) made by do_action('wp_ajax_activity_mark_fav'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, buddyboss_wall_mark_activity_favorite, bp_activity_add_user_favorite, do_action('bp_activity_add_user_favorite'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, BuddyBoss_Wall_Like_Notification->add_like_notification, bp_notifications_add_notification, BP_Notifications_Notification->save, BP_Notifications_Notification::_insert
+[17-Aug-2017 11:13:53 UTC] WordPress database error Column 'user_id' cannot be null for query INSERT INTO `wp_bp_notifications` (`user_id`, `item_id`, `secondary_item_id`, `component_name`, `component_action`, `date_notified`, `is_new`) VALUES (NULL, 2965, 0, 'buddyboss_wall_like_notifier', 'new_wall_post_like_2965', '2017-08-17 11:13:53', 1) made by do_action('wp_ajax_activity_mark_fav'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, buddyboss_wall_mark_activity_favorite, bp_activity_add_user_favorite, do_action('bp_activity_add_user_favorite'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, BuddyBoss_Wall_Like_Notification->add_like_notification, bp_notifications_add_notification, BP_Notifications_Notification->save, BP_Notifications_Notification::_insert
+[17-Aug-2017 12:16:17 UTC] PHP Warning:  Missing argument 2 for bea_activity_content() in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/buddyboss-media/includes/media-edit-activity.php on line 56
+[17-Aug-2017 12:16:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/buddyboss-media/includes/media-functions.php on line 249
+[17-Aug-2017 12:32:06 UTC] WordPress database error Column 'user_id' cannot be null for query INSERT INTO `wp_bp_notifications` (`user_id`, `item_id`, `secondary_item_id`, `component_name`, `component_action`, `date_notified`, `is_new`) VALUES (NULL, 2960, 0, 'buddyboss_wall_like_notifier', 'new_wall_post_like_2960', '2017-08-17 12:32:06', 1) made by do_action('wp_ajax_activity_mark_fav'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, buddyboss_wall_mark_activity_favorite, bp_activity_add_user_favorite, do_action('bp_activity_add_user_favorite'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, BuddyBoss_Wall_Like_Notification->add_like_notification, bp_notifications_add_notification, BP_Notifications_Notification->save, BP_Notifications_Notification::_insert
+[17-Aug-2017 12:32:33 UTC] WordPress database error Column 'user_id' cannot be null for query INSERT INTO `wp_bp_notifications` (`user_id`, `item_id`, `secondary_item_id`, `component_name`, `component_action`, `date_notified`, `is_new`) VALUES (NULL, 2916, 0, 'buddyboss_wall_like_notifier', 'new_wall_post_like_2916', '2017-08-17 12:32:33', 1) made by do_action('wp_ajax_activity_mark_fav'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, buddyboss_wall_mark_activity_favorite, bp_activity_add_user_favorite, do_action('bp_activity_add_user_favorite'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, BuddyBoss_Wall_Like_Notification->add_like_notification, bp_notifications_add_notification, BP_Notifications_Notification->save, BP_Notifications_Notification::_insert
+[17-Aug-2017 22:25:52 UTC] WordPress database error Column 'user_id' cannot be null for query INSERT INTO `wp_bp_notifications` (`user_id`, `item_id`, `secondary_item_id`, `component_name`, `component_action`, `date_notified`, `is_new`) VALUES (NULL, 3016, 0, 'buddyboss_wall_like_notifier', 'new_wall_post_like_3016', '2017-08-17 22:25:52', 1) made by do_action('wp_ajax_activity_mark_fav'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, buddyboss_wall_mark_activity_favorite, bp_activity_add_user_favorite, do_action('bp_activity_add_user_favorite'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, BuddyBoss_Wall_Like_Notification->add_like_notification, bp_notifications_add_notification, BP_Notifications_Notification->save, BP_Notifications_Notification::_insert
+[18-Aug-2017 07:52:35 UTC] PHP Warning:  Missing argument 2 for bea_activity_content() in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/buddyboss-media/includes/media-edit-activity.php on line 56
+[18-Aug-2017 07:52:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/buddyboss-media/includes/media-functions.php on line 249
+[18-Aug-2017 09:29:29 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[18-Aug-2017 10:21:06 UTC] WordPress database error Column 'user_id' cannot be null for query INSERT INTO `wp_bp_notifications` (`user_id`, `item_id`, `secondary_item_id`, `component_name`, `component_action`, `date_notified`, `is_new`) VALUES (NULL, 3015, 0, 'buddyboss_wall_like_notifier', 'new_wall_post_like_3015', '2017-08-18 10:21:06', 1) made by do_action('wp_ajax_activity_mark_fav'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, buddyboss_wall_mark_activity_favorite, bp_activity_add_user_favorite, do_action('bp_activity_add_user_favorite'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, BuddyBoss_Wall_Like_Notification->add_like_notification, bp_notifications_add_notification, BP_Notifications_Notification->save, BP_Notifications_Notification::_insert
+[18-Aug-2017 10:40:12 UTC] PHP Warning:  Missing argument 2 for bea_activity_content() in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/buddyboss-media/includes/media-edit-activity.php on line 56
+[18-Aug-2017 10:40:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/buddyboss-media/includes/media-functions.php on line 249
+[18-Aug-2017 11:23:49 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[18-Aug-2017 11:23:49 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[18-Aug-2017 11:23:50 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[19-Aug-2017 10:12:33 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[20-Aug-2017 23:27:58 UTC] WordPress database error Column 'user_id' cannot be null for query INSERT INTO `wp_bp_notifications` (`user_id`, `item_id`, `secondary_item_id`, `component_name`, `component_action`, `date_notified`, `is_new`) VALUES (NULL, 3015, 0, 'buddyboss_wall_like_notifier', 'new_wall_post_like_3015', '2017-08-20 23:27:58', 1) made by do_action('wp_ajax_activity_mark_fav'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, buddyboss_wall_mark_activity_favorite, bp_activity_add_user_favorite, do_action('bp_activity_add_user_favorite'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, BuddyBoss_Wall_Like_Notification->add_like_notification, bp_notifications_add_notification, BP_Notifications_Notification->save, BP_Notifications_Notification::_insert
+[21-Aug-2017 05:14:19 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[21-Aug-2017 05:14:38 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[21-Aug-2017 10:39:44 UTC] WordPress database error Column 'user_id' cannot be null for query INSERT INTO `wp_bp_notifications` (`user_id`, `item_id`, `secondary_item_id`, `component_name`, `component_action`, `date_notified`, `is_new`) VALUES (NULL, 3126, 0, 'buddyboss_wall_like_notifier', 'new_wall_post_like_3126', '2017-08-21 10:39:44', 1) made by do_action('wp_ajax_activity_mark_fav'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, buddyboss_wall_mark_activity_favorite, bp_activity_add_user_favorite, do_action('bp_activity_add_user_favorite'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, BuddyBoss_Wall_Like_Notification->add_like_notification, bp_notifications_add_notification, BP_Notifications_Notification->save, BP_Notifications_Notification::_insert
+[21-Aug-2017 13:10:30 UTC] WordPress database error Column 'user_id' cannot be null for query INSERT INTO `wp_bp_notifications` (`user_id`, `item_id`, `secondary_item_id`, `component_name`, `component_action`, `date_notified`, `is_new`) VALUES (NULL, 3013, 0, 'buddyboss_wall_like_notifier', 'new_wall_post_like_3013', '2017-08-21 13:10:30', 1) made by do_action('wp_ajax_activity_mark_fav'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, buddyboss_wall_mark_activity_favorite, bp_activity_add_user_favorite, do_action('bp_activity_add_user_favorite'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, BuddyBoss_Wall_Like_Notification->add_like_notification, bp_notifications_add_notification, BP_Notifications_Notification->save, BP_Notifications_Notification::_insert
+[21-Aug-2017 19:17:17 UTC] WordPress database error Column 'user_id' cannot be null for query INSERT INTO `wp_bp_notifications` (`user_id`, `item_id`, `secondary_item_id`, `component_name`, `component_action`, `date_notified`, `is_new`) VALUES (NULL, 3132, 0, 'buddyboss_wall_like_notifier', 'new_wall_post_like_3132', '2017-08-21 19:17:17', 1) made by do_action('wp_ajax_activity_mark_fav'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, buddyboss_wall_mark_activity_favorite, bp_activity_add_user_favorite, do_action('bp_activity_add_user_favorite'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, BuddyBoss_Wall_Like_Notification->add_like_notification, bp_notifications_add_notification, BP_Notifications_Notification->save, BP_Notifications_Notification::_insert
+[24-Aug-2017 07:16:48 UTC] PHP Fatal error:  Switch statements may only contain one default clause in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php on line 2763
+[24-Aug-2017 08:11:19 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[24-Aug-2017 08:11:19 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[25-Aug-2017 14:23:14 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[25-Aug-2017 14:24:08 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[25-Aug-2017 14:25:39 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[25-Aug-2017 14:32:49 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[28-Aug-2017 06:32:52 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[28-Aug-2017 06:32:56 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[28-Aug-2017 06:40:42 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[28-Aug-2017 06:42:12 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[28-Aug-2017 06:43:41 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[28-Aug-2017 06:54:23 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[28-Aug-2017 06:54:27 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[28-Aug-2017 06:54:32 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[28-Aug-2017 06:54:45 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[28-Aug-2017 06:54:50 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[28-Aug-2017 06:54:53 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[28-Aug-2017 06:54:57 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[28-Aug-2017 06:55:01 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[28-Aug-2017 06:55:08 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[29-Aug-2017 06:02:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/buddyforms/includes/resources/freemius/includes/managers/class-fs-admin-menu-manager.php on line 471
+[29-Aug-2017 06:06:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/buddyforms/includes/resources/freemius/includes/managers/class-fs-admin-menu-manager.php on line 471
+[29-Aug-2017 10:09:19 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/ultimate-social-media-icons/views/sfsi_option_view7.php on line 214
+[29-Aug-2017 10:09:40 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/ultimate-social-media-icons/views/sfsi_option_view7.php on line 214
+[29-Aug-2017 12:11:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/ultimate-social-media-icons/views/sfsi_option_view7.php on line 214
+[29-Aug-2017 13:05:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/ultimate-social-media-icons/views/sfsi_option_view7.php on line 214
+[30-Aug-2017 06:16:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/ultimate-social-media-icons/views/sfsi_option_view7.php on line 214
+[30-Aug-2017 06:28:38 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/ultimate-social-media-icons/views/sfsi_option_view7.php on line 214
+[30-Aug-2017 07:32:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/buddystream/extensions/twitter/templates/AdminSettings.php on line 28
+[30-Aug-2017 07:37:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/buddystream/extensions/twitter/templates/AdminSettings.php on line 28
+[30-Aug-2017 07:42:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/buddystream/extensions/twitter/templates/AdminSettings.php on line 28
+[30-Aug-2017 07:42:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/buddystream/extensions/twitter/templates/AdminSettings.php on line 28
+[30-Aug-2017 08:15:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/buddystream/extensions/twitter/templates/AdminSettings.php on line 28
+[30-Aug-2017 15:50:40 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[31-Aug-2017 07:52:42 UTC] PHP Fatal error:  Cannot redeclare mm_landing_page() (previously declared in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php:3783) in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/mm-landing_page/mm-landing_page.php on line 9
+[31-Aug-2017 07:52:48 UTC] PHP Fatal error:  Cannot redeclare mm_landing_page() (previously declared in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php:3783) in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/mm-landing_page/mm-landing_page.php on line 9
+[31-Aug-2017 07:52:50 UTC] PHP Fatal error:  Cannot redeclare mm_landing_page() (previously declared in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php:3783) in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/mm-landing_page/mm-landing_page.php on line 9
+[31-Aug-2017 07:52:51 UTC] PHP Fatal error:  Cannot redeclare mm_landing_page() (previously declared in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php:3783) in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/mm-landing_page/mm-landing_page.php on line 9
+[31-Aug-2017 07:52:51 UTC] PHP Fatal error:  Cannot redeclare mm_landing_page() (previously declared in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php:3783) in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/mm-landing_page/mm-landing_page.php on line 9
+[31-Aug-2017 07:56:07 UTC] PHP Fatal error:  Cannot redeclare mm_landing_page() (previously declared in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php:3783) in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/mm-landing_page/mm-landing_page.php on line 9
+[31-Aug-2017 07:56:13 UTC] PHP Fatal error:  Cannot redeclare mm_landing_page() (previously declared in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php:3783) in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/mm-landing_page/mm-landing_page.php on line 9
+[31-Aug-2017 07:56:16 UTC] PHP Fatal error:  Cannot redeclare mm_landing_page() (previously declared in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php:3783) in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/mm-landing_page/mm-landing_page.php on line 9
+[31-Aug-2017 07:56:21 UTC] PHP Fatal error:  Cannot redeclare mm_landing_page() (previously declared in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php:3783) in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/mm-landing_page/mm-landing_page.php on line 9
+[31-Aug-2017 08:58:43 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/mm-landing_page/mm-landing_page.php on line 31
+[31-Aug-2017 08:58:45 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/mm-landing_page/mm-landing_page.php on line 31
+[31-Aug-2017 08:58:50 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/mm-landing_page/mm-landing_page.php on line 31
+[31-Aug-2017 08:58:52 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/mm-landing_page/mm-landing_page.php on line 31
+[31-Aug-2017 08:58:53 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/mm-landing_page/mm-landing_page.php on line 31
+[31-Aug-2017 08:58:55 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/mm-landing_page/mm-landing_page.php on line 31
+[31-Aug-2017 08:59:28 UTC] PHP Parse error:  syntax error, unexpected '-', expecting '(' in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/mm-landing_page/mm-landing_page.php on line 31
+[31-Aug-2017 11:05:34 UTC] PHP Fatal error:  Call to undefined function update_options() in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/mm-landing_page/mm-landing_page.php on line 56
+[31-Aug-2017 13:46:55 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/mm-landing_page/mm-landing_page.php on line 261
+[31-Aug-2017 13:47:08 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/mm-landing_page/mm-landing_page.php on line 261
+[31-Aug-2017 14:58:58 UTC] PHP Warning:  Illegal string offset 'address1' in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/wc-vendors-pro/admin/class-wcvendors-pro-shipping-controller.php on line 226
+[31-Aug-2017 14:58:58 UTC] PHP Warning:  Illegal string offset 'address2' in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/wc-vendors-pro/admin/class-wcvendors-pro-shipping-controller.php on line 232
+[31-Aug-2017 14:58:58 UTC] PHP Warning:  Illegal string offset 'city' in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/wc-vendors-pro/admin/class-wcvendors-pro-shipping-controller.php on line 238
+[31-Aug-2017 14:58:58 UTC] PHP Warning:  Illegal string offset 'postcode' in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/wc-vendors-pro/admin/class-wcvendors-pro-shipping-controller.php on line 244
+[31-Aug-2017 14:58:58 UTC] PHP Warning:  Illegal string offset 'country' in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/wc-vendors-pro/admin/class-wcvendors-pro-shipping-controller.php on line 253
+[31-Aug-2017 14:58:58 UTC] PHP Warning:  Illegal string offset 'state' in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/wc-vendors-pro/admin/class-wcvendors-pro-shipping-controller.php on line 260
+[31-Aug-2017 15:00:22 UTC] PHP Warning:  Illegal string offset 'address1' in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/wc-vendors-pro/admin/class-wcvendors-pro-shipping-controller.php on line 226
+[31-Aug-2017 15:00:22 UTC] PHP Warning:  Illegal string offset 'address2' in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/wc-vendors-pro/admin/class-wcvendors-pro-shipping-controller.php on line 232
+[31-Aug-2017 15:00:22 UTC] PHP Warning:  Illegal string offset 'city' in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/wc-vendors-pro/admin/class-wcvendors-pro-shipping-controller.php on line 238
+[31-Aug-2017 15:00:22 UTC] PHP Warning:  Illegal string offset 'postcode' in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/wc-vendors-pro/admin/class-wcvendors-pro-shipping-controller.php on line 244
+[31-Aug-2017 15:00:22 UTC] PHP Warning:  Illegal string offset 'country' in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/wc-vendors-pro/admin/class-wcvendors-pro-shipping-controller.php on line 253
+[31-Aug-2017 15:00:22 UTC] PHP Warning:  Illegal string offset 'state' in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/wc-vendors-pro/admin/class-wcvendors-pro-shipping-controller.php on line 260
+[31-Aug-2017 15:00:34 UTC] PHP Warning:  Illegal string offset 'address1' in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/wc-vendors-pro/admin/class-wcvendors-pro-shipping-controller.php on line 226
+[31-Aug-2017 15:00:34 UTC] PHP Warning:  Illegal string offset 'address2' in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/wc-vendors-pro/admin/class-wcvendors-pro-shipping-controller.php on line 232
+[31-Aug-2017 15:00:34 UTC] PHP Warning:  Illegal string offset 'city' in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/wc-vendors-pro/admin/class-wcvendors-pro-shipping-controller.php on line 238
+[31-Aug-2017 15:00:34 UTC] PHP Warning:  Illegal string offset 'postcode' in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/wc-vendors-pro/admin/class-wcvendors-pro-shipping-controller.php on line 244
+[31-Aug-2017 15:00:34 UTC] PHP Warning:  Illegal string offset 'country' in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/wc-vendors-pro/admin/class-wcvendors-pro-shipping-controller.php on line 253
+[31-Aug-2017 15:00:34 UTC] PHP Warning:  Illegal string offset 'state' in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/wc-vendors-pro/admin/class-wcvendors-pro-shipping-controller.php on line 260
+[05-Sep-2017 07:11:11 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/mm-landing_page/mm-landing_page.php on line 251
+[05-Sep-2017 07:11:13 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/mm-landing_page/mm-landing_page.php on line 251
+[06-Sep-2017 05:19:32 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[06-Sep-2017 06:12:45 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php on line 1881
+[06-Sep-2017 06:19:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php on line 752
+[06-Sep-2017 06:30:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php on line 1881
+[06-Sep-2017 06:31:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php on line 752
+[06-Sep-2017 06:33:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php on line 1881
+[06-Sep-2017 06:44:40 UTC] PHP Warning:  array_merge(): Argument #3 is not an array in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php on line 3792
+[07-Sep-2017 07:48:36 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[07-Sep-2017 09:24:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/mm-landing_page/mm-landing_page.php on line 433
+[08-Sep-2017 10:04:19 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[11-Sep-2017 10:58:48 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[12-Sep-2017 05:45:11 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[13-Sep-2017 07:45:09 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[13-Sep-2017 07:45:11 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[13-Sep-2017 07:49:46 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[13-Sep-2017 07:50:02 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[13-Sep-2017 07:56:12 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[13-Sep-2017 08:30:27 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[13-Sep-2017 09:54:26 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[13-Sep-2017 19:46:18 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[13-Sep-2017 19:58:33 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[13-Sep-2017 19:58:39 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[13-Sep-2017 19:59:15 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[13-Sep-2017 19:59:22 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[13-Sep-2017 20:00:52 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[13-Sep-2017 20:41:18 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[13-Sep-2017 20:44:45 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[13-Sep-2017 20:47:16 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[13-Sep-2017 20:54:34 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[13-Sep-2017 21:00:09 UTC] status was called incorrectly. Order properties should not be accessed directly. Backtrace: do_action('wp_ajax_woocommerce_mark_order_status'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_AJAX::mark_order_status, WC_Order->update_status, WC_Order->save, WC_Order->status_transition, do_action('woocommerce_order_status_completed'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, wc4bp_loader_purchase_activity, WC_Abstract_Legacy_Order->__get, wc_doing_it_wrong. This message was added in version 3.0.
+[13-Sep-2017 21:00:09 UTC] user_id was called incorrectly. Order properties should not be accessed directly. Backtrace: do_action('wp_ajax_woocommerce_mark_order_status'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_AJAX::mark_order_status, WC_Order->update_status, WC_Order->save, WC_Order->status_transition, do_action('woocommerce_order_status_completed'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, wc4bp_loader_purchase_activity, WC_Abstract_Legacy_Order->__get, wc_doing_it_wrong. This message was added in version 3.0.
+[13-Sep-2017 21:00:09 UTC] customer_user was called incorrectly. Order properties should not be accessed directly. Backtrace: do_action('wp_ajax_woocommerce_mark_order_status'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_AJAX::mark_order_status, WC_Order->update_status, WC_Order->save, WC_Order->status_transition, do_action('woocommerce_order_status_completed'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, wc4bp_loader_purchase_activity, WC_Abstract_Legacy_Order->__get, wc_doing_it_wrong. This message was added in version 3.0.
+[13-Sep-2017 21:00:09 UTC] customer_user was called incorrectly. Order properties should not be accessed directly. Backtrace: do_action('wp_ajax_woocommerce_mark_order_status'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_AJAX::mark_order_status, WC_Order->update_status, WC_Order->save, WC_Order->status_transition, do_action('woocommerce_order_status_completed'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, wc4bp_loader_purchase_activity, WC_Abstract_Legacy_Order->__get, wc_doing_it_wrong. This message was added in version 3.0.
+[13-Sep-2017 21:00:09 UTC] user_id was called incorrectly. Order properties should not be accessed directly. Backtrace: do_action('wp_ajax_woocommerce_mark_order_status'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_AJAX::mark_order_status, WC_Order->update_status, WC_Order->save, WC_Order->status_transition, do_action('woocommerce_order_status_completed'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, wc4bp_loader_purchase_activity, WC_Abstract_Legacy_Order->__get, wc_doing_it_wrong. This message was added in version 3.0.
+[13-Sep-2017 21:00:17 UTC] status was called incorrectly. Order properties should not be accessed directly. Backtrace: do_action('wp_ajax_woocommerce_mark_order_status'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_AJAX::mark_order_status, WC_Order->update_status, WC_Order->save, WC_Order->status_transition, do_action('woocommerce_order_status_completed'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, wc4bp_loader_purchase_activity, WC_Abstract_Legacy_Order->__get, wc_doing_it_wrong. This message was added in version 3.0.
+[13-Sep-2017 21:00:17 UTC] user_id was called incorrectly. Order properties should not be accessed directly. Backtrace: do_action('wp_ajax_woocommerce_mark_order_status'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_AJAX::mark_order_status, WC_Order->update_status, WC_Order->save, WC_Order->status_transition, do_action('woocommerce_order_status_completed'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, wc4bp_loader_purchase_activity, WC_Abstract_Legacy_Order->__get, wc_doing_it_wrong. This message was added in version 3.0.
+[13-Sep-2017 21:00:17 UTC] customer_user was called incorrectly. Order properties should not be accessed directly. Backtrace: do_action('wp_ajax_woocommerce_mark_order_status'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_AJAX::mark_order_status, WC_Order->update_status, WC_Order->save, WC_Order->status_transition, do_action('woocommerce_order_status_completed'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, wc4bp_loader_purchase_activity, WC_Abstract_Legacy_Order->__get, wc_doing_it_wrong. This message was added in version 3.0.
+[13-Sep-2017 21:00:17 UTC] customer_user was called incorrectly. Order properties should not be accessed directly. Backtrace: do_action('wp_ajax_woocommerce_mark_order_status'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_AJAX::mark_order_status, WC_Order->update_status, WC_Order->save, WC_Order->status_transition, do_action('woocommerce_order_status_completed'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, wc4bp_loader_purchase_activity, WC_Abstract_Legacy_Order->__get, wc_doing_it_wrong. This message was added in version 3.0.
+[13-Sep-2017 21:00:17 UTC] user_id was called incorrectly. Order properties should not be accessed directly. Backtrace: do_action('wp_ajax_woocommerce_mark_order_status'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_AJAX::mark_order_status, WC_Order->update_status, WC_Order->save, WC_Order->status_transition, do_action('woocommerce_order_status_completed'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, wc4bp_loader_purchase_activity, WC_Abstract_Legacy_Order->__get, wc_doing_it_wrong. This message was added in version 3.0.
+[13-Sep-2017 21:42:33 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[13-Sep-2017 22:24:32 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[13-Sep-2017 22:42:06 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[13-Sep-2017 22:43:31 UTC] status was called incorrectly. Order properties should not be accessed directly. Backtrace: do_action('wp_ajax_woocommerce_mark_order_status'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_AJAX::mark_order_status, WC_Order->update_status, WC_Order->save, WC_Order->status_transition, do_action('woocommerce_order_status_completed'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, wc4bp_loader_purchase_activity, WC_Abstract_Legacy_Order->__get, wc_doing_it_wrong. This message was added in version 3.0.
+[13-Sep-2017 22:43:31 UTC] user_id was called incorrectly. Order properties should not be accessed directly. Backtrace: do_action('wp_ajax_woocommerce_mark_order_status'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_AJAX::mark_order_status, WC_Order->update_status, WC_Order->save, WC_Order->status_transition, do_action('woocommerce_order_status_completed'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, wc4bp_loader_purchase_activity, WC_Abstract_Legacy_Order->__get, wc_doing_it_wrong. This message was added in version 3.0.
+[13-Sep-2017 22:43:31 UTC] customer_user was called incorrectly. Order properties should not be accessed directly. Backtrace: do_action('wp_ajax_woocommerce_mark_order_status'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_AJAX::mark_order_status, WC_Order->update_status, WC_Order->save, WC_Order->status_transition, do_action('woocommerce_order_status_completed'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, wc4bp_loader_purchase_activity, WC_Abstract_Legacy_Order->__get, wc_doing_it_wrong. This message was added in version 3.0.
+[13-Sep-2017 22:43:31 UTC] customer_user was called incorrectly. Order properties should not be accessed directly. Backtrace: do_action('wp_ajax_woocommerce_mark_order_status'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_AJAX::mark_order_status, WC_Order->update_status, WC_Order->save, WC_Order->status_transition, do_action('woocommerce_order_status_completed'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, wc4bp_loader_purchase_activity, WC_Abstract_Legacy_Order->__get, wc_doing_it_wrong. This message was added in version 3.0.
+[13-Sep-2017 22:43:31 UTC] user_id was called incorrectly. Order properties should not be accessed directly. Backtrace: do_action('wp_ajax_woocommerce_mark_order_status'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WC_AJAX::mark_order_status, WC_Order->update_status, WC_Order->save, WC_Order->status_transition, do_action('woocommerce_order_status_completed'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, wc4bp_loader_purchase_activity, WC_Abstract_Legacy_Order->__get, wc_doing_it_wrong. This message was added in version 3.0.
+[14-Sep-2017 06:31:13 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/buddypress/members/members-loop.php on line 124
+[14-Sep-2017 06:53:56 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[14-Sep-2017 06:59:39 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[14-Sep-2017 06:59:45 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[14-Sep-2017 08:08:31 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[14-Sep-2017 08:08:40 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[14-Sep-2017 08:08:47 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[14-Sep-2017 11:45:57 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[14-Sep-2017 12:04:03 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[15-Sep-2017 12:06:59 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[15-Sep-2017 12:32:59 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[15-Sep-2017 12:42:24 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[15-Sep-2017 12:42:32 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[15-Sep-2017 12:51:03 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[15-Sep-2017 13:03:35 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[15-Sep-2017 13:03:53 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[15-Sep-2017 13:19:00 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[15-Sep-2017 13:19:10 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[15-Sep-2017 13:20:09 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[15-Sep-2017 13:21:25 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[15-Sep-2017 13:26:57 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[16-Sep-2017 06:05:20 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[16-Sep-2017 06:05:51 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[16-Sep-2017 06:05:57 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[16-Sep-2017 06:08:40 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/ultimate-social-media-icons/views/sfsi_option_view7.php on line 214
+[16-Sep-2017 06:16:59 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/ultimate-social-media-icons/views/sfsi_option_view7.php on line 214
+[16-Sep-2017 06:17:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/ultimate-social-media-icons/views/sfsi_option_view7.php on line 214
+[16-Sep-2017 06:43:24 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[16-Sep-2017 06:43:34 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[16-Sep-2017 06:43:41 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[16-Sep-2017 06:43:49 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[16-Sep-2017 06:44:46 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[16-Sep-2017 06:52:22 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[16-Sep-2017 06:52:31 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[16-Sep-2017 07:10:45 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[16-Sep-2017 07:10:54 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[16-Sep-2017 07:11:33 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[16-Sep-2017 12:35:10 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 for query  SELECT name FROM wp_workout_muscles WHERE id IN() made by do_action('toplevel_page_workouts'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, exercises_page_handler, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, call_user_func, Exercises->column_muscles_secondary, Exercises->get_muscle_name
+[16-Sep-2017 12:35:10 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 for query  SELECT name FROM wp_workout_muscles WHERE id IN() made by do_action('toplevel_page_workouts'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, exercises_page_handler, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, call_user_func, Exercises->column_muscles_secondary, Exercises->get_muscle_name
+[16-Sep-2017 12:35:10 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 for query  SELECT name FROM wp_workout_muscles WHERE id IN() made by do_action('toplevel_page_workouts'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, exercises_page_handler, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, call_user_func, Exercises->column_muscles_secondary, Exercises->get_muscle_name
+[16-Sep-2017 12:35:10 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 for query  SELECT name FROM wp_workout_muscles WHERE id IN() made by do_action('toplevel_page_workouts'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, exercises_page_handler, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, call_user_func, Exercises->column_muscles_secondary, Exercises->get_muscle_name
+[16-Sep-2017 12:35:10 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 for query  SELECT name FROM wp_workout_muscles WHERE id IN() made by do_action('toplevel_page_workouts'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, exercises_page_handler, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, call_user_func, Exercises->column_muscles_secondary, Exercises->get_muscle_name
+[16-Sep-2017 12:35:10 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 for query  SELECT name FROM wp_workout_muscles WHERE id IN() made by do_action('toplevel_page_workouts'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, exercises_page_handler, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, call_user_func, Exercises->column_muscles_secondary, Exercises->get_muscle_name
+[16-Sep-2017 12:35:10 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 for query  SELECT name FROM wp_workout_muscles WHERE id IN() made by do_action('toplevel_page_workouts'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, exercises_page_handler, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, call_user_func, Exercises->column_muscles_secondary, Exercises->get_muscle_name
+[16-Sep-2017 12:35:10 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 for query  SELECT name FROM wp_workout_muscles WHERE id IN() made by do_action('toplevel_page_workouts'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, exercises_page_handler, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, call_user_func, Exercises->column_muscles_secondary, Exercises->get_muscle_name
+[16-Sep-2017 12:35:10 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 for query  SELECT name FROM wp_workout_muscles WHERE id IN() made by do_action('toplevel_page_workouts'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, exercises_page_handler, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, call_user_func, Exercises->column_muscles_secondary, Exercises->get_muscle_name
+[16-Sep-2017 12:35:38 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 for query  SELECT name FROM wp_workout_muscles WHERE id IN() made by do_action('workouts_page_exercises'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, exercises_page_handler, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, call_user_func, Exercises->column_muscles_secondary, Exercises->get_muscle_name
+[16-Sep-2017 12:35:38 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 for query  SELECT name FROM wp_workout_muscles WHERE id IN() made by do_action('workouts_page_exercises'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, exercises_page_handler, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, call_user_func, Exercises->column_muscles_secondary, Exercises->get_muscle_name
+[16-Sep-2017 12:35:38 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 for query  SELECT name FROM wp_workout_muscles WHERE id IN() made by do_action('workouts_page_exercises'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, exercises_page_handler, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, call_user_func, Exercises->column_muscles_secondary, Exercises->get_muscle_name
+[16-Sep-2017 12:35:38 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 for query  SELECT name FROM wp_workout_muscles WHERE id IN() made by do_action('workouts_page_exercises'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, exercises_page_handler, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, call_user_func, Exercises->column_muscles_secondary, Exercises->get_muscle_name
+[16-Sep-2017 12:35:38 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 for query  SELECT name FROM wp_workout_muscles WHERE id IN() made by do_action('workouts_page_exercises'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, exercises_page_handler, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, call_user_func, Exercises->column_muscles_secondary, Exercises->get_muscle_name
+[16-Sep-2017 12:35:38 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 for query  SELECT name FROM wp_workout_muscles WHERE id IN() made by do_action('workouts_page_exercises'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, exercises_page_handler, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, call_user_func, Exercises->column_muscles_secondary, Exercises->get_muscle_name
+[16-Sep-2017 12:35:38 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 for query  SELECT name FROM wp_workout_muscles WHERE id IN() made by do_action('workouts_page_exercises'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, exercises_page_handler, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, call_user_func, Exercises->column_muscles_secondary, Exercises->get_muscle_name
+[16-Sep-2017 12:35:38 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 for query  SELECT name FROM wp_workout_muscles WHERE id IN() made by do_action('workouts_page_exercises'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, exercises_page_handler, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, call_user_func, Exercises->column_muscles_secondary, Exercises->get_muscle_name
+[16-Sep-2017 12:35:38 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 for query  SELECT name FROM wp_workout_muscles WHERE id IN() made by do_action('workouts_page_exercises'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, exercises_page_handler, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, call_user_func, Exercises->column_muscles_secondary, Exercises->get_muscle_name
+[16-Sep-2017 12:41:29 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[19-Sep-2017 09:33:26 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[19-Sep-2017 16:09:21 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[19-Sep-2017 16:13:46 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[19-Sep-2017 16:13:56 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[20-Sep-2017 05:07:08 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[20-Sep-2017 06:58:00 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 for query  SELECT name FROM wp_workout_muscles WHERE id IN() made by do_action('toplevel_page_workouts'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, exercises_page_handler, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, call_user_func, Exercises->column_muscles_secondary, Exercises->get_muscle_name
+[20-Sep-2017 06:58:00 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 for query  SELECT name FROM wp_workout_muscles WHERE id IN() made by do_action('toplevel_page_workouts'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, exercises_page_handler, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, call_user_func, Exercises->column_muscles_secondary, Exercises->get_muscle_name
+[20-Sep-2017 06:58:00 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 for query  SELECT name FROM wp_workout_muscles WHERE id IN() made by do_action('toplevel_page_workouts'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, exercises_page_handler, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, call_user_func, Exercises->column_muscles_secondary, Exercises->get_muscle_name
+[20-Sep-2017 06:58:00 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 for query  SELECT name FROM wp_workout_muscles WHERE id IN() made by do_action('toplevel_page_workouts'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, exercises_page_handler, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, call_user_func, Exercises->column_muscles_secondary, Exercises->get_muscle_name
+[20-Sep-2017 06:58:00 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 for query  SELECT name FROM wp_workout_muscles WHERE id IN() made by do_action('toplevel_page_workouts'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, exercises_page_handler, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, call_user_func, Exercises->column_muscles_secondary, Exercises->get_muscle_name
+[20-Sep-2017 06:58:00 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 for query  SELECT name FROM wp_workout_muscles WHERE id IN() made by do_action('toplevel_page_workouts'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, exercises_page_handler, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, call_user_func, Exercises->column_muscles_secondary, Exercises->get_muscle_name
+[20-Sep-2017 06:58:00 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 for query  SELECT name FROM wp_workout_muscles WHERE id IN() made by do_action('toplevel_page_workouts'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, exercises_page_handler, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, call_user_func, Exercises->column_muscles_secondary, Exercises->get_muscle_name
+[20-Sep-2017 06:58:00 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 for query  SELECT name FROM wp_workout_muscles WHERE id IN() made by do_action('toplevel_page_workouts'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, exercises_page_handler, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, call_user_func, Exercises->column_muscles_secondary, Exercises->get_muscle_name
+[20-Sep-2017 06:58:00 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1 for query  SELECT name FROM wp_workout_muscles WHERE id IN() made by do_action('toplevel_page_workouts'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, exercises_page_handler, WP_List_Table->display, WP_List_Table->display_rows_or_placeholder, WP_List_Table->display_rows, WP_List_Table->single_row, WP_List_Table->single_row_columns, call_user_func, Exercises->column_muscles_secondary, Exercises->get_muscle_name
+[20-Sep-2017 07:32:09 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[20-Sep-2017 07:32:16 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[20-Sep-2017 07:51:54 UTC] PHP Warning:  array_filter() expects parameter 1 to be array, null given in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/taghound-media-tagger/lib/class-clarifai-api-usage.php on line 80
+[20-Sep-2017 07:51:54 UTC] PHP Warning:  array_filter() expects parameter 1 to be array, null given in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/taghound-media-tagger/lib/class-clarifai-api-usage.php on line 80
+[20-Sep-2017 07:53:05 UTC] PHP Warning:  array_filter() expects parameter 1 to be array, null given in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/taghound-media-tagger/lib/class-clarifai-api-usage.php on line 80
+[20-Sep-2017 07:53:05 UTC] PHP Warning:  array_filter() expects parameter 1 to be array, null given in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/taghound-media-tagger/lib/class-clarifai-api-usage.php on line 80
+[20-Sep-2017 07:59:43 UTC] PHP Warning:  array_filter() expects parameter 1 to be array, null given in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/taghound-media-tagger/lib/class-clarifai-api-usage.php on line 80
+[20-Sep-2017 07:59:43 UTC] PHP Warning:  array_filter() expects parameter 1 to be array, null given in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/taghound-media-tagger/lib/class-clarifai-api-usage.php on line 80
+[20-Sep-2017 08:23:51 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[20-Sep-2017 08:25:59 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[20-Sep-2017 08:26:14 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[20-Sep-2017 08:29:46 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[20-Sep-2017 08:29:53 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[20-Sep-2017 08:29:58 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[20-Sep-2017 09:44:15 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[20-Sep-2017 09:44:23 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[20-Sep-2017 09:44:26 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[20-Sep-2017 10:12:04 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[20-Sep-2017 10:12:22 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[20-Sep-2017 10:12:28 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[20-Sep-2017 10:48:56 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[20-Sep-2017 10:53:22 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[20-Sep-2017 11:01:12 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[20-Sep-2017 11:01:12 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[20-Sep-2017 11:01:47 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[20-Sep-2017 11:06:44 UTC] PHP Warning:  array_filter() expects parameter 1 to be array, null given in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/taghound-media-tagger/lib/class-clarifai-api-usage.php on line 80
+[20-Sep-2017 11:06:44 UTC] PHP Warning:  array_filter() expects parameter 1 to be array, null given in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/taghound-media-tagger/lib/class-clarifai-api-usage.php on line 80
+[20-Sep-2017 11:18:12 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[20-Sep-2017 11:31:30 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[20-Sep-2017 11:34:10 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[20-Sep-2017 11:34:34 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[20-Sep-2017 11:36:02 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[20-Sep-2017 11:36:15 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[20-Sep-2017 11:36:21 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[20-Sep-2017 11:43:46 UTC] PHP Warning:  Illegal string offset 'address1' in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/wc-vendors-pro/admin/class-wcvendors-pro-shipping-controller.php on line 226
+[20-Sep-2017 11:43:46 UTC] PHP Warning:  Illegal string offset 'address2' in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/wc-vendors-pro/admin/class-wcvendors-pro-shipping-controller.php on line 232
+[20-Sep-2017 11:43:46 UTC] PHP Warning:  Illegal string offset 'city' in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/wc-vendors-pro/admin/class-wcvendors-pro-shipping-controller.php on line 238
+[20-Sep-2017 11:43:46 UTC] PHP Warning:  Illegal string offset 'postcode' in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/wc-vendors-pro/admin/class-wcvendors-pro-shipping-controller.php on line 244
+[20-Sep-2017 11:43:46 UTC] PHP Warning:  Illegal string offset 'country' in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/wc-vendors-pro/admin/class-wcvendors-pro-shipping-controller.php on line 253
+[20-Sep-2017 11:43:46 UTC] PHP Warning:  Illegal string offset 'state' in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/wc-vendors-pro/admin/class-wcvendors-pro-shipping-controller.php on line 260
+[20-Sep-2017 12:49:13 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[20-Sep-2017 13:35:21 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php on line 140
+[20-Sep-2017 19:55:03 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[20-Sep-2017 20:03:55 UTC] WordPress database error Duplicate entry 'hash_value' for key 'option_name' for query INSERT INTO `wp_options` (`option_name`, `option_value`) VALUES ('hash_value', '81d385f66be2f4671a191d90ef454bb8') made by include('/plugins/cometchat/cometchatinstall.php'), fileUpload
+[20-Sep-2017 20:43:05 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[21-Sep-2017 04:44:17 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[21-Sep-2017 05:41:15 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[21-Sep-2017 06:02:17 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[21-Sep-2017 06:02:25 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[21-Sep-2017 06:03:14 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[21-Sep-2017 06:03:20 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[21-Sep-2017 06:11:58 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[21-Sep-2017 06:12:05 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[21-Sep-2017 06:16:20 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[21-Sep-2017 07:17:29 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[21-Sep-2017 07:18:57 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[21-Sep-2017 07:19:04 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[21-Sep-2017 07:40:45 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[21-Sep-2017 07:40:52 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[21-Sep-2017 07:42:20 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[21-Sep-2017 07:42:27 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[21-Sep-2017 07:45:20 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[21-Sep-2017 09:45:28 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[21-Sep-2017 10:06:47 UTC] PHP Warning:  Illegal string offset 'address1' in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/wc-vendors-pro/admin/class-wcvendors-pro-shipping-controller.php on line 226
+[21-Sep-2017 10:06:47 UTC] PHP Warning:  Illegal string offset 'address2' in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/wc-vendors-pro/admin/class-wcvendors-pro-shipping-controller.php on line 232
+[21-Sep-2017 10:06:47 UTC] PHP Warning:  Illegal string offset 'city' in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/wc-vendors-pro/admin/class-wcvendors-pro-shipping-controller.php on line 238
+[21-Sep-2017 10:06:47 UTC] PHP Warning:  Illegal string offset 'postcode' in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/wc-vendors-pro/admin/class-wcvendors-pro-shipping-controller.php on line 244
+[21-Sep-2017 10:06:47 UTC] PHP Warning:  Illegal string offset 'country' in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/wc-vendors-pro/admin/class-wcvendors-pro-shipping-controller.php on line 253
+[21-Sep-2017 10:06:47 UTC] PHP Warning:  Illegal string offset 'state' in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/wc-vendors-pro/admin/class-wcvendors-pro-shipping-controller.php on line 260
+[21-Sep-2017 10:07:28 UTC] PHP Warning:  Illegal string offset 'address1' in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/wc-vendors-pro/admin/class-wcvendors-pro-shipping-controller.php on line 226
+[21-Sep-2017 10:07:28 UTC] PHP Warning:  Illegal string offset 'address2' in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/wc-vendors-pro/admin/class-wcvendors-pro-shipping-controller.php on line 232
+[21-Sep-2017 10:07:28 UTC] PHP Warning:  Illegal string offset 'city' in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/wc-vendors-pro/admin/class-wcvendors-pro-shipping-controller.php on line 238
+[21-Sep-2017 10:07:28 UTC] PHP Warning:  Illegal string offset 'postcode' in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/wc-vendors-pro/admin/class-wcvendors-pro-shipping-controller.php on line 244
+[21-Sep-2017 10:07:28 UTC] PHP Warning:  Illegal string offset 'country' in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/wc-vendors-pro/admin/class-wcvendors-pro-shipping-controller.php on line 253
+[21-Sep-2017 10:07:28 UTC] PHP Warning:  Illegal string offset 'state' in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/wc-vendors-pro/admin/class-wcvendors-pro-shipping-controller.php on line 260
+[21-Sep-2017 10:11:12 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[21-Sep-2017 10:20:38 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[21-Sep-2017 10:20:44 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[21-Sep-2017 10:43:02 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE vendor_id = '1758'' at line 4 for query SELECT COUNT(id) FROM wp_pv_commission 
+				WHERE status = 'paid'
+				 
+				WHERE vendor_id = '1758'
+				 made by do_action('woocommerce_page_pv_admin_commissions'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Admin_Setup::commissions_page, WCV_Admin_Page->prepare_items
+[21-Sep-2017 10:43:02 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE vendor_id = '1758'
+				
+			ORDER BY `time` DESC
+			LIMIT 0, 10' at line 5 for query 
+			SELECT * FROM wp_pv_commission
+		 
+				WHERE status = 'paid'
+				 
+				WHERE vendor_id = '1758'
+				
+			ORDER BY `time` DESC
+			LIMIT 0, 10
+		 made by do_action('woocommerce_page_pv_admin_commissions'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WCV_Admin_Setup::commissions_page, WCV_Admin_Page->prepare_items
+[21-Sep-2017 13:06:25 UTC] PHP Warning:  array_filter() expects parameter 1 to be array, null given in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/taghound-media-tagger/lib/class-clarifai-api-usage.php on line 80
+[21-Sep-2017 13:06:25 UTC] PHP Warning:  array_filter() expects parameter 1 to be array, null given in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/taghound-media-tagger/lib/class-clarifai-api-usage.php on line 80
+[21-Sep-2017 13:06:44 UTC] PHP Warning:  array_filter() expects parameter 1 to be array, null given in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/taghound-media-tagger/lib/class-clarifai-api-usage.php on line 80
+[21-Sep-2017 13:06:44 UTC] PHP Warning:  array_filter() expects parameter 1 to be array, null given in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/taghound-media-tagger/lib/class-clarifai-api-usage.php on line 80
+[22-Sep-2017 04:34:02 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[22-Sep-2017 04:40:52 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[22-Sep-2017 05:21:47 UTC] PHP Warning:  array_filter() expects parameter 1 to be array, null given in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/taghound-media-tagger/lib/class-clarifai-api-usage.php on line 80
+[22-Sep-2017 05:21:47 UTC] PHP Warning:  array_filter() expects parameter 1 to be array, null given in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/taghound-media-tagger/lib/class-clarifai-api-usage.php on line 80
+[22-Sep-2017 05:36:48 UTC] PHP Warning:  array_filter() expects parameter 1 to be array, null given in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/taghound-media-tagger/lib/class-clarifai-api-usage.php on line 80
+[22-Sep-2017 05:36:48 UTC] PHP Warning:  array_filter() expects parameter 1 to be array, null given in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/taghound-media-tagger/lib/class-clarifai-api-usage.php on line 80
+[22-Sep-2017 05:48:03 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[22-Sep-2017 06:08:32 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[22-Sep-2017 11:17:16 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[22-Sep-2017 11:18:31 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[22-Sep-2017 11:20:28 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[22-Sep-2017 12:29:20 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[22-Sep-2017 12:29:31 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[23-Sep-2017 05:16:19 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[23-Sep-2017 08:01:43 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[23-Sep-2017 11:15:10 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[26-Sep-2017 06:00:26 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[26-Sep-2017 07:02:45 UTC] The The "add_to_cart_fragments" hook uses out of date data structures and function is deprecated since version 3.1.1. Replace with woocommerce_add_to_cart_fragments.
+[26-Sep-2017 07:12:23 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[26-Sep-2017 07:12:23 UTC] PHP Fatal error:  Cannot redeclare remove_nofollow() (previously declared in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php:3787) in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/remove-nofollow/remove-nofollow.php on line 29
+[26-Sep-2017 07:12:30 UTC] PHP Fatal error:  Cannot redeclare remove_nofollow() (previously declared in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php:3787) in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/remove-nofollow/remove-nofollow.php on line 29
+[26-Sep-2017 07:12:32 UTC] PHP Fatal error:  Cannot redeclare remove_nofollow() (previously declared in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php:3787) in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/remove-nofollow/remove-nofollow.php on line 29
+[26-Sep-2017 07:16:06 UTC] PHP Fatal error:  Cannot redeclare remove_nofollow() (previously declared in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php:3787) in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/remove-nofollow/remove-nofollow.php on line 29
+[26-Sep-2017 07:16:11 UTC] PHP Fatal error:  Cannot redeclare remove_nofollow() (previously declared in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php:3787) in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/remove-nofollow/remove-nofollow.php on line 29
+[26-Sep-2017 07:16:12 UTC] PHP Fatal error:  Cannot redeclare remove_nofollow() (previously declared in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php:3787) in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/remove-nofollow/remove-nofollow.php on line 29
+[26-Sep-2017 07:18:03 UTC] PHP Fatal error:  Cannot redeclare remove_nofollow() (previously declared in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php:3787) in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/remove-nofollow/remove-nofollow.php on line 29
+[26-Sep-2017 07:18:08 UTC] PHP Fatal error:  Cannot redeclare remove_nofollow() (previously declared in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php:3787) in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/remove-nofollow/remove-nofollow.php on line 29
+[26-Sep-2017 07:18:09 UTC] PHP Fatal error:  Cannot redeclare remove_nofollow() (previously declared in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/themes/boss-child/functions.php:3787) in /home/mirrorm0/public_html/mirrormuscles.com/wp-content/plugins/remove-nofollow/remove-nofollow.php on line 29
+[26-Sep-2017 09:58:40 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[26-Sep-2017 10:09:48 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[26-Sep-2017 10:12:51 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[26-Sep-2017 10:17:01 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[27-Sep-2017 07:29:29 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[29-Sep-2017 04:39:12 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[29-Sep-2017 04:53:14 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
+[29-Sep-2017 05:12:00 UTC] stdClass Object
+(
+    [id] => 6711
+    [slug] => wc-vendors-pro
+    [plugin] => wc-vendors-pro
+    [version] => 1.4.4
+    [url] => https://www.wcvendors.com/product/wc-vendors-pro/
+    [new_version] => 1.4.5
+    [package] => https://www.wcvendors.com/?download_file=9478&order=wc_order_59521cfb46247&email=stuartwhipps%40yahoo.com&key=0daf5266aae7d836b7a43f30dd5537df
+    [sections] => Array
+        (
+        )
+
+)
+
