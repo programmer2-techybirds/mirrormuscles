@@ -405,7 +405,7 @@ if( have_rows('testimoinials',options) ){
 				</div>
 				</div>
 				<div class="landing col-md-12" id="landing_main">
-					<div id="main_landing"><h2 class="landing-tital" align="center"><?php echo $all_home_content['main_title'];  ?> 123</h2></div>
+					<div id="main_landing"><h2 class="landing-tital" align="center"><?php echo $all_home_content['main_title'];  ?></h2></div>
 					<div class="col-md-4">
 						<div class="col-md-12" id="go_individual">
 							<img class="main-img img-responsive" src="<?php echo $all_home_content['individual_img'];  ?>" alt="" height="300" width="400">
