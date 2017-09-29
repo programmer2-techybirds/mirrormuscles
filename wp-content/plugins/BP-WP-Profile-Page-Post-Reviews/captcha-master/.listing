@@ -1,0 +1,12 @@
+drwxr-xr-x   3 muscles  muscles      4096 Jul 30  2015 .
+drwxr-xr-x   8 muscles  muscles      4096 Jul 30  2015 ..
+-rw-r--r--   1 muscles  muscles       466 Jul 30  2015 CaptchaBuilderInterface.php
+-rw-r--r--   1 muscles  muscles     18381 Jul 30  2015 CaptchaBuilder.php
+-rw-r--r--   1 muscles  muscles       711 Jul 30  2015 composer.json
+drwxr-xr-x   2 muscles  muscles      4096 Jul 30  2015 Font
+-rw-r--r--   1 muscles  muscles        33 Jul 30  2015 .gitignore
+-rw-r--r--   1 muscles  muscles      2428 Jul 30  2015 ImageFileHandler.php
+-rw-r--r--   1 muscles  muscles      1069 Jul 30  2015 LICENSE
+-rw-r--r--   1 muscles  muscles       365 Jul 30  2015 PhraseBuilderInterface.php
+-rw-r--r--   1 muscles  muscles       685 Jul 30  2015 PhraseBuilder.php
+-rw-r--r--   1 muscles  muscles      3130 Jul 30  2015 README.md

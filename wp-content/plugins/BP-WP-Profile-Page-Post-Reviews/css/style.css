@@ -1,0 +1,77 @@
+.prorevs_user_list img.avatar {
+    display: block;
+    float: left;
+    margin-top: 3px;
+}
+
+.prorevs_user_list_item {
+    height: 60px;
+    clear: both;
+}
+
+.prorevs_user_list_number {
+    float: left;
+    line-height: 60px;
+    font-size: 150%;
+    font-weight: bold;
+    /* width: 20px; */
+    padding-right: 5px;
+    text-align: right;
+}
+
+.prorevs_user_list_info {
+    float: left;
+    margin-left: 5px;
+    margin-top: 2px;
+}
+
+.prorevs_user_list_reviews {
+    font-size: 80%;
+}
+
+.prorevs_user_list_name,
+.prorevs_user_list_name:visited {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.prorevs-report-form {
+    display: inline-block;
+    border: 1px solid #bbb;
+    padding: 3px 10px;
+}
+.rating-top {
+    float: left;
+    width: 372px;
+    padding-bottom: 5px;
+    position: relative;
+    height: 25px;
+}
+.user-details input[type=text],.user-details input[type=email]{
+    padding: 5px 10px;
+    border: 1px solid #e9e9e9;
+    background-color: #fefefe;
+    line-height: 20px;
+    -webkit-transition: border-color .3s ease-in-out, background-color .3s ease-in-out;
+    -moz-transition: border-color .3s ease-in-out, background-color .3s ease-in-out;
+    -ms-transition: border-color .3s ease-in-out, background-color .3s ease-in-out;
+    -o-transition: border-color .3s ease-in-out, background-color .3s ease-in-out;
+    transition: border-color .3s ease-in-out, background-color .3s ease-in-out;
+    width: 158px;
+    height: 30px;
+}
+.user-details {
+    text-align: right;
+}
+.required{
+    color: red;
+}
+.user-details img{
+    border: 1px solid;
+}
+span.unconfirmed {
+    color: red;
+}
+
+/* Hide "Why not be the first to write one" message if not logged in */
+.bp-reviews-message { display: none !important; }

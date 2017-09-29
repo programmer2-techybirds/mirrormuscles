@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mass Messaging for Buddypress - by Alkaweb\n"
+"POT-Creation-Date: 2016-10-26 12:03+0200\n"
+"PO-Revision-Date: 2016-10-26 12:04+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: alkaweb-mass-messaging-for-buddypress.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: alkaweb-mass-messaging-for-buddypress.php:113
+msgid "Subject"
+msgstr "Oggetto"
+
+#: alkaweb-mass-messaging-for-buddypress.php:114
+msgid "Content"
+msgstr "Contenuto"
+
+#: alkaweb-mass-messaging-for-buddypress.php:116
+msgid "Receivers"
+msgstr "Destinatari"
+
+#: alkaweb-mass-messaging-for-buddypress.php:118
+#: alkaweb-mass-messaging-for-buddypress.php:119
+msgid "All"
+msgstr "Tutti"
+
+#: alkaweb-mass-messaging-for-buddypress.php:122
+msgid "Groups"
+msgstr "Gruppi"
+
+#: alkaweb-mass-messaging-for-buddypress.php:133
+msgid "Groups component is not active."
+msgstr "Il componenete \"Gruppi\" non è attivo."
+
+#: alkaweb-mass-messaging-for-buddypress.php:138
+msgid "Roles"
+msgstr "Ruoli"
+
+#: alkaweb-mass-messaging-for-buddypress.php:154
+msgid "Send Messages"
+msgstr "Invia Messaggi"
+
+#: alkaweb-mass-messaging-for-buddypress.php:159
+#, php-format
+msgid ""
+"Did you find this plugin useful? Please let us know <a href=\"%s\" target="
+"\"_blank\">here</a>."
+msgstr ""
+"Questo plugin ti è stato utile? Per favore faccielo sapere <a href=\"%s\" "
+"target=\"_blank\">qui</a>."
+
+#: alkaweb-mass-messaging-for-buddypress.php:165
+#, php-format
+msgid ""
+"Please activate the <a href=\"%s\">BuddyPress private messaging component</"
+"a> in order to use this plugin"
+msgstr ""
+"Per favore, attiva il componente <a href=\"%s\">BuddyPress messaggi privati</"
+"a> per poter far funzionare questo plugin"
+
+#: alkaweb-mass-messaging-for-buddypress.php:188
+msgid "Please fill Subject and Content fields"
+msgstr "L'oggetto e il contenuto del messaggio sono obbligatori"
+
+#: alkaweb-mass-messaging-for-buddypress.php:233
+#, php-format
+msgid "%s message sent succesfully"
+msgid_plural "%s messages sent succesfully"
+msgstr[0] "%s messaggio inviato correttamente"
+msgstr[1] "%s messaggi inviati correttamente"
+
+#: alkaweb-mass-messaging-for-buddypress.php:235
+msgid "An error occurred, please try again"
+msgstr "Si è verificato un errore, per favore prova di nuovo"
+
+#: alkaweb-mass-messaging-for-buddypress.php:250
+msgid "Send as a private message to all users."
+msgstr "Invia come messaggio privato a tutti gli utenti."
+
+#. Plugin Name of the plugin/theme
+msgid "Mass Messaging for Buddypress - by Alkaweb"
+msgstr "Mass Messaging for Buddypress - by Alkaweb"
+
+#. Description of the plugin/theme
+msgid ""
+"Allows to send mass messages to all members, all members of specific groups, "
+"all memebrs with specific roles."
+msgstr ""
+"Permette di inviare messaggi a tutti i membri del tuo sito, a tutti i membri "
+"di uno specifico gruppo o a tuti i membri con uno specifico ruolo."
+
+#. Author of the plugin/theme
+msgid "Alkaweb"
+msgstr "Alkaweb"
+
+#. Author URI of the plugin/theme
+msgid "https://woffice.io/"
+msgstr "https://woffice.io/"

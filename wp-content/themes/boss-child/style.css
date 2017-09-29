@@ -1,0 +1,278 @@
+.js .tmce-active .wp-editor-area {
+    color: #000 !important;
+	visibility: visible !important;
+}
+
+.slider-nav .slick-slide {
+    cursor: pointer;
+    margin: 0 10px;
+}
+
+.slider-for-caption {
+    margin-right: 0px !important;
+}
+
+.slick-list.draggable .slick-track{
+    width: 1000px !important;
+    left: 33px !important;
+}
+
+
+.page-full-width .site-content, .page-full-width {
+    width: 100%;
+	margin-top: 47px;
+}
+
+
+@media (max-width: 997px) and (min-width: 991px){
+	#supplement-diary-form .form-group {
+		float:left !important;
+		width:100% !important;
+	}
+}
+
+.slider-for .slick-slide.slick-active{
+	display: block !important;	
+}
+
+.slider-for .slick-slide  {
+	display: none !important;	
+}
+
+.slider.slider-nav.slick-initialized.slick-slider .slick-list.draggable .slick-track .slick-slide.slick-active{
+	width: 320px !important ;
+}
+
+.slider.slider-for.slick-initialized.slick-slider .slick-list.draggable .slick-track .slick-slide.slick-active{
+	width: 100% !important ;
+    margin-left: 12px;
+}
+
+.slider.slider-for .slick-slide.slick-active{
+	left: 0px !important;	
+}
+/*
+@media (max-width: 1025px){
+	.mobile-item-nav-container.mobile-item-nav-scroll-container.fixed{
+		width: 100% !important;
+		height: 200px !important;	
+	}
+	.mobile-item-nav-wrapper {
+		width: 100% !important;
+		height: auto;
+	}
+	#mobile-item-nav{
+		width: 100% !important;
+		height: auto;
+	}
+	#buddypress #mobile-item-nav ul li {
+    	margin: 18px 5px;
+	}
+}
+
+@media (max-width: 769px){
+	.mobile-item-nav-container.mobile-item-nav-scroll-container.fixed{
+		width: 100% !important;
+		height: 300px !important;	
+	}
+	.mobile-item-nav-wrapper {
+		width: 100% !important;
+	}
+	#mobile-item-nav{
+		width: 100% !important;
+	}
+	#buddypress #mobile-item-nav ul li {
+    	margin: 18px 5px;
+	}
+}*/
+
+@media (max-width: 500px){
+	.mobile-item-nav-container.mobile-item-nav-scroll-container.fixed{
+		width: 100% !important;
+		height: 300px !important;	
+	}
+	.mobile-item-nav-wrapper {
+		width: 100% !important;
+	}
+	#mobile-item-nav{
+		width: 100% !important;
+	}
+	#buddypress #mobile-item-nav ul li {
+		margin: 18px 5px!important;
+	}
+	div#mobile-item-nav-wrap {
+		height: 300px!important;
+	}
+	#buddypress #mobile-item-nav ul {
+		width: 100% !important;
+		padding: 0px 6px!important;
+	}
+}
+
+@media (max-width: 421px){
+	.mobile-item-nav-container.mobile-item-nav-scroll-container.fixed{
+		width: 100% !important;
+		height: 400px !important;	
+	}
+	.mobile-item-nav-wrapper {
+		width: 100% !important;
+	}
+	#mobile-item-nav{
+		width: 100% !important;
+	}
+	#buddypress #mobile-item-nav ul li {
+		margin: 18px 5px!important;
+	}
+	div#mobile-item-nav-wrap {
+		height: 400px!important;
+	}
+	#buddypress #mobile-item-nav ul {
+		width: 100% !important;
+		padding: 0px 6px!important;
+	}
+}
+
+.twitter_share_counterbox {
+	display: none !important; 	
+}
+
+#upldatafile {
+	padding: 12px 4px 8px;
+	width: 50px;	
+}
+
+#upldatafile .fa.fa-camera {
+	font-size: 18px;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+#buddypress .template-workout-log #workout-log-tabs #add-wl-container .text-center .chosen-container.chosen-container-single.exercisename.form-group,
+#buddypress .template-workout-log #workout-log-tabs #saved-workout-logs .saved-wl-container .text-center .chosen-container.chosen-container-single.exercisename.form-group,
+#buddypress .template-workout-log #workout-log-tabs #saved-advanced-workout-logs .saved-wl-container .text-center .chosen-container.chosen-container-single.exercisename.form-group,
+#buddypress .template-workout-log #workout-log-tabs #saved-advanced-workout-logs .saved-wl-container .text-center .chosen-container.chosen-container-single.exercisename.form-group
+{
+	margin: 0 auto;	
+}
+
+#buddypress .template-workout-log #workout-log-tabs #add-wl-container .text-center 
+.chosen-container.chosen-container-single.chosen-container-single-nosearch,
+#buddypress .template-workout-log #workout-log-tabs #saved-workout-logs .text-center 
+.chosen-container.chosen-container-single.chosen-container-single-nosearch,
+#buddypress .template-workout-log #workout-log-tabs #saved-advanced-workout-logs .text-center 
+.chosen-container.chosen-container-single.chosen-container-single-nosearch,
+#buddypress .template-workout-log #workout-log-tabs #saved-advanced-workout-logs .text-center 
+.chosen-container.chosen-container-single.chosen-container-single-nosearch
+{
+    width: 100px;
+    margin: 0 auto;
+}
+
+#buddypress .template-workout-log #workout-log-tabs #add-wl-container .text-center 
+.chosen-container.chosen-container-single.chosen-container-single-nosearch .chosen-drop .chosen-search,
+#buddypress .template-workout-log #workout-log-tabs #saved-workout-logs .text-center 
+.chosen-container.chosen-container-single.chosen-container-single-nosearch .chosen-drop .chosen-search,
+#buddypress .template-workout-log #workout-log-tabs #saved-advanced-workout-logs .text-center 
+.chosen-container.chosen-container-single.chosen-container-single-nosearch .chosen-drop .chosen-search,
+#buddypress .template-workout-log #workout-log-tabs #saved-advanced-workout-logs .text-center 
+.chosen-container.chosen-container-single.chosen-container-single-nosearch .chosen-drop .chosen-search
+{
+	display: none;
+}
+
+#buddypress .template-workout-log #workout-log-tabs #add-wl-container .text-center .chosen-drop,
+#buddypress .template-workout-log #workout-log-tabs #saved-workout-logs .text-center .chosen-drop,
+#buddypress .template-workout-log #workout-log-tabs #saved-advanced-workout-logs .text-center .chosen-drop,
+#buddypress .template-workout-log #workout-log-tabs #saved-advanced-workout-logs .text-center .chosen-container .chosen-drop
+{
+  	max-height:280px;
+  	overflow-y:auto;
+}
+
+#buddypress .template-workout-log #workout-log-tabs #add-wl-container .text-center .chosen-drop .active-result,
+#buddypress .template-workout-log #workout-log-tabs #saved-workout-logs .text-center .chosen-drop .active-result,
+#buddypress .template-workout-log #workout-log-tabs #saved-advanced-workout-logs .text-center .chosen-drop .active-result,
+#buddypress .template-workout-log #workout-log-tabs #saved-advanced-workout-logs .text-center .chosen-drop .active-result
+{
+	padding-left: 10px;
+}
+
+#buddypress .template-workout-log #workout-log-tabs #add-wl-container .text-center #add-awl-repeats-weight-table,
+#buddypress .template-workout-log #workout-log-tabs #saved-advanced-workout-logs .text-center #add-awl-repeats-weight-table
+{
+	position: relative;
+    width: 550px;
+}
+
+#buddypress .template-workout-log #workout-log-tabs #add-advanced-workout-logs #add-wl-container .text-center .form-group.form-inline label,
+#buddypress .template-workout-log #workout-log-tabs #saved-advanced-workout-logs .edit-wl-form .text-center .form-group.form-inline.col-md-6.text-right
+{
+    text-align: center !important;
+}
+
+.form-group.form-inline.col-md-6.text-right.text-center-xs.text-center-sm{
+	text-align: center !important;
+}
+
+
+
+
+
+
+
+
+
+.template-parq .site-content #buddypress .pad0 .parq_agreement_container{
+	display: block;	
+}
+
+
+
+
+
+@media (max-width: 720px){
+	
+	body.login #login {
+		margin: 0% auto;
+		padding: 0px 35px;
+		border: 1px solid #fff;
+		border: 1px solid rgba(0,0,0,0.7);
+		background: rgba(48,69,92,0.7) url(../images/forms-bg.png);
+		overflow: hidden;
+		border-radius: 3px;
+		color: #fff;
+	}
+	
+}
+
+
+
+
+.select2-container--default .select2-selection--single{
+    border: 1px solid #aa2d29 !important;
+	padding: 0px !important;
+}
+
+#billing_phone{
+	border: 1px solid #aa2d29 !important;
+}
+
+.select2-selection--single{
+	height: 35px;
+}
+
+@media (max-width:740px){
+	#catapult-cookie-bar{
+		display: none;
+	}
+}

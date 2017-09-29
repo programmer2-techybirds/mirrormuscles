@@ -1,0 +1,68 @@
+    @media print{
+    
+    @page {size: landscape}
+  
+    .saved-wl-container {
+      border: none !important;
+      padding: 20px !important;
+      background: #E7FCFF !important;
+      -webkit-print-color-adjust:exact;
+    }
+
+    .btn-group{
+      display: none !important;
+    }
+
+    .diary-plan-title{
+      color: #30455c !important;
+      text-transform: uppercase;
+      -webkit-print-color-adjust:exact;
+    }
+
+    .diary-plan-title+p{
+      color: #737373 !important;
+      -webkit-print-color-adjust:exact;
+    }
+
+    .workout-table-exercises{
+      width: 100%;
+      border: none;
+      margin-bottom: 30px;
+    }
+
+
+    table.workout-table-exercises th{
+      color: #fff !important;
+      background: #4dcade !important;
+      text-transform: uppercase;
+      text-align: center;
+      padding: 10px;
+      border: none;
+      -webkit-print-color-adjust: exact;
+    }
+
+    .workout-table-exercises tbody tr td{
+      background: #fff !important;
+      color: #575757 !important;
+      border: 1px solid #4dcade !important;
+      text-align: center !important;
+      padding: 10px !important;
+      -webkit-print-color-adjust:exact;
+    }
+
+    .workout-table-exercises thead tr th.actions,
+    .workout-table-exercises tbody tr td.actions,
+    .saved-wl-container-edit{
+      display: none;
+    }
+  
+  #buddypress table td{
+    vertical-align: middle;
+    white-space: nowrap;
+    overflow: hidden;
+    -o-text-overflow: ellipsis;
+    -ms-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+  }
+
+} 

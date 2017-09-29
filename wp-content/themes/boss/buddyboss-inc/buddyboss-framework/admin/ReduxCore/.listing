@@ -1,0 +1,8 @@
+drwxr-xr-x   7 muscles  muscles      4096 May 16 10:16 .
+drwxr-xr-x   7 muscles  muscles      4096 May 16 10:16 ..
+drwxr-xr-x   5 muscles  muscles      4096 May 16 10:16 assets
+drwxr-xr-x   2 muscles  muscles      4096 May 16 10:16 core
+-rw-r--r--   1 muscles  muscles    196497 May 16 10:16 framework.php
+drwxr-xr-x   7 muscles  muscles      4096 May 16 10:16 inc
+drwxr-xr-x   2 muscles  muscles      4096 May 16 10:16 languages
+drwxr-xr-x   3 muscles  muscles      4096 May 16 10:16 templates

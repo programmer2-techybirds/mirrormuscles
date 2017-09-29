@@ -1,0 +1,52 @@
+@media print{
+    @page {size: landscape}
+
+    .fitbit-print-container{
+        position: relative !important;
+        display: block !important;
+        width: 100% !important;
+        margin: 0 auto !important;
+        text-align: center;
+        font-family: 'Ubuntu';
+        font-size: 24px !important;
+        text-align: center;
+        padding: 20px 0;
+        background: #e7fcff !important;
+        color: #30455c !important;
+        -webkit-print-color-adjust:exact;
+    }
+
+    .fitbit-print-container p{
+        color: #30455c !important;
+        -webkit-print-color-adjust:exact;
+    }
+
+    .fitbit-print-container h3{
+        color: #30455c !important;
+        -webkit-print-color-adjust:exact;
+    }
+
+    .fitbit-plot{
+        width: 80% !important;
+        margin: 0 auto;
+    }
+
+    .fitbit-canvas-print{
+        display: block !important;
+    }
+
+    .fitbit-print-container canvas{
+        display: none !important;
+    }
+
+    .legendLabel span{
+        font-size: 14px !important;
+        color: #30455c !important;
+        -webkit-print-color-adjust:exact;
+    }
+
+    .fitbit-print-container{
+      padding: 5px;
+    }
+
+}

@@ -1,0 +1,493 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BuddyBoss Inbox\n"
+"Report-Msgid-Bugs-To: https://www.buddyboss.com/contact/\n"
+"POT-Creation-Date: 2017-06-03 11:53:24+00:00\n"
+"PO-Revision-Date: 2017-03-27 20:55+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: buddyboss-inbox.php\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: buddyboss-inbox.php:79
+msgid "Couldn't load main class at:<br/>%s"
+msgstr "Не могу загрузить основной класс:<br/>%s"
+
+#: buddyboss-inbox.php:85
+msgid "<h1>Fatal error:</h1><hr/><pre>%s</pre>"
+msgstr "<h1>Фатальная ошибка:</h1><hr/><pre>%s</pre>"
+
+#: buddyboss-inbox.php:122
+msgid "Please first download and activate BuddyPress plugin"
+msgstr "Пожалуйста сначала загрузите и активируйте плагин BuddyPress"
+
+#: includes/admin.php:137
+msgid "General"
+msgstr "Общие"
+
+#: includes/admin.php:140
+msgid "General Settings"
+msgstr "Общие настройки"
+
+#: includes/admin.php:142 templates/attachments.php:7
+msgid "Attachments"
+msgstr "Приложения"
+
+#: includes/admin.php:143
+msgid "Labels"
+msgstr "Метки"
+
+#: includes/admin.php:144 includes/bbm-drafts.php:144
+#: includes/main-class.php:735
+msgid "Drafts"
+msgstr "Черновики "
+
+#: includes/admin.php:145
+msgid "Visual Editor"
+msgstr "Визуальный редактор"
+
+#: includes/admin.php:149
+msgid "Support"
+msgstr "Поддержка"
+
+#: includes/admin.php:170 includes/admin.php:227
+#: includes/buddyboss-plugin-updater.php:10
+msgid "BuddyBoss Inbox"
+msgstr "Почта BuddyBoss"
+
+#: includes/admin.php:170
+msgid "Inbox"
+msgstr "Почта"
+
+#: includes/admin.php:186
+msgid "Settings"
+msgstr "Настройки "
+
+#: includes/admin.php:223
+msgid "Settings saved."
+msgstr "Настройки сохранены."
+
+#: includes/admin.php:223
+msgid "Dismiss this notice."
+msgstr "Убрать уведомление."
+
+#: includes/admin.php:271
+msgid "Attach files to your messages"
+msgstr "Прикреплять файлы к письму"
+
+#: includes/admin.php:277
+msgid "Attachments Preview"
+msgstr "Вид вложений"
+
+#: includes/admin.php:279
+msgid "Thumbnail + File Name"
+msgstr "Эскиз + Имя файла"
+
+#: includes/admin.php:280
+msgid "File Name"
+msgstr "Имя файла"
+
+#: includes/admin.php:286
+msgid "Allowed File Formats"
+msgstr "Типы вложений"
+
+#: includes/admin.php:287
+msgid "Image"
+msgstr "Изображения"
+
+#: includes/admin.php:291
+msgid "Video"
+msgstr "Видео"
+
+#: includes/admin.php:295
+msgid "Text"
+msgstr "Текст"
+
+#: includes/admin.php:299
+msgid "Audio"
+msgstr "Аудио"
+
+#: includes/admin.php:303
+msgid "Compressed (PDF, ZIP, Flash, etc.)"
+msgstr "Сжатые файлы (PDF, ZIP, Flash, и т.п.)"
+
+#: includes/admin.php:307
+msgid "Office Documents (Word, Pages, etc.)"
+msgstr "Офисные документы (Word, Pages, и т.п.)"
+
+#: includes/admin.php:310
+msgid "Maximum File Size"
+msgstr "Ограничение размера"
+
+#: includes/admin.php:312
+msgid "MB"
+msgstr "MB"
+
+#: includes/admin.php:318
+msgid ""
+"Based on your server's PHP configuration, maximum file size cannot exceed "
+"<strong>%s MB.</strong>"
+msgstr ""
+"Конфигурация PHP вашего сервера ограничивает размер файла <strong>%s MB</"
+"strong>."
+
+#: includes/admin.php:339
+msgid "Organize your messages into labelled categories"
+msgstr "Распределять письма по категориям"
+
+#: includes/admin.php:351
+msgid "Save unsent messages as drafts"
+msgstr "Помещать неоправленные письма в черновики"
+
+#: includes/admin.php:356
+msgid "Auto Save"
+msgstr "Авто-сохранение"
+
+#: includes/admin.php:357
+msgid "Enable auto save"
+msgstr "Включить"
+
+#: includes/admin.php:375
+msgid "Add formatting to your messages"
+msgstr "Включить форматирование"
+
+#: includes/bbm-ajax.php:17
+msgid "Attachment deleted successfully!"
+msgstr "Приложения успешно удалены!"
+
+#: includes/bbm-ajax.php:129 includes/bbm-ajax.php:132
+msgid "All changes saved."
+msgstr "Все изменения сохранены."
+
+#: includes/bbm-ajax.php:187
+msgid "Draft updated successfully!"
+msgstr "Черновик успешно обновлён!"
+
+#: includes/bbm-ajax.php:190
+msgid "Draft saved successfully!"
+msgstr "Черновик успешно сохранён!"
+
+#: includes/bbm-ajax.php:216
+msgid "Label added to conversation"
+msgstr "Переписка помечена"
+
+#: includes/bbm-ajax.php:235
+msgid "Label removed from conversation"
+msgstr "Метка переписки удалена"
+
+#: includes/bbm-ajax.php:251
+msgid "Label cannot be empty!"
+msgstr "Метка не может быть пустой!"
+
+#: includes/bbm-ajax.php:265
+msgid "Label created successfully!"
+msgstr "Метка успешно создана!"
+
+#: includes/bbm-ajax.php:292
+msgid "Label deleted successfully"
+msgstr "Метка успешно удалена "
+
+#: includes/bbm-attachment.php:31
+msgid "Your file name must contain the term &#8220;custom&#8221;"
+msgstr "Ваш файл должен содержать термин&#8220;custom&#8221;"
+
+#: includes/bbm-drafts.php:132
+msgid "Save Draft"
+msgstr "Сохранить черновик"
+
+#: includes/bbm-drafts.php:147
+msgid "Drafts <span> (%s) </span>"
+msgstr "Черновики <span> (%s) </span>"
+
+#: includes/bbm-drafts.php:149
+msgid "Drafts <span>%s</span>"
+msgstr "Черновики <span> %s </span>"
+
+#: includes/bbm-drafts.php:260
+msgid "Please Migrate your Database"
+msgstr "Пожалуйста мигрируйте базу данных"
+
+#: includes/bbm-drafts.php:260
+msgid "Click Here"
+msgstr "Кликни здесь"
+
+#: includes/bbm-drafts.php:265
+msgid "Migration done successfully!"
+msgstr "Миграция успешно завершена!"
+
+#: includes/bbm-frontend.php:207
+msgid "Attach Another File"
+msgstr "Прикрепить ещё"
+
+#: includes/bbm-frontend.php:207
+msgid "Attach File"
+msgstr "Прикрепить файл"
+
+#: includes/bbm-functions.php:338
+msgid "Select:"
+msgstr "Выбрать: "
+
+#: includes/bbm-functions.php:342
+msgid "None"
+msgstr "Нет"
+
+#: includes/bbm-functions.php:346
+msgid "Delete Selected"
+msgstr "Удалить выбранные"
+
+#: includes/bbm-labels.php:97 includes/bbm-labels.php:297
+msgid "Label"
+msgstr "Метка"
+
+#: includes/bbm-labels.php:244
+msgid "Label as:"
+msgstr "Пометить как: "
+
+#: includes/bbm-labels.php:259
+msgid "No labels available."
+msgstr "Метки отсутствуют"
+
+#: includes/bbm-labels.php:263
+msgid "Create new"
+msgstr "Создать новую"
+
+#: includes/bbm-labels.php:272
+msgid "Add Label"
+msgstr "Добавить метку"
+
+#: includes/bbm-labels.php:280
+msgid "Label Name"
+msgstr "Название метки"
+
+#: includes/bbm-labels.php:284
+msgid "Save"
+msgstr "Сохранить"
+
+#: includes/buddyboss-plugin-updater.php:49
+msgid ""
+"To receive updates for BuddyBoss products, please install and activate the "
+"plugin %s"
+msgstr ""
+
+#: includes/help-support.php:5
+msgid "Here is a video tutorial to get you started:"
+msgstr "Виде-урок с объяснением как начать использование:"
+
+#: includes/help-support.php:13
+msgid "Need more help?"
+msgstr "Все ешь нужна помощь?"
+
+#: includes/help-support.php:16
+msgid "Frequently Asked Questions"
+msgstr "Часто задаваемые вопросы"
+
+#: includes/help-support.php:17
+msgid "Current Version &amp; Release Notes"
+msgstr "Комментарии к версии"
+
+#: includes/help-support.php:18
+msgid "How to Update"
+msgstr "Как обновить"
+
+#: includes/main-class.php:194 includes/main-class.php:203
+msgid "Cheatin&#8217; huh?"
+msgstr "Хитришь, да?"
+
+#: includes/main-class.php:603
+msgid "Allowed Files"
+msgstr "Допустимые файлы"
+
+#: includes/main-class.php:615
+msgid "Uploaded file must not be more than %s mb"
+msgstr "Загружаемый файл не должен превышать %s mb"
+
+#: includes/main-class.php:616
+msgid ""
+"Selected file not allowed to be uploaded. It must be one of the following: %s"
+msgstr "Выбранный файл нельзя загрузить. Это должен быть один из форматов: %s"
+
+#: includes/main-class.php:617
+msgid "Error! File could not be uploaded."
+msgstr "Ошибка! Файл не может быть загружен."
+
+#: includes/main-class.php:619
+msgid "Remove"
+msgstr "Удалить"
+
+#: includes/main-class.php:620
+msgid "Uploading..."
+msgstr "Загружаю…"
+
+#: includes/main-class.php:621
+msgid "Saving as draft..."
+msgstr "Сохранить как черновик…"
+
+#: includes/main-class.php:624
+msgid "Download Attachment"
+msgstr "Загрузить приложения"
+
+#: includes/main-class.php:742
+msgid "All Member Notices"
+msgstr "Отправить всем"
+
+#: templates/attachments.php:20 templates/attachments.php:37
+msgid "Download attachment"
+msgstr "Загрузить приложение"
+
+#: templates/drafts.php:14
+msgid "Select all"
+msgstr "Выбрать все"
+
+#: templates/drafts.php:15
+#: templates/members/single/messages/messages-loop.php:14
+msgid "From"
+msgstr "От"
+
+#: templates/drafts.php:16 templates/members/single/messages/compose.php:33
+#: templates/members/single/messages/messages-loop.php:15
+msgid "Subject"
+msgstr "Тема"
+
+#: templates/drafts.php:30
+#: templates/members/single/messages/messages-loop.php:33
+msgid "Actions"
+msgstr "Действия"
+
+#: templates/drafts.php:41 templates/drafts.php:112
+msgid "Select this message"
+msgstr "Выбрать это письмо"
+
+#: templates/drafts.php:46 templates/drafts.php:117
+#: templates/members/single/messages/messages-loop.php:52
+msgid "To:"
+msgstr "Кому:"
+
+#: templates/drafts.php:52 templates/drafts.php:69 templates/drafts.php:80
+#: templates/drafts.php:123 templates/drafts.php:137 templates/drafts.php:148
+msgid "Draft"
+msgstr "Черновик"
+
+#: templates/drafts.php:63 templates/drafts.php:131
+#: templates/members/single/messages/messages-loop.php:65
+msgid "View Message"
+msgstr "Просмотр письма"
+
+#: templates/drafts.php:89 templates/drafts.php:157
+#: templates/members/single/messages/single.php:24
+msgid "Delete Message"
+msgstr "Удаление письма"
+
+#: templates/drafts.php:89 templates/drafts.php:157
+#: templates/members/single/messages/messages-loop.php:88
+#: templates/members/single/messages/single.php:24
+msgid "Delete"
+msgstr "Удалить"
+
+#: templates/drafts.php:178
+#: templates/members/single/messages/messages-loop.php:113
+msgid "Sorry, no messages were found."
+msgstr "Извините, но писем здесь нет."
+
+#: templates/members/single/messages/compose.php:5
+msgid "Send To (Username or Friend's Name)"
+msgstr "Кому отправить (Логин или имя друга)"
+
+#: templates/members/single/messages/compose.php:29
+msgid "This is a notice to all users."
+msgstr "Это письмо всем пользователям."
+
+#: templates/members/single/messages/compose.php:36
+msgid "Message"
+msgstr "Письмо"
+
+#: templates/members/single/messages/compose.php:91
+msgid "Send Message"
+msgstr "Отправить письмо"
+
+#: templates/members/single/messages/messages-loop.php:30
+msgid "Star"
+msgstr "Избранное"
+
+#: templates/members/single/messages/messages-loop.php:50
+msgid "From:"
+msgstr "От: "
+
+#: templates/members/single/messages/messages-loop.php:83
+msgid "Read"
+msgstr "Старое"
+
+#: templates/members/single/messages/messages-loop.php:85
+msgid "Unread"
+msgstr "Новое"
+
+#: templates/members/single/messages/single.php:14
+msgid "You are alone in this conversation."
+msgstr "Вы один в этой переписке."
+
+#: templates/members/single/messages/single.php:18
+msgid "Conversation between %s and you."
+msgstr "Переписка между %s и вами."
+
+#: templates/members/single/messages/single.php:95
+msgid "Send a Reply"
+msgstr "Отправить ответ"
+
+#: templates/members/single/messages/single.php:125
+msgid "Send Reply"
+msgstr "Отправить ответ"
+
+#: includes/bbm-functions.php:343
+msgctxt "Message dropdown filter"
+msgid "All"
+msgstr "Все"
+
+#: includes/bbm-template-extend.php:75
+msgctxt "Message pagination previous text"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: includes/bbm-template-extend.php:76
+msgctxt "Message pagination next text"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#~ msgid "Save Changes"
+#~ msgstr "Сохранить изменения"
+
+#~ msgid ""
+#~ "An Unexpected HTTP Error occurred during the API request.</p> <p><a href="
+#~ "\"?\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+#~ msgstr ""
+#~ "API запрос вызвал неизвестную ошибку HTTP. </p> <p><a href=\"?\" onclick="
+#~ "\"document.location.reload(); return false;\">Попробуйте ещё раз</a>"
+
+#~ msgid "An unknown error occurred"
+#~ msgstr "Возникла неизвестная ошибка"
+
+#~ msgid "Support Forums"
+#~ msgstr "Форумы поддержки"
+
+#~ msgid "http://buddyboss.com/product/buddyboss-inbox/"
+#~ msgstr "http://buddyboss.com/product/buddyboss-inbox/"
+
+#~ msgid "Turn BuddyPress Messaging into a state of the art inbox"
+#~ msgstr "Превратите Почту BuddyPress в электронный ящик"
+
+#~ msgid "BuddyBoss"
+#~ msgstr "BuddyBoss"
+
+#~ msgid "http://buddyboss.com"
+#~ msgstr "http://buddyboss.com"

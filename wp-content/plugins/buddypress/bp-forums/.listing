@@ -1,0 +1,13 @@
+drwxr-xr-x   4 muscles  muscles      4096 May 16 11:55 .
+drwxr-xr-x  15 muscles  muscles      4096 May 16 11:55 ..
+-rw-r--r--   1 muscles  muscles       469 May 16 11:55 bb-config.php
+drwxr-xr-x   6 muscles  muscles      4096 May 16 11:55 bbpress
+-rw-r--r--   1 muscles  muscles       176 May 16 11:55 bp-forums-actions.php
+-rw-r--r--   1 muscles  muscles       188 May 16 11:55 bp-forums-bbpress.php
+-rw-r--r--   1 muscles  muscles     17776 May 16 11:55 bp-forums-bbpress-sa.php
+-rw-r--r--   1 muscles  muscles      8535 May 16 11:55 bp-forums-filters.php
+-rw-r--r--   1 muscles  muscles     37245 May 16 11:55 bp-forums-functions.php
+-rw-r--r--   1 muscles  muscles      7598 May 16 11:55 bp-forums-loader.php
+-rw-r--r--   1 muscles  muscles      9593 May 16 11:55 bp-forums-screens.php
+-rw-r--r--   1 muscles  muscles     91647 May 16 11:55 bp-forums-template.php
+drwxr-xr-x   2 muscles  muscles      4096 May 16 11:55 deprecated

@@ -1,0 +1,495 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BuddyBoss Inbox\n"
+"Report-Msgid-Bugs-To: https://www.buddyboss.com/contact/\n"
+"POT-Creation-Date: 2017-06-03 11:53:24+00:00\n"
+"PO-Revision-Date: 2016-05-01 17:50-0400\n"
+"Last-Translator: jean-pierre michaud <nexialys@yahoo.com>\n"
+"Language-Team: jean-pierre michaud <nexialys@yahoo.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: buddyboss-inbox.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: buddyboss-inbox.php:79
+msgid "Couldn't load main class at:<br/>%s"
+msgstr "Impossible de charger les composantes sur:<br/>%s"
+
+#: buddyboss-inbox.php:85
+msgid "<h1>Fatal error:</h1><hr/><pre>%s</pre>"
+msgstr "<h1>Erreur fatale:</h1><hr/><pre>%s</pre>"
+
+#: buddyboss-inbox.php:122
+msgid "Please first download and activate BuddyPress plugin"
+msgstr "Veuillez tout d'abord télécharger et activer le plugin BuddyPress"
+
+#: includes/admin.php:137
+msgid "General"
+msgstr "Principal"
+
+#: includes/admin.php:140
+msgid "General Settings"
+msgstr "Réglages généraux"
+
+#: includes/admin.php:142 templates/attachments.php:7
+msgid "Attachments"
+msgstr "Pièces jointes"
+
+#: includes/admin.php:143
+msgid "Labels"
+msgstr "Etiquettes"
+
+#: includes/admin.php:144 includes/bbm-drafts.php:144
+#: includes/main-class.php:735
+msgid "Drafts"
+msgstr "Brouillons"
+
+#: includes/admin.php:145
+msgid "Visual Editor"
+msgstr "Editeur Visuel"
+
+#: includes/admin.php:149
+msgid "Support"
+msgstr "Support"
+
+#: includes/admin.php:170 includes/admin.php:227
+#: includes/buddyboss-plugin-updater.php:10
+msgid "BuddyBoss Inbox"
+msgstr "Boîte de réception BuddyBoss"
+
+#: includes/admin.php:170
+msgid "Inbox"
+msgstr "Boîte de réception"
+
+#: includes/admin.php:186
+msgid "Settings"
+msgstr "Réglages"
+
+#: includes/admin.php:223
+msgid "Settings saved."
+msgstr "Réglages enregistrés."
+
+#: includes/admin.php:223
+msgid "Dismiss this notice."
+msgstr "Ignorer cet avis."
+
+#: includes/admin.php:271
+msgid "Attach files to your messages"
+msgstr "Joindre des fichiers à vos messages"
+
+#: includes/admin.php:277
+msgid "Attachments Preview"
+msgstr "Aperçu des pièces jointes"
+
+#: includes/admin.php:279
+msgid "Thumbnail + File Name"
+msgstr "Miniature + nom de fichier"
+
+#: includes/admin.php:280
+msgid "File Name"
+msgstr "Nom du fichier"
+
+#: includes/admin.php:286
+msgid "Allowed File Formats"
+msgstr "Formats de fichiers autorisés"
+
+#: includes/admin.php:287
+msgid "Image"
+msgstr "Image"
+
+#: includes/admin.php:291
+msgid "Video"
+msgstr "Vidéo"
+
+#: includes/admin.php:295
+msgid "Text"
+msgstr "Texte"
+
+#: includes/admin.php:299
+msgid "Audio"
+msgstr "Audio"
+
+#: includes/admin.php:303
+msgid "Compressed (PDF, ZIP, Flash, etc.)"
+msgstr "Compressé (PDF, ZIP, Flash, etc.)."
+
+#: includes/admin.php:307
+msgid "Office Documents (Word, Pages, etc.)"
+msgstr "Documents Office (Word, Pages, etc.)."
+
+#: includes/admin.php:310
+msgid "Maximum File Size"
+msgstr "Taille maximale du fichier"
+
+#: includes/admin.php:312
+msgid "MB"
+msgstr "Mo"
+
+#: includes/admin.php:318
+msgid ""
+"Based on your server's PHP configuration, maximum file size cannot exceed "
+"<strong>%s MB.</strong>"
+msgstr ""
+"Basé sur la configuration de votre serveur PHP, la taille de fichier "
+"maximale ne doit pas dépasser <strong>%s Mo.</strong>"
+
+#: includes/admin.php:339
+msgid "Organize your messages into labelled categories"
+msgstr "Etiquettez vos messages par catégories"
+
+#: includes/admin.php:351
+msgid "Save unsent messages as drafts"
+msgstr "Enregistrer des messages non envoyés comme brouillons"
+
+#: includes/admin.php:356
+msgid "Auto Save"
+msgstr "Enregistrement automatique"
+
+#: includes/admin.php:357
+msgid "Enable auto save"
+msgstr "Activer la sauvegarde automatique"
+
+#: includes/admin.php:375
+msgid "Add formatting to your messages"
+msgstr "Ajouter la mise en forme de messages"
+
+#: includes/bbm-ajax.php:17
+msgid "Attachment deleted successfully!"
+msgstr "Pièce jointe supprimée avec succès!"
+
+#: includes/bbm-ajax.php:129 includes/bbm-ajax.php:132
+msgid "All changes saved."
+msgstr "Modifications enregistrées."
+
+#: includes/bbm-ajax.php:187
+msgid "Draft updated successfully!"
+msgstr "Brouillon mis à jour avec succès!"
+
+#: includes/bbm-ajax.php:190
+msgid "Draft saved successfully!"
+msgstr "Brouillon enregistré avec succès!"
+
+#: includes/bbm-ajax.php:216
+msgid "Label added to conversation"
+msgstr "Etiquette ajoutée à la conversation"
+
+#: includes/bbm-ajax.php:235
+msgid "Label removed from conversation"
+msgstr "Etiquette enlevée de la conversation"
+
+#: includes/bbm-ajax.php:251
+msgid "Label cannot be empty!"
+msgstr "L'étiquette ne peut être vide"
+
+#: includes/bbm-ajax.php:265
+msgid "Label created successfully!"
+msgstr "Etiquette créée avec succès!"
+
+#: includes/bbm-ajax.php:292
+msgid "Label deleted successfully"
+msgstr "Etiquette effacée avec succès"
+
+#: includes/bbm-attachment.php:31
+msgid "Your file name must contain the term &#8220;custom&#8221;"
+msgstr "Votre nom de fichier doit contenir l'expression &#8220;custom&#8221;"
+
+#: includes/bbm-drafts.php:132
+msgid "Save Draft"
+msgstr "Sauvegarder le brouillon"
+
+#: includes/bbm-drafts.php:147
+msgid "Drafts <span> (%s) </span>"
+msgstr "Brouillons <span> (%s) </span>"
+
+#: includes/bbm-drafts.php:149
+msgid "Drafts <span>%s</span>"
+msgstr "Brouillons <span>%s</span>"
+
+#: includes/bbm-drafts.php:260
+msgid "Please Migrate your Database"
+msgstr "Veuillez mettre à jour votre base de données"
+
+#: includes/bbm-drafts.php:260
+msgid "Click Here"
+msgstr "Cliquez ici"
+
+#: includes/bbm-drafts.php:265
+msgid "Migration done successfully!"
+msgstr "Migration effectuée avec succès !"
+
+#: includes/bbm-frontend.php:207
+msgid "Attach Another File"
+msgstr "Attacher un Autre Fichier"
+
+#: includes/bbm-frontend.php:207
+msgid "Attach File"
+msgstr "Joindre un fichier"
+
+#: includes/bbm-functions.php:338
+msgid "Select:"
+msgstr "Sélectionner:"
+
+#: includes/bbm-functions.php:342
+msgid "None"
+msgstr "Aucun"
+
+#: includes/bbm-functions.php:346
+msgid "Delete Selected"
+msgstr "Supprimer la sélection"
+
+#: includes/bbm-labels.php:97 includes/bbm-labels.php:297
+msgid "Label"
+msgstr "Etiquette"
+
+#: includes/bbm-labels.php:244
+msgid "Label as:"
+msgstr "Etiquetter:"
+
+#: includes/bbm-labels.php:259
+msgid "No labels available."
+msgstr "Aucune étiquette disponible."
+
+#: includes/bbm-labels.php:263
+msgid "Create new"
+msgstr "Créez un nouveau"
+
+#: includes/bbm-labels.php:272
+msgid "Add Label"
+msgstr "Ajouter Etiquette"
+
+#: includes/bbm-labels.php:280
+msgid "Label Name"
+msgstr "Nom de l'Etiquette"
+
+#: includes/bbm-labels.php:284
+msgid "Save"
+msgstr "Sauver"
+
+#: includes/buddyboss-plugin-updater.php:49
+msgid ""
+"To receive updates for BuddyBoss products, please install and activate the "
+"plugin %s"
+msgstr ""
+
+#: includes/help-support.php:5
+msgid "Here is a video tutorial to get you started:"
+msgstr "Voici un tutoriel vidéo pour vous aider à démarrer:"
+
+#: includes/help-support.php:13
+msgid "Need more help?"
+msgstr "Besoin d'aide?"
+
+#: includes/help-support.php:16
+msgid "Frequently Asked Questions"
+msgstr "Foire aux questions"
+
+#: includes/help-support.php:17
+msgid "Current Version &amp; Release Notes"
+msgstr "Version actuelle &amp; Notes de Version"
+
+#: includes/help-support.php:18
+msgid "How to Update"
+msgstr "Comment mettre à jour"
+
+#: includes/main-class.php:194 includes/main-class.php:203
+msgid "Cheatin&#8217; huh?"
+msgstr "On triche, hum?"
+
+#: includes/main-class.php:603
+msgid "Allowed Files"
+msgstr "Fichiers autorisés"
+
+#: includes/main-class.php:615
+msgid "Uploaded file must not be more than %s mb"
+msgstr "Fichier téléchargé ne doit pas être plus  de %s mo"
+
+#: includes/main-class.php:616
+msgid ""
+"Selected file not allowed to be uploaded. It must be one of the following: %s"
+msgstr ""
+"Fichier sélectionné pas autorisé à être transféré. Il doit être l'un des "
+"suivants: %s"
+
+#: includes/main-class.php:617
+msgid "Error! File could not be uploaded."
+msgstr "Erreur! Le fichier ne peut être téléchargé."
+
+#: includes/main-class.php:619
+msgid "Remove"
+msgstr "Enlever"
+
+#: includes/main-class.php:620
+msgid "Uploading..."
+msgstr "Téléchargement …"
+
+#: includes/main-class.php:621
+msgid "Saving as draft..."
+msgstr "Enregistrer en brouillon..."
+
+#: includes/main-class.php:624
+msgid "Download Attachment"
+msgstr "Télécharger la pièce jointe"
+
+#: includes/main-class.php:742
+msgid "All Member Notices"
+msgstr "Tous les avis de membres"
+
+#: templates/attachments.php:20 templates/attachments.php:37
+msgid "Download attachment"
+msgstr "Télécharger la pièce jointe"
+
+#: templates/drafts.php:14
+msgid "Select all"
+msgstr "Sélectionner tout"
+
+#: templates/drafts.php:15
+#: templates/members/single/messages/messages-loop.php:14
+msgid "From"
+msgstr "De"
+
+#: templates/drafts.php:16 templates/members/single/messages/compose.php:33
+#: templates/members/single/messages/messages-loop.php:15
+msgid "Subject"
+msgstr "Sujet"
+
+#: templates/drafts.php:30
+#: templates/members/single/messages/messages-loop.php:33
+msgid "Actions"
+msgstr "Actions"
+
+#: templates/drafts.php:41 templates/drafts.php:112
+msgid "Select this message"
+msgstr "Sélectionnez ce message"
+
+#: templates/drafts.php:46 templates/drafts.php:117
+#: templates/members/single/messages/messages-loop.php:52
+msgid "To:"
+msgstr "À:"
+
+#: templates/drafts.php:52 templates/drafts.php:69 templates/drafts.php:80
+#: templates/drafts.php:123 templates/drafts.php:137 templates/drafts.php:148
+msgid "Draft"
+msgstr "Brouillon"
+
+#: templates/drafts.php:63 templates/drafts.php:131
+#: templates/members/single/messages/messages-loop.php:65
+msgid "View Message"
+msgstr "Voir le message"
+
+#: templates/drafts.php:89 templates/drafts.php:157
+#: templates/members/single/messages/single.php:24
+msgid "Delete Message"
+msgstr "Supprimer le message"
+
+#: templates/drafts.php:89 templates/drafts.php:157
+#: templates/members/single/messages/messages-loop.php:88
+#: templates/members/single/messages/single.php:24
+msgid "Delete"
+msgstr "Supprimer"
+
+#: templates/drafts.php:178
+#: templates/members/single/messages/messages-loop.php:113
+msgid "Sorry, no messages were found."
+msgstr "Désolé, aucun message n'a été trouvé."
+
+#: templates/members/single/messages/compose.php:5
+msgid "Send To (Username or Friend's Name)"
+msgstr "Envoyer à (Utilisateur ou nom de l'ami)"
+
+#: templates/members/single/messages/compose.php:29
+msgid "This is a notice to all users."
+msgstr "Ceci est un message à tous les utilisateurs."
+
+#: templates/members/single/messages/compose.php:36
+msgid "Message"
+msgstr "Message"
+
+#: templates/members/single/messages/compose.php:91
+msgid "Send Message"
+msgstr "Envoyer un message"
+
+#: templates/members/single/messages/messages-loop.php:30
+msgid "Star"
+msgstr "Étoile"
+
+#: templates/members/single/messages/messages-loop.php:50
+msgid "From:"
+msgstr "De:"
+
+#: templates/members/single/messages/messages-loop.php:83
+msgid "Read"
+msgstr "Lecture"
+
+#: templates/members/single/messages/messages-loop.php:85
+msgid "Unread"
+msgstr "A lire"
+
+#: templates/members/single/messages/single.php:14
+msgid "You are alone in this conversation."
+msgstr "Vous êtes seul dans cette conversation."
+
+#: templates/members/single/messages/single.php:18
+msgid "Conversation between %s and you."
+msgstr "Conversation entre %s et vous."
+
+#: templates/members/single/messages/single.php:95
+msgid "Send a Reply"
+msgstr "Envoyer une réponse"
+
+#: templates/members/single/messages/single.php:125
+msgid "Send Reply"
+msgstr "Réponse envoyée"
+
+#: includes/bbm-functions.php:343
+msgctxt "Message dropdown filter"
+msgid "All"
+msgstr "Tout"
+
+#: includes/bbm-template-extend.php:75
+msgctxt "Message pagination previous text"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: includes/bbm-template-extend.php:76
+msgctxt "Message pagination next text"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#~ msgid ""
+#~ "An Unexpected HTTP Error occurred during the API request.</p> <p><a href="
+#~ "\"?\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+#~ msgstr ""
+#~ "Une erreur HTTP inattendue s’est produite lors d’une requête à "
+#~ "l’interface de programmation.</p> <p><a href=\"?\" onclick=\"document."
+#~ "location.reload(); return false;\">Réessayez</a>"
+
+#~ msgid "An unknown error occurred"
+#~ msgstr "Une erreur est survenue"
+
+#~ msgid "Support Forums"
+#~ msgstr "Forums d'aide"
+
+#~ msgid "Save Changes"
+#~ msgstr "Enregistrer les modifications"
+
+#~ msgid "http://buddyboss.com/product/buddyboss-inbox/"
+#~ msgstr "http://buddyboss.com/product/buddyboss-inbox/"
+
+#~ msgid "Turn BuddyPress Messaging into a state of the art inbox"
+#~ msgstr "Donnez un style avant-gardiste à votre Messagerie BuddyPress"
+
+#~ msgid "BuddyBoss"
+#~ msgstr "BuddyBoss"
+
+#~ msgid "http://buddyboss.com"
+#~ msgstr "http://buddyboss.com"

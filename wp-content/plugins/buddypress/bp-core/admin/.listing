@@ -1,0 +1,12 @@
+drwxr-xr-x   5 muscles  muscles      4096 May 16 11:55 .
+drwxr-xr-x   8 muscles  muscles      4096 May 16 11:55 ..
+-rw-r--r--   1 muscles  muscles      6273 May 16 11:55 bp-core-admin-actions.php
+-rw-r--r--   1 muscles  muscles     15123 May 16 11:55 bp-core-admin-components.php
+-rw-r--r--   1 muscles  muscles     36534 May 16 11:55 bp-core-admin-functions.php
+-rw-r--r--   1 muscles  muscles     16412 May 16 11:55 bp-core-admin-schema.php
+-rw-r--r--   1 muscles  muscles     11685 May 16 11:55 bp-core-admin-settings.php
+-rw-r--r--   1 muscles  muscles      7995 May 16 11:55 bp-core-admin-slugs.php
+-rw-r--r--   1 muscles  muscles     13448 May 16 11:55 bp-core-admin-tools.php
+drwxr-xr-x   2 muscles  muscles      4096 May 16 11:55 css
+drwxr-xr-x   2 muscles  muscles      4096 May 16 11:55 images
+drwxr-xr-x   2 muscles  muscles      4096 May 16 11:55 js

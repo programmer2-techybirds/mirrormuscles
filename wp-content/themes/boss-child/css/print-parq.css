@@ -1,0 +1,45 @@
+@media print{
+    @page {size: portrait}
+  
+    .print_container{
+        display: block !important;
+        width: 100%;
+    }
+  
+    .print_container .parq_title{
+        text-align: center;
+        font-family: 'Ubuntu';
+        font-size: 18px !important;
+        text-align: center;
+        padding: 20px 0;
+        background: #30455C !important;
+        color: #fff !important;
+        -webkit-print-color-adjust:exact;
+    }
+    
+    .print_container .parq_user_fields{
+        margin: 15px 0;
+    }
+
+    .print_container .parq_field {
+        width: 100%;
+        float: left;
+        margin-bottom: 10px;
+    }
+
+    .print_container .parq_field label {
+        font-family: 'Ubuntu';
+        font-size: 16px !important;
+    }
+
+    .print_container .parq_field input {
+        font-family: 'Ubuntu';
+        font-size: 14px !important;
+    }
+
+    .print_container .parq_question{
+        margin-bottom: 15px;
+    }
+
+
+}

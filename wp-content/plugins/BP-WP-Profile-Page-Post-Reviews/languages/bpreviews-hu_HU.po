@@ -1,0 +1,357 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-10-15 15:31+0530\n"
+"PO-Revision-Date: 2014-10-15 18:19+0100\n"
+"Last-Translator: attila <hello@bacsoattila.hu>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: hu_HU\n"
+
+#: BP-WP-Profile-Page-Post-Reviews.php:125
+msgid "Reviews Settings"
+msgstr ""
+
+#: BP-WP-Profile-Page-Post-Reviews.php:125
+msgid "Profile Reviews"
+msgstr ""
+
+#: BP-WP-Profile-Page-Post-Reviews.php:138
+msgid "BP-WP Profile Reviews - Options"
+msgstr ""
+
+#: BP-WP-Profile-Page-Post-Reviews.php:140
+msgid "About BP-WP Profile Reviews v.1.5.1"
+msgstr ""
+
+#: BP-WP-Profile-Page-Post-Reviews.php:142
+msgid ""
+"This plugin is an adaptation of <a href=\"http://wordpress.org/extend/"
+"plugins/bp-group-reviews/\" target=\"_blank\">BP Group Reviews</a>. This "
+"plugin has two functions that can be used together or separately:"
+msgstr ""
+
+#: BP-WP-Profile-Page-Post-Reviews.php:144
+msgid "Buddypress Member Profile Reviews"
+msgstr ""
+
+#: BP-WP-Profile-Page-Post-Reviews.php:144
+msgid ""
+"This option enables a Reviews tab and button for Buddypress Member Profiles. "
+"Members can leave text and star reviews on other members. The average star "
+"rating, number of reviews, and time is displayed. Reviews can only be "
+"deleted by the author or an administrator. The amount and average star "
+"ratings are displayed on the Member Directory. Reviews are fed into the "
+"activity stream. You can also reply and comment on reviews."
+msgstr ""
+
+#: BP-WP-Profile-Page-Post-Reviews.php:145
+msgid "Wordpress/Buddypress Post and Page Reviews"
+msgstr ""
+
+#: BP-WP-Profile-Page-Post-Reviews.php:145
+msgid ""
+"Post and Page comments are globally transformed into reviews with star "
+"ratings. Only a name, comment text box, and star rating show (no other "
+"fields like website, email, etc...). If enabled, existing comments will show "
+"zero stars. This option can be used whether you have Buddypress installed or "
+"not.  The average star rating is shown at the top of the comments. This "
+"works for Buddpress and Wordpress posts and pages alike. You can enable or "
+"disable ratings at the bottom of the draft. Reviews are fed into the "
+"activity stream. Reviews can be deleted in the Comments section of the admin "
+"panel. Star rating is displayed in the admin Comments section."
+msgstr ""
+
+#: BP-WP-Profile-Page-Post-Reviews.php:149
+msgid "Plugin Website"
+msgstr ""
+
+#: BP-WP-Profile-Page-Post-Reviews.php:150
+msgid "Author Website"
+msgstr ""
+
+#: BP-WP-Profile-Page-Post-Reviews.php:151
+msgid "Support Email"
+msgstr ""
+
+#: BP-WP-Profile-Page-Post-Reviews.php:152
+msgid "Support Forums"
+msgstr ""
+
+#: BP-WP-Profile-Page-Post-Reviews.php:154
+msgid ""
+"I pay to have this plugin developed at my own expense; future requests and "
+"development can be accommodated through donations. If you want to make a "
+"request, email"
+msgstr ""
+
+#: BP-WP-Profile-Page-Post-Reviews.php:165
+msgid "Enable Buddpress reviews on profile pages?"
+msgstr ""
+
+#: BP-WP-Profile-Page-Post-Reviews.php:165
+msgid ""
+"Adds a Reviews tab and button to all member profiles (Buddypress Activity "
+"Streams must be enabled)"
+msgstr ""
+
+#: BP-WP-Profile-Page-Post-Reviews.php:167
+msgid "Number of multiple Buddypress Profile reviews per user"
+msgstr ""
+
+#: BP-WP-Profile-Page-Post-Reviews.php:169
+msgid "Allows for multiple reviews from one user on same member. 0 = unlimited"
+msgstr ""
+
+#: BP-WP-Profile-Page-Post-Reviews.php:171
+msgid "Prevent members from rating their own Buddypress Profile?"
+msgstr ""
+
+#: BP-WP-Profile-Page-Post-Reviews.php:172
+msgid "Allow members to publish their reviews as anonymous?"
+msgstr ""
+
+#: BP-WP-Profile-Page-Post-Reviews.php:173
+msgid "Allow reviews from the public (non-members)?"
+msgstr ""
+
+#: BP-WP-Profile-Page-Post-Reviews.php:173
+msgid "this option also enables Captcha to prevent spam"
+msgstr ""
+
+#: BP-WP-Profile-Page-Post-Reviews.php:175
+msgid "Require email address confirmation before public review is posted"
+msgstr ""
+
+#: BP-WP-Profile-Page-Post-Reviews.php:175
+msgid "Number of unconfirmed reviews visible to admin on member profile."
+msgstr ""
+
+#: BP-WP-Profile-Page-Post-Reviews.php:176
+msgid "Send verified new review email notices to"
+msgstr ""
+
+#: BP-WP-Profile-Page-Post-Reviews.php:176
+#: BP-WP-Profile-Page-Post-Reviews.php:180
+msgid "Separate multiple email addresses using \",\" (comma) character"
+msgstr ""
+
+#: BP-WP-Profile-Page-Post-Reviews.php:178
+msgid "Allow users to report (flag) profile reviews?"
+msgstr ""
+
+#: BP-WP-Profile-Page-Post-Reviews.php:180
+msgid "Send notices for flagged reviews to"
+msgstr ""
+
+#: BP-WP-Profile-Page-Post-Reviews.php:182
+msgid "Shortcodes"
+msgstr ""
+
+#: BP-WP-Profile-Page-Post-Reviews.php:184
+msgid "Displays list of members with the highest average star rating"
+msgstr ""
+
+#: BP-WP-Profile-Page-Post-Reviews.php:185
+msgid "Displays list of members with the most total reviews"
+msgstr ""
+
+#: BP-WP-Profile-Page-Post-Reviews.php:190
+msgid "Enable Wordpress reviews for pages/posts?"
+msgstr ""
+
+#: BP-WP-Profile-Page-Post-Reviews.php:190
+msgid ""
+"Converts default Wordpress comments to include a star rating. Comments must "
+"enabled for posts/pages reviews to be visible"
+msgstr ""
+
+#: BP-WP-Profile-Page-Post-Reviews.php:192
+msgid "Save Changes"
+msgstr ""
+
+#: BP-WP-Profile-Page-Post-Reviews.php:209
+#: BP-WP-Profile-Page-Post-Reviews.php:215
+msgid "Reviews"
+msgstr ""
+
+#: BP-WP-Profile-Page-Post-Reviews.php:227
+msgid "Show Review on this page ? "
+msgstr ""
+
+#: BP-WP-Profile-Page-Post-Reviews.php:409
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: includes/class_depro.php:101
+msgid "Based on"
+msgstr ""
+
+#: includes/class_depro.php:101
+msgid "reviews"
+msgstr ""
+
+#: includes/class_depro.php:103
+msgid "No Reviews"
+msgstr "Nincsenek értékelések"
+
+#: includes/class_depro.php:113
+msgid "Add reviews for this user"
+msgstr ""
+
+#: includes/class_depro.php:114
+msgid "Add Review"
+msgstr ""
+
+#: includes/class_depro.php:209
+msgid "posted an Review "
+msgstr ""
+
+#: includes/class_depro.php:240
+msgid "CONFIRM REVIEW "
+msgstr ""
+
+#: includes/class_depro.php:242
+msgid "Thank you for submitting a review on"
+msgstr ""
+
+#: includes/class_depro.php:243
+msgid ""
+"Before your review is posted and approved, you must click the link below to "
+"confirm this review"
+msgstr ""
+
+#: includes/class_depro.php:244
+msgid "Thank you"
+msgstr ""
+
+#: includes/class_depro.php:254
+msgid "Review confirmation mail from "
+msgstr ""
+
+#: includes/class_depro.php:336
+msgid "Your review was posted successfully!"
+msgstr ""
+
+#: includes/class_depro.php:344
+msgid ""
+"Your review was posted successfully. Please confirm your review by email."
+msgstr ""
+
+#: includes/class_depro.php:352
+msgid "Please enter some content to post."
+msgstr ""
+
+#: includes/class_depro.php:361
+msgid "You can't post more than "
+msgstr ""
+
+#: includes/class_depro.php:361
+msgid " review(s) for a single user. "
+msgstr ""
+
+#: includes/class_depro.php:370
+msgid "Please enter correct capcha"
+msgstr ""
+
+#: includes/class_depro.php:379
+msgid "Please use another email address"
+msgstr ""
+
+#: includes/class_depro.php:403
+msgid "A new review has been posted live on"
+msgstr ""
+
+#: includes/class_depro.php:404
+msgid "this review was confirmed by"
+msgstr ""
+
+#: includes/class_depro.php:405
+msgid "You can review it and moderate it at"
+msgstr ""
+
+#: includes/class_depro.php:412
+msgid "New review submitted on "
+msgstr ""
+
+#: includes/postreviewform.php:69
+msgid "You can't review yourself"
+msgstr ""
+
+#: includes/postreviewform.php:105
+#, php-format
+msgid "You rated %s "
+msgstr ""
+
+#: includes/postreviewform.php:135
+msgid "What are your thoughts on"
+msgstr ""
+
+#: includes/postreviewform.php:157
+msgid "Name"
+msgstr ""
+
+#: includes/postreviewform.php:158
+msgid "Email"
+msgstr ""
+
+#: includes/postreviewform.php:176
+msgid "Enter the code below"
+msgstr ""
+
+#: includes/postreviewform.php:195
+msgid "Post as anonymous"
+msgstr ""
+
+#: includes/postreviewform.php:213
+msgid "Viewing reviews 1 to"
+msgstr ""
+
+#: includes/postreviewform.php:222
+msgid ""
+"There are no reviews yet. Why not <a href=\"#\">be the first to write one</"
+"a>?"
+msgstr ""
+
+#: includes/postreviewform.php:281
+msgid "Anonymous"
+msgstr ""
+
+#: includes/postreviewform.php:313
+msgid "Comment"
+msgstr ""
+
+#: includes/postreviewform.php:318
+msgid "Report"
+msgstr ""
+
+#: includes/postreviewform.php:320
+msgid "Reason"
+msgstr ""
+
+#: includes/postreviewform.php:321
+msgid "send"
+msgstr ""
+
+#: includes/postreviewform.php:322
+msgid "cancel"
+msgstr ""
+
+#: includes/postreviewform.php:343
+msgid "Post"
+msgstr ""
+
+#: includes/postreviewform.php:343
+msgid "or press esc to cancel."
+msgstr ""

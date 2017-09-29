@@ -1,0 +1,580 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BuddyBoss Reply by Email\n"
+"Report-Msgid-Bugs-To: http://www.buddyboss.com/contact/\n"
+"POT-Creation-Date: 2016-05-19 22:42:41+00:00\n"
+"PO-Revision-Date: 2016-05-06 16:03-0400\n"
+"Last-Translator: jean-pierre michaud <nexialys@yahoo.com>\n"
+"Language-Team: jean-pierre michaud <nexialys@yahoo.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: buddyboss-reply-by-email.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: buddyboss-reply-by-email.php:61
+msgid "Couldn't load main class at:<br/>%s"
+msgstr "Impossible de charger les composantes sur:<br/>%s"
+
+#: buddyboss-reply-by-email.php:65
+msgid "<h1>Fatal error:</h1><hr/><pre>%s</pre>"
+msgstr "<h1>Erreur fatale:</h1><hr/><pre>%s</pre>"
+
+#: includes/admin.php:114
+msgid "Server port can only contain numbers."
+msgstr "Port du serveur ne peut contenir que des nombres."
+
+#: includes/admin.php:115
+msgid "Please select the valid server protocol."
+msgstr "Veuillez sélectionner le protocole de serveur valide."
+
+#: includes/admin.php:116
+msgid "Setting saved."
+msgstr "Paramètre enregistré."
+
+#: includes/admin.php:117
+msgid "Entered email is not valid."
+msgstr "Mail n'est pas valide."
+
+#: includes/admin.php:118
+msgid "Please enter a valid email address."
+msgstr "Veuillez entrer une adresse email valide."
+
+#: includes/admin.php:119
+msgid "Test email has been sent."
+msgstr "Votre email test a été envoyé."
+
+#: includes/admin.php:120
+msgid "Entered domain is not configured with SendGrid."
+msgstr "Domaine entré n'est pas configuré avec SendGrid."
+
+#: includes/admin.php:180 includes/admin.php:209
+msgid "BuddyBoss Reply by Email"
+msgstr "BuddyBoss Réponse par Email"
+
+#: includes/admin.php:180
+msgid "Reply by Email"
+msgstr "Réponse par Email"
+
+#: includes/admin.php:186
+msgid "Settings"
+msgstr "Réglages"
+
+#: includes/admin.php:213
+msgid "Components"
+msgstr "Composants"
+
+#: includes/admin.php:217
+msgid "Email Setup"
+msgstr "Configuration de la messagerie"
+
+#: includes/admin.php:221 includes/admin.php:326
+msgid "Send Test"
+msgstr "Envois du Test"
+
+#: includes/admin.php:225
+msgid "Logs"
+msgstr "Logs"
+
+#: includes/admin.php:228
+msgid "Support"
+msgstr "Support"
+
+#: includes/admin.php:285 includes/admin.php:468
+msgid "Save Changes"
+msgstr "Enregistrer les modifications"
+
+#: includes/admin.php:305
+msgid "You need to first Email Setup to test reply by email."
+msgstr ""
+"Pour tester Réponse par Email, vous devrez passer par la configuration de la "
+"messagerie"
+
+#: includes/admin.php:324
+msgid "Email Address"
+msgstr "Adresse email"
+
+#: includes/admin.php:327
+msgid ""
+"Enter any email address you have access to, and then click \"Send Test\"."
+"<br /> Then log into that email and reply to the test message. If it works "
+"your reply will display on this page after 5-10 seconds."
+msgstr ""
+"Entrez n'importe quelle adresse de courriel, à que vous avez accès et puis "
+"cliquez sur \"Envois du Test\".<br>Puis ouvrez une session dans cet e-mail "
+"et répondez au message d'essai. Si ça marche ta réponse affiche sur cette "
+"page après 5 à 10 secondes."
+
+#: includes/admin.php:343
+msgid ""
+"Please check your inbox and reply to the email. Then click the \"Read Reply"
+"\" button below to confirm."
+msgstr ""
+"Vous devez vérifier votre boîte de réception et de répondre à l'email. Puis "
+"cliquez sur le bouton \"Lire la Réponse\" ci-dessous pour confirmer."
+
+#: includes/admin.php:347
+msgid "Read Reply"
+msgstr "Lire la Réponse"
+
+#: includes/admin.php:358
+msgid "Replied Message"
+msgstr "Message Répondu"
+
+#: includes/admin.php:364
+msgid "Please wait for <span class='count'></span> seconds."
+msgstr "Vous devez attendre <span class='count'></span> secondes."
+
+#: includes/admin.php:373
+msgid "Re-Check"
+msgstr "Re-vérifier"
+
+#: includes/admin.php:375
+msgid "New Test"
+msgstr "Nouveau test"
+
+#: includes/admin.php:432
+msgid "Mail Service"
+msgstr "Service Courriel"
+
+#: includes/admin.php:435
+msgid "Disabled"
+msgstr "Désactivé"
+
+#: includes/admin.php:440
+msgid "Select the mail service you want to use for inbound emails."
+msgstr ""
+"Sélectionnez le service de messagerie à utiliser pour les e-mails entrants."
+
+#: includes/admin.php:460
+msgid ""
+"Reply by Email will not work until a Mail Service is selected and configured."
+msgstr ""
+"Réponse par Email ne fonctionnera pas jusqu'à ce qu'un Service de messagerie "
+"soit sélectionné et configuré."
+
+#: includes/admin.php:485
+msgid "SendGrid Setup"
+msgstr "Programme d'installation SendGrid"
+
+#: includes/admin.php:486
+msgid ""
+"We integrate with <a href=\"https://sendgrid.com/\" target=\"_blank"
+"\">SendGrid</a>, a scalable service for incoming email. Sendgrid is more "
+"complex to configure than Cloudmailin, but is also more affordable at higher "
+"volumes. Please open a <a href=\"https://sendgrid.com/pricing.html\" target="
+"\"_blank\"> free plan</a> and <a href=\"https://app.sendgrid.com/settings/"
+"whitelabel/domains\" target=\"_blank\">whitelabel</a> your domain, and then "
+"return here when finished."
+msgstr ""
+"Nous fonctionnons avec <a href=\"https://sendgrid.com/\" target=\"_blank"
+"\">SendGrid</a>, un service évolutif pour les e-mails entrants. Sendgrid est "
+"plus complexe à configurer que Cloudmailin, mais il est aussi plus abordable "
+"à volume élevé. S'il vous plaît ouvrez un <a href=\"https://sendgrid.com/"
+"pricing.html\" target=\"_blank\">plan gratuit</a> et <a href=\"https://app."
+"sendgrid.com/settings/whitelabel/domains\" target=\"_blank\">whitelabel</a> "
+"votre domaine et puis revenez ici lorsque vous avez terminé."
+
+#: includes/admin.php:486
+msgid "Go to the <a href=\"%s\">Support tab</a> for video tutorials."
+msgstr ""
+"Allez dans l'<a href=\"%s\">onglet Support</a> pour des tutoriels vidéo."
+
+#: includes/admin.php:491
+msgid "Step 1: Domain Whitelabel"
+msgstr "Étape 1: Domaine Whitelabel"
+
+#: includes/admin.php:493
+msgid "Domain added at SendGrid"
+msgstr "Domaine ajouté à SendGrid"
+
+#: includes/admin.php:494
+msgid "eg. reply.domain.com"
+msgstr "ex. reply.domain.com"
+
+#: includes/admin.php:495
+msgid ""
+"Enter the domain or subdomain which you <a href=\"%s\" target=\"_blank"
+"\">whitelabeled</a> in your SendGrid account, at Settings &gt; Whitelabels "
+"&gt; Domains."
+msgstr ""
+"Entrez le domaine ou sous-domaine qui vous <a href=\"%s\" target=\"_blank"
+"\">whitelabeled</a> dans votre compte de SendGrid, à paramètres > "
+"Whitelabels > domaines."
+
+#: includes/admin.php:500
+msgid "Email Reply"
+msgstr "Mail de réponse"
+
+#: includes/admin.php:503
+msgid ""
+"Enter an email name to be used for all inbound replies. Default value is "
+"\"reply\"."
+msgstr ""
+"Entrez un nom de messagerie à utiliser pour toutes réponses entrantes. "
+"Valeur par défaut est \"reponse\"."
+
+#: includes/admin.php:512
+msgid "Step 2: Inbound Parse"
+msgstr "Étape 2: Analyse entrant"
+
+#: includes/admin.php:513
+msgid ""
+"Once your domain is verified as whitelabeled at SendGrid, you will need to "
+"add the following <b>HOSTNAME &amp; URL</b> values to the SendGrid <a href="
+"\"https://app.sendgrid.com/settings/parse\" target=\"_blank\">Inbound Parse</"
+"a> settings, at Settings &gt; Inbound Parse."
+msgstr ""
+"Une fois que votre domaine est vérifiée comme whitelabeled à SendGrid, vous "
+"devrez ajouter les valeurs de <b>HOSTNAME &amp; URL</b> suivants les "
+"paramètres SendGrid <a href=\"https://app.sendgrid.com/settings/parse\" "
+"target=\"_blank\">Inbound Parse</a>, dans Settings > Inbound Parse."
+
+#: includes/admin.php:515
+msgid "HOSTNAME"
+msgstr "HOSTNAME"
+
+#: includes/admin.php:519
+msgid "URL"
+msgstr "URL"
+
+#: includes/admin.php:525
+msgid "Leave <b>SPAM CHECK</b> and <b>SEND RAW</b> as un-checked."
+msgstr "Laisser <b>SPAM CHECK</b> et <b>SEND RAW</b> dé-cochés."
+
+#: includes/admin.php:552
+msgid "CloudMailin Setup"
+msgstr "Programme d'installation CloudMailin"
+
+#: includes/admin.php:553
+msgid ""
+"We integrate with <a href=\"https://www.cloudmailin.com/\"\" target=\"_blank"
+"\">CloudMailin</a>, an easy to configure service for incoming email. Please "
+"<a href=\"https://www.cloudmailin.com/user/sign_up\" target=\"_blank"
+"\">create a free account</a> using the settings below, and then return here "
+"once you have an email assigned."
+msgstr ""
+"Nous fonctionnons avec <a href=\"https://www.cloudmailin.com/\" \"=\"\" "
+"target=\"_blank\">CloudMailin</a>, un service facile à configurer pour le "
+"courrier électronique entrant. Veuillez <a href=\"https://www.cloudmailin."
+"com/user/sign_up\" target=\"_blank\">créer un compte gratuit</a> en "
+"utilisant les paramètres ci-dessous et ensuite revenir ici une fois que vous "
+"avez un email assigné."
+
+#: includes/admin.php:559
+msgid "Incoming Email Address"
+msgstr "Adresse de email entrant"
+
+#: includes/admin.php:564
+msgid "Enter the email address given to you during CloudMailin signup."
+msgstr ""
+"Entrez l'adresse e-mail qui vous est donné au cours de l'inscription de "
+"CloudMailin."
+
+#: includes/admin.php:572
+msgid "Settings for CloudMailin"
+msgstr "Paramètres de CloudMailin"
+
+#: includes/admin.php:573
+msgid ""
+"Enter the below settings at CloudMailin when it asks <em>\"Where shall we "
+"send your email?\"</em>"
+msgstr ""
+"Entrez le ci-dessous paramètres à CloudMailin quand il demande <em>\"Where "
+"shall we send your email?\"</em>"
+
+#: includes/admin.php:575
+msgid "URL of your server (HTTP Endpoint)"
+msgstr "URL de votre serveur (point de terminaison HTTP)"
+
+#: includes/admin.php:579
+msgid "POST Format"
+msgstr "POST Format"
+
+#: includes/admin.php:580
+msgid "Multipart (recommended)"
+msgstr "Multipart (recommandé)"
+
+#: includes/admin.php:622
+msgid "No logs found."
+msgstr "Aucun journal trouvé."
+
+#: includes/admin.php:629
+msgid "Datetime"
+msgstr "Date et heure"
+
+#: includes/admin.php:630
+msgid "Message"
+msgstr "Message"
+
+#: includes/admin.php:768
+msgid "BuddyBoss Reply by Email Test"
+msgstr "Test pour BuddyBoss Réponse par Email"
+
+#: includes/admin.php:768
+msgid ""
+"Send a reply to this email. Then return to the Reply by Email \"Send Test\" "
+"tab to confirm it worked."
+msgstr ""
+"Envoyez une réponse à cet email.  Ensuite retournez dans le menu \"Envois du "
+"Test\" pour confirmer qu'il fonctionne."
+
+#: includes/buddyboss-plugin-updater.php:84
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+"Une erreur HTTP inattendue s’est produite lors d’une requête à l’interface "
+"de programmation.</p> <p><a href=\"?\" onclick=\"document.location.reload(); "
+"return false;\">Réessayez</a>"
+
+#: includes/buddyboss-plugin-updater.php:88
+msgid "An unknown error occurred"
+msgstr "Une erreur est survenue"
+
+#: includes/help-support.php:5
+msgid "Cloudmailin Tutorials"
+msgstr "Cloudmailin tutoriels"
+
+#: includes/help-support.php:15
+msgid "SendGrid Tutorials"
+msgstr "SendGrid tutoriels"
+
+#: includes/help-support.php:25
+msgid "Need more help?"
+msgstr "Besoin d'aide?"
+
+#: includes/help-support.php:28
+msgid "Frequently Asked Questions"
+msgstr "Foire aux questions"
+
+#: includes/help-support.php:29
+msgid "Support Forums"
+msgstr "Forums d'aide"
+
+#: includes/help-support.php:30
+msgid "How to Update"
+msgstr "Comment mettre à jour"
+
+#: includes/main-class.php:211 includes/main-class.php:220
+msgid "Cheatin&#8217; huh?"
+msgstr "On triche, hum?"
+
+#: includes/main-class.php:330
+msgid "Cloudmailin (easy)"
+msgstr "Cloudmailin (facile)"
+
+#: includes/main-class.php:331
+msgid "SendGrid (advanced)"
+msgstr "SendGrid (avancé)"
+
+#: includes/main-class.php:646
+msgid "BBRBE Every 2 Minutes"
+msgstr "BBRBE toutes les 2 Minutes"
+
+#: includes/rbe-cloudmailin-handler.php:96
+#: includes/rbe-sendgrid-handler.php:134
+msgid "Received test mail from %1$s."
+msgstr "Ceci est l’émail test envoyé de  %1$s."
+
+#: includes/rbe-cloudmailin-handler.php:112
+#: includes/rbe-sendgrid-handler.php:148
+msgid "Incoming Received"
+msgstr "Entrant reçu"
+
+#: includes/rbe-cloudmailin-handler.php:117
+#: includes/rbe-sendgrid-handler.php:153
+msgid "Failed incoming mail error: (%1$s)"
+msgstr "Erreur dans le retour de courrier: (%1$s)"
+
+#: includes/rbe-cloudmailin-handler.php:122
+#: includes/rbe-sendgrid-handler.php:158
+msgid "Ooops."
+msgstr "Ooops."
+
+#: includes/rbe-core-class.php:487
+msgid ""
+"Please select <a href='%s'>Mail service</a> in order to use <b>Reply by "
+"Email</b> functionality."
+msgstr ""
+"Vous devez sélectionner un <a href='%s'>Service de Courriel</a> pour "
+"utiliser les fonctionalités de <b>Réponse par Email</b>."
+
+#: includes/rbe-core-class.php:491
+msgid ""
+"Please complete the <a href='%s'>email setup</a> in order to use <b>Reply by "
+"Email</b> functionality."
+msgstr ""
+"Vous devez complèter la <a href='%s'>Configuration d'Email</a> pour utiliser "
+"les fonctionalités de <b>Réponse par Email</b>."
+
+#: includes/rbe-core-class.php:495
+msgid ""
+"<b>BuddyBoss Reply by Email</b> is not working correctly check <a "
+"href='%s'>logs</a> for details."
+msgstr ""
+"<b>BuddyBoss Réponse par Email</b>ne fonctionne pas correctement, vérifier "
+"les <a href='%s'>logs</a> pour les details."
+
+#: includes/rbe-core-class.php:508
+msgid ""
+"Hi,\n"
+"Message reply you sent \"%1$s\" failed to post as the message has expired.\n"
+"Note: Don't reply to this email as it is auto generated.\n"
+msgstr ""
+"Salut, \n"
+"réponse de Message que vous a envoyé « %1$s » n'a pas pu valider en tant que "
+"le message a expiré.\n"
+"Remarque : Ne pas répondre à ce message car il est généré automatiquement.\n"
+
+#: includes/rbe-core-class.php:514
+msgid ""
+"Hi,\n"
+"Your previous reply failed. Please type some text and reply."
+msgstr ""
+"Salut, votre réponse précédente a échoué. Veuillez taper quelques mots et "
+"envoyer la réponse."
+
+#: includes/rbe-core-class.php:519
+msgid "Reply message failed"
+msgstr "Echec de réponse de message!"
+
+#: includes/rbe-processor.php:87
+msgid "Does not have a valid Reply by Email header."
+msgstr "N'a pas une réponse valide de l'en-tête du message."
+
+#: includes/rbe-processor.php:96
+msgid "Does not have a valid RBE header."
+msgstr "N'a pas un en-tête RBE valide."
+
+#: includes/rbe-processor.php:189
+msgid "Content is empty."
+msgstr "Article sans contenu"
+
+#: includes/rbe-processor.php:206
+msgid "Security token is expired."
+msgstr "Jeton de sécurité est expiré."
+
+#: includes/rbe-processor.php:213
+msgid "Security token not matched."
+msgstr "Jeton d’accès sans correspondance"
+
+#: includes/rbe-processor.php:222
+msgid "From source doesnt have permission with this token."
+msgstr "La source d'envois n'a pas de permission avec cette clé."
+
+#: includes/rbe-processor.php:251
+msgid "User didn't matched or found."
+msgstr "Aucun contact correspondant n'a été trouvé"
+
+#: includes/rbe-supports/activities-comments.php:124
+msgid "Activity comments"
+msgstr "Commentaires d’activités"
+
+#: includes/rbe-supports/activities-comments.php:126
+msgid "Allow replying to Activity comment notifications."
+msgstr "Permettre les réponses aux notifications de commentaires d'activité."
+
+#: includes/rbe-supports/activities-comments.php:132
+msgid ""
+"Requires <a href=\"%1$s\" target=\"_blank\">BuddyPress</a> plugin & "
+"BuddyPress <a href=\"%2$s\" target=\"_blank\">Activity component</a> to "
+"enable Activity comments notifications."
+msgstr ""
+"les composant du <a href=\"%2$s\" target=\"_blank\">flux d'activité</a> de "
+"<a href=\"%1$s\" target=\"_blank\">BuddyPress</a> nécessite d'être activé."
+
+#: includes/rbe-supports/activities.php:118
+msgid "Activity posts"
+msgstr "Messages d'activité"
+
+#: includes/rbe-supports/activities.php:120
+msgid "Allow replying to Activity post notifications."
+msgstr "Permettre les réponses aux notifications de messages d'activité."
+
+#: includes/rbe-supports/activities.php:126
+msgid ""
+"Requires <a href=\"%1$s\" target=\"_blank\">BuddyPress</a> plugin & "
+"BuddyPress <a href=\"%2$s\" target=\"_blank\">Activity component</a> to "
+"enable Activity posts notifications."
+msgstr ""
+"les composant du <a href=\"%2$s\" target=\"_blank\">flux d'activité</a> de "
+"<a href=\"%1$s\" target=\"_blank\">BuddyPress</a> sont nécessaires pour les "
+"notifications d'activité."
+
+#: includes/rbe-supports/bbp-topics.php:141
+msgid "bbPress topics"
+msgstr "Sujets bbPress"
+
+#: includes/rbe-supports/bbp-topics.php:143
+msgid "Allow replying to bbPress forum notifications."
+msgstr "Permettre les réponses aux notifications de forum bbPress."
+
+#: includes/rbe-supports/bbp-topics.php:148
+msgid ""
+"Requires <a href=\"%1$s\" target=\"_blank\">bbPress</a> plugin to enable "
+"bbPress topics notifications."
+msgstr ""
+"Le plugin <a href=\"%1$s\" target=\"_blank\">bbPress</a> est nécessaire pour "
+"l'activation des notifications de réponses du forum."
+
+#: includes/rbe-supports/messages.php:115
+msgid "Messages"
+msgstr "Messages"
+
+#: includes/rbe-supports/messages.php:117
+msgid "Allow replying to Message notifications."
+msgstr "Permettre les réponses aux notifications de Messages."
+
+#: includes/rbe-supports/messages.php:123
+msgid ""
+"Requires <a href=\"%1$s\" target=\"_blank\">BuddyPress</a> plugin & "
+"BuddyPress <a href=\"%2$s\" target=\"_blank\">Private Messaging</a> to "
+"enable Messages notifications."
+msgstr ""
+"les composant de la <a href=\"%2$s\" target=\"_blank\">Messagerie</a> de <a "
+"href=\"%1$s\" target=\"_blank\">BuddyPress</a> est nécessaire pour les "
+"notifications de messages."
+
+#: includes/rbe-supports/post-comments.php:126
+msgid "WordPress Post comments"
+msgstr "Commentaires d'articles de WordPress"
+
+#: includes/rbe-supports/post-comments.php:128
+msgid "Allow replying to WordPress post comment notifications."
+msgstr ""
+"Permettre les réponses aux notifications de commentaires d'articles "
+"Wordpress."
+
+#: includes/rbe-supports/post-comments.php:133
+msgid ""
+"Requires <a href=\"%1$s\" target=\"_blank\">Subscribe to Comments</a> plugin "
+"to enable comment notifications for best experience."
+msgstr ""
+"Le plugin <a href=\"%1$s\" target=\"_blank\">Subscribe to Comments</a> est "
+"nécessaire pour les notifications de commentaires de blog."
+
+#~ msgid "http://www.buddyboss.com/product/buddyboss-reply-by-email/"
+#~ msgstr "http://www.buddyboss.com/product/buddyboss-reply-by-email/"
+
+#~ msgid ""
+#~ "Reply to BuddyPress notifications by email, from messages, activity "
+#~ "posts, bbPress forums, and WordPress comments."
+#~ msgstr ""
+#~ "Répondre aux notifications de Buddypress par email, dans les messages, "
+#~ "activité, forums ou commentaires."
+
+#~ msgid "BuddyBoss"
+#~ msgstr "BuddyBoss"
+
+#~ msgid "http://buddyboss.com"
+#~ msgstr "http://buddyboss.com"

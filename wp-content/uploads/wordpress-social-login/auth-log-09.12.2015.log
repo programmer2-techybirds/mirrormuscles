@@ -1,0 +1,1002 @@
+
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 14:57:37 -- 37.53.108.70 -- Twitter -- 0 -- wsl_process_login -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Twitter&redirect_to=http%3A%2F%2Fmuscles.tick.in.ua%2Fwp-login.php -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 14:57:37 -- 37.53.108.70 -- Twitter -- 0 -- wsl_process_login_begin_start -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Twitter&redirect_to=http%3A%2F%2Fmuscles.tick.in.ua%2Fwp-login.php -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 14:57:38 -- 37.53.108.70 -- Twitter -- 0 -- wsl_process_login -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Twitter&redirect_to=http%3A%2F%2Fmuscles.tick.in.ua%2Fwp-login.php&redirect_to_provider=true -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 14:57:38 -- 37.53.108.70 -- Twitter -- 0 -- wsl_process_login_begin_start -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Twitter&redirect_to=http%3A%2F%2Fmuscles.tick.in.ua%2Fwp-login.php&redirect_to_provider=true -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 14:57:38 -- 37.53.108.70 -- Twitter -- 0 -- wsl_hook_process_login_before_hybridauth_authenticate -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Twitter&redirect_to=http%3A%2F%2Fmuscles.tick.in.ua%2Fwp-login.php&redirect_to_provider=true -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 14:57:44 -- 37.53.108.70 -- Twitter -- 0 -- wsl_process_login -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Twitter&redirect_to=http%3A%2F%2Fmuscles.tick.in.ua%2Fwp-login.php&redirect_to_provider=true -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 14:57:44 -- 37.53.108.70 -- Twitter -- 0 -- wsl_process_login_begin_start -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Twitter&redirect_to=http%3A%2F%2Fmuscles.tick.in.ua%2Fwp-login.php&redirect_to_provider=true -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 14:57:44 -- 37.53.108.70 -- Twitter -- 0 -- wsl_hook_process_login_before_hybridauth_authenticate -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Twitter&redirect_to=http%3A%2F%2Fmuscles.tick.in.ua%2Fwp-login.php&redirect_to_provider=true -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 14:57:44 -- 37.53.108.70 -- Twitter -- 0 -- wsl_hook_process_login_after_hybridauth_authenticate -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Twitter&redirect_to=http%3A%2F%2Fmuscles.tick.in.ua%2Fwp-login.php&redirect_to_provider=true -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 14:57:45 -- 37.53.108.70 -- Twitter -- 0 -- wsl_process_login -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticated&provider=Twitter&mode=login -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 14:57:45 -- 37.53.108.70 -- Twitter -- 0 -- wsl_process_login_end_start -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticated&provider=Twitter&mode=login -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 14:57:46 -- 37.53.108.70 -- Twitter -- 0 -- dbg:provider_api_call -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticated&provider=Twitter&mode=login -- Array
+(
+    [0] => OAuth1
+    [1] => https://api.twitter.com/1.1/account/verify_credentials.json?include_email=true&oauth_consumer_key=ZR5oVJDgBbD8CwiSPhNOkxMBG&oauth_nonce=dc3ce0e176968e0f6afef8ea166ebd1e&oauth_signature=Tg4m6ot0ClQmYjyjwr2m4BCqzmg%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1449673065&oauth_token=2793017004-UydDzOK1E8YGdtAoBDZAq9OjqiPeZMDhAelU0Zm&oauth_version=1.0
+    [2] => GET
+    [3] => 
+    [4] => 200
+    [5] => Array
+        (
+            [url] => https://api.twitter.com/1.1/account/verify_credentials.json?include_email=true&oauth_consumer_key=ZR5oVJDgBbD8CwiSPhNOkxMBG&oauth_nonce=dc3ce0e176968e0f6afef8ea166ebd1e&oauth_signature=Tg4m6ot0ClQmYjyjwr2m4BCqzmg%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1449673065&oauth_token=2793017004-UydDzOK1E8YGdtAoBDZAq9OjqiPeZMDhAelU0Zm&oauth_version=1.0
+            [content_type] => application/json;charset=utf-8
+            [http_code] => 200
+            [header_size] => 977
+            [request_size] => 477
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.634645
+            [namelookup_time] => 0.000535
+            [connect_time] => 0.151894
+            [pretransfer_time] => 0.459112
+            [size_upload] => 0
+            [size_download] => 1294
+            [speed_download] => 2038
+            [speed_upload] => 0
+            [download_content_length] => 1294
+            [upload_content_length] => 0
+            [starttransfer_time] => 0.63464
+            [redirect_time] => 0
+            [certinfo] => Array
+                (
+                )
+
+            [primary_ip] => 199.16.156.40
+            [redirect_url] => 
+            [request_header] => GET /1.1/account/verify_credentials.json?include_email=true&oauth_consumer_key=ZR5oVJDgBbD8CwiSPhNOkxMBG&oauth_nonce=dc3ce0e176968e0f6afef8ea166ebd1e&oauth_signature=Tg4m6ot0ClQmYjyjwr2m4BCqzmg%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1449673065&oauth_token=2793017004-UydDzOK1E8YGdtAoBDZAq9OjqiPeZMDhAelU0Zm&oauth_version=1.0 HTTP/1.1
+User-Agent: OAuth/1 Simple PHP Client v0.1; HybridAuth http://hybridauth.sourceforge.net/
+Host: api.twitter.com
+Accept: */*
+
+
+        )
+
+    [6] => {"id":2793017004,"id_str":"2793017004","name":"Al Ya","screen_name":"sk66cool","location":"Los Angeles, CA","description":"","url":null,"entities":{"description":{"urls":[]}},"protected":false,"followers_count":0,"friends_count":0,"listed_count":0,"created_at":"Sat Sep 06 03:28:26 +0000 2014","favourites_count":0,"utc_offset":null,"time_zone":null,"geo_enabled":false,"verified":false,"statuses_count":0,"lang":"ru","contributors_enabled":false,"is_translator":false,"is_translation_enabled":false,"profile_background_color":"C0DEED","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_tile":false,"profile_image_url":"http:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_1_normal.png","profile_image_url_https":"https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_1_normal.png","profile_link_color":"0084B4","profile_sidebar_border_color":"C0DEED","profile_sidebar_fill_color":"DDEEF6","profile_text_color":"333333","profile_use_background_image":true,"has_extended_profile":true,"default_profile":true,"default_profile_image":true,"following":false,"follow_request_sent":false,"notifications":false}
+    [7] => Backtrace: 
+	1) /includes/services/wsl.watchdog.php(70): wsl_generate_backtrace()
+	2) /includes/services/wsl.watchdog.php(248): wsl_watchdog_log_action('dbg:provider_ap...', Array)
+	3) [internal function]: wsl_watchdog_wsl_log_provider_api_call('OAuth1', 'https://api.twi...', 'GET', NULL, 200, Array, '{"id":279301700...')
+	4) /wp-includes/plugin.php(525): call_user_func_array('wsl_watchdog_ws...', Array)
+	5) /hybridauth/Hybrid/thirdparty/OAuth/OAuth1Client.php(247): do_action('wsl_log_provide...', 'OAuth1', 'https://api.twi...', 'GET', NULL, 200, Array, '{"id":279301700...')
+	6) /hybridauth/Hybrid/thirdparty/OAuth/OAuth1Client.php(171): OAuth1Client->request('https://api.twi...', 'GET', NULL, NULL, NULL)
+	7) /hybridauth/Hybrid/thirdparty/OAuth/OAuth1Client.php(144): OAuth1Client->signedRequest('https://api.twi...', 'GET', Array, NULL, NULL, false)
+	8) /hybridauth/Hybrid/thirdparty/OAuth/OAuth1Client.php(124): OAuth1Client->api('account/verify_...', 'GET', Array, NULL, NULL)
+	9) /hybridauth/Hybrid/Providers/Twitter.php(120): OAuth1Client->get('account/verify_...')
+	10) /hybridauth/Hybrid/Provider_Adapter.php(225): Hybrid_Providers_Twitter->getUserProfile()
+	11) /includes/services/wsl.authentication.php(992): Hybrid_Provider_Adapter->__call('getUserProfile', Array)
+	12) /includes/services/wsl.authentication.php(992): Hybrid_Provider_Adapter->getUserProfile()
+	13) /includes/services/wsl.authentication.php(395): wsl_process_login_request_user_social_profile('Twitter')
+	14) /includes/services/wsl.authentication.php(333): wsl_process_login_get_user_data('Twitter', 'http://muscles....')
+	15) /includes/services/wsl.authentication.php(136): wsl_process_login_end()
+	16) [internal function]: wsl_process_login('')
+	17) /wp-includes/plugin.php(525): call_user_func_array('wsl_process_log...', Array)
+	18) /wp-settings.php(392): do_action('init')
+	19) /wp-config.php(88): require_once('/home/chinamir/...')
+	20) /wp-load.php(37): require_once('/home/chinamir/...')
+	21) /wp-login.php(12): require('/home/chinamir/...')
+    [8] => USER: chinamir. PID: 682150. MEM: 52629KB.
+)
+
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 14:59:33 -- 37.53.108.70 -- Twitter -- 0 -- wsl_process_login -- http://muscles.tick.in.ua/wp-login.php -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 14:59:33 -- 37.53.108.70 -- Twitter -- 0 -- wsl_process_login_end_start -- http://muscles.tick.in.ua/wp-login.php -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 14:59:33 -- 37.53.108.70 -- Twitter -- 71 -- wsl_process_login_update_wsl_user_data_start -- http://muscles.tick.in.ua/wp-login.php -- Array
+(
+    [0] => 
+    [1] => 71
+    [2] => Twitter
+    [3] => Hybrid_Provider_Adapter Object
+        (
+            [id] => Twitter
+            [config] => Array
+                (
+                    [enabled] => 1
+                    [keys] => Array
+                        (
+                            [id] => 
+                            [key] => ZR5oVJDgBbD8CwiSPhNOkxMBG
+                            [secret] => EvX052igoDQkd18PqXKLtUe15ArK0XwSaSQrIzfz11VHTyBNmf
+                        )
+
+                    [scope] => 
+                )
+
+            [params] => Array
+                (
+                    [hauth_return_to] => http://muscles.tick.in.ua/wp-login.php
+                )
+
+            [wrapper] => Hybrid_Providers_Twitter
+            [adapter] => Hybrid_Providers_Twitter Object
+                (
+                    [request_tokens_raw] => 
+                    [access_tokens_raw] => 
+                    [providerId] => Twitter
+                    [config] => Array
+                        (
+                            [enabled] => 1
+                            [keys] => Array
+                                (
+                                    [id] => 
+                                    [key] => ZR5oVJDgBbD8CwiSPhNOkxMBG
+                                    [secret] => EvX052igoDQkd18PqXKLtUe15ArK0XwSaSQrIzfz11VHTyBNmf
+                                )
+
+                            [scope] => 
+                        )
+
+                    [params] => Array
+                        (
+                            [hauth_return_to] => http://muscles.tick.in.ua/wp-login.php
+                        )
+
+                    [endpoint] => 
+                    [user] => Hybrid_User Object
+                        (
+                            [providerId] => Twitter
+                            [timestamp] => 1449673173
+                            [profile] => Hybrid_User_Profile Object
+                                (
+                                    [identifier] => 
+                                    [webSiteURL] => 
+                                    [profileURL] => 
+                                    [photoURL] => 
+                                    [displayName] => 
+                                    [description] => 
+                                    [firstName] => 
+                                    [lastName] => 
+                                    [gender] => 
+                                    [language] => 
+                                    [age] => 
+                                    [birthDay] => 
+                                    [birthMonth] => 
+                                    [birthYear] => 
+                                    [email] => 
+                                    [emailVerified] => 
+                                    [phone] => 
+                                    [address] => 
+                                    [country] => 
+                                    [region] => 
+                                    [city] => 
+                                    [zip] => 
+                                )
+
+                        )
+
+                    [api] => OAuth1Client Object
+                        (
+                            [api_base_url] => https://api.twitter.com/1.1/
+                            [authorize_url] => https://api.twitter.com/oauth/authenticate
+                            [authenticate_url] => 
+                            [request_token_url] => https://api.twitter.com/oauth/request_token
+                            [access_token_url] => https://api.twitter.com/oauth/access_token
+                            [request_token_method] => GET
+                            [access_token_method] => GET
+                            [redirect_uri] => 
+                            [decode_json] => 1
+                            [curl_time_out] => 30
+                            [curl_connect_time_out] => 30
+                            [curl_ssl_verifypeer] => 
+                            [curl_auth_header] => 
+                            [curl_useragent] => OAuth/1 Simple PHP Client v0.1; HybridAuth http://hybridauth.sourceforge.net/
+                            [curl_proxy] => 
+                            [http_code] => 
+                            [http_info] => 
+                            [http_header] => 
+                            [sha1_method] => OAuthSignatureMethod_HMAC_SHA1 Object
+                                (
+                                )
+
+                            [consumer] => OAuthConsumer Object
+                                (
+                                    [key] => ZR5oVJDgBbD8CwiSPhNOkxMBG
+                                    [secret] => EvX052igoDQkd18PqXKLtUe15ArK0XwSaSQrIzfz11VHTyBNmf
+                                    [callback_url] => 
+                                )
+
+                            [token] => OAuthConsumer Object
+                                (
+                                    [key] => 2793017004-UydDzOK1E8YGdtAoBDZAq9OjqiPeZMDhAelU0Zm
+                                    [secret] => zTYJaG4MNfEvszTS1u79bWSMX1v9yCMPwNwlaZcclD3wC
+                                    [callback_url] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [4] => stdClass Object
+        (
+            [identifier] => 2793017004
+            [webSiteURL] => 
+            [profileURL] => http://twitter.com/sk66cool
+            [photoURL] => http://abs.twimg.com/sticky/default_profile_images/default_profile_1.png
+            [displayName] => sk66cool
+            [description] => 
+            [firstName] => Al Ya
+            [lastName] => 
+            [gender] => 
+            [language] => 
+            [age] => 
+            [birthDay] => 
+            [birthMonth] => 
+            [birthYear] => 
+            [email] => 
+            [emailVerified] => 
+            [phone] => 
+            [address] => 
+            [country] => 
+            [region] => Los Angeles, CA
+            [city] => 
+            [zip] => 
+        )
+
+    [5] => Backtrace: 
+	1) /includes/services/wsl.watchdog.php(70): wsl_generate_backtrace()
+	2) /includes/services/wsl.watchdog.php(206): wsl_watchdog_log_action('wsl_process_log...', Array, 71)
+	3) [internal function]: wsl_watchdog_wsl_process_login_update_wsl_user_data_start(false, 71, 'Twitter', Object(Hybrid_Provider_Adapter), Object(stdClass))
+	4) /wp-includes/plugin.php(525): call_user_func_array('wsl_watchdog_ws...', Array)
+	5) /includes/services/wsl.authentication.php(784): do_action('wsl_process_log...', false, 71, 'Twitter', Object(Hybrid_Provider_Adapter), Object(stdClass), Object(WP_User))
+	6) /includes/services/wsl.authentication.php(359): wsl_process_login_update_wsl_user_data(false, 71, 'Twitter', Object(Hybrid_Provider_Adapter), Object(stdClass), Object(WP_User))
+	7) /includes/services/wsl.authentication.php(136): wsl_process_login_end()
+	8) [internal function]: wsl_process_login('')
+	9) /wp-includes/plugin.php(525): call_user_func_array('wsl_process_log...', Array)
+	10) /wp-settings.php(392): do_action('init')
+	11) /wp-config.php(88): require_once('/home/chinamir/...')
+	12) /wp-load.php(37): require_once('/home/chinamir/...')
+	13) /wp-login.php(12): require('/home/chinamir/...')
+    [6] => USER: chinamir. PID: 697390. MEM: 52633KB.
+)
+
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 14:59:33 -- 37.53.108.70 -- Twitter -- 71 -- wsl_process_login_authenticate_wp_user_start -- http://muscles.tick.in.ua/wp-login.php -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 14:59:33 -- 37.53.108.70 -- Twitter -- 71 -- wsl_hook_process_login_before_wp_set_auth_cookie -- http://muscles.tick.in.ua/wp-login.php -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 14:59:33 -- 37.53.108.70 -- Twitter -- 71 -- wsl_hook_process_login_before_wp_safe_redirect -- http://muscles.tick.in.ua/wp-login.php -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:00:09 -- 37.53.108.70 -- Twitter -- 0 -- wsl_process_login -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Twitter&redirect_to=http%3A%2F%2Fmuscles.tick.in.ua%2Fwp-login.php -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:00:09 -- 37.53.108.70 -- Twitter -- 0 -- wsl_process_login_begin_start -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Twitter&redirect_to=http%3A%2F%2Fmuscles.tick.in.ua%2Fwp-login.php -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:00:10 -- 37.53.108.70 -- Twitter -- 0 -- wsl_process_login -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Twitter&redirect_to=http%3A%2F%2Fmuscles.tick.in.ua%2Fwp-login.php&redirect_to_provider=true -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:00:10 -- 37.53.108.70 -- Twitter -- 0 -- wsl_process_login_begin_start -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Twitter&redirect_to=http%3A%2F%2Fmuscles.tick.in.ua%2Fwp-login.php&redirect_to_provider=true -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:00:10 -- 37.53.108.70 -- Twitter -- 0 -- wsl_hook_process_login_before_hybridauth_authenticate -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Twitter&redirect_to=http%3A%2F%2Fmuscles.tick.in.ua%2Fwp-login.php&redirect_to_provider=true -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:00:14 -- 37.53.108.70 -- Twitter -- 0 -- wsl_process_login -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Twitter&redirect_to=http%3A%2F%2Fmuscles.tick.in.ua%2Fwp-login.php&redirect_to_provider=true -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:00:14 -- 37.53.108.70 -- Twitter -- 0 -- wsl_process_login_begin_start -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Twitter&redirect_to=http%3A%2F%2Fmuscles.tick.in.ua%2Fwp-login.php&redirect_to_provider=true -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:00:14 -- 37.53.108.70 -- Twitter -- 0 -- wsl_hook_process_login_before_hybridauth_authenticate -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Twitter&redirect_to=http%3A%2F%2Fmuscles.tick.in.ua%2Fwp-login.php&redirect_to_provider=true -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:00:14 -- 37.53.108.70 -- Twitter -- 0 -- wsl_hook_process_login_after_hybridauth_authenticate -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Twitter&redirect_to=http%3A%2F%2Fmuscles.tick.in.ua%2Fwp-login.php&redirect_to_provider=true -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:00:15 -- 37.53.108.70 -- Twitter -- 0 -- wsl_process_login -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticated&provider=Twitter&mode=login -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:00:15 -- 37.53.108.70 -- Twitter -- 0 -- wsl_process_login_end_start -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticated&provider=Twitter&mode=login -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:00:16 -- 37.53.108.70 -- Twitter -- 0 -- dbg:provider_api_call -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticated&provider=Twitter&mode=login -- Array
+(
+    [0] => OAuth1
+    [1] => https://api.twitter.com/1.1/account/verify_credentials.json?include_email=true&oauth_consumer_key=ZR5oVJDgBbD8CwiSPhNOkxMBG&oauth_nonce=d038b957fe1b94389a90c7cb0ab180e8&oauth_signature=kP2T05YxAUIalISizX%2Fjkg8lVO0%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1449673215&oauth_token=2793017004-UydDzOK1E8YGdtAoBDZAq9OjqiPeZMDhAelU0Zm&oauth_version=1.0
+    [2] => GET
+    [3] => 
+    [4] => 200
+    [5] => Array
+        (
+            [url] => https://api.twitter.com/1.1/account/verify_credentials.json?include_email=true&oauth_consumer_key=ZR5oVJDgBbD8CwiSPhNOkxMBG&oauth_nonce=d038b957fe1b94389a90c7cb0ab180e8&oauth_signature=kP2T05YxAUIalISizX%2Fjkg8lVO0%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1449673215&oauth_token=2793017004-UydDzOK1E8YGdtAoBDZAq9OjqiPeZMDhAelU0Zm&oauth_version=1.0
+            [content_type] => application/json;charset=utf-8
+            [http_code] => 200
+            [header_size] => 977
+            [request_size] => 479
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.639331
+            [namelookup_time] => 4.3E-5
+            [connect_time] => 0.151199
+            [pretransfer_time] => 0.460022
+            [size_upload] => 0
+            [size_download] => 1294
+            [speed_download] => 2023
+            [speed_upload] => 0
+            [download_content_length] => 1294
+            [upload_content_length] => 0
+            [starttransfer_time] => 0.639323
+            [redirect_time] => 0
+            [certinfo] => Array
+                (
+                )
+
+            [primary_ip] => 199.16.156.8
+            [redirect_url] => 
+            [request_header] => GET /1.1/account/verify_credentials.json?include_email=true&oauth_consumer_key=ZR5oVJDgBbD8CwiSPhNOkxMBG&oauth_nonce=d038b957fe1b94389a90c7cb0ab180e8&oauth_signature=kP2T05YxAUIalISizX%2Fjkg8lVO0%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1449673215&oauth_token=2793017004-UydDzOK1E8YGdtAoBDZAq9OjqiPeZMDhAelU0Zm&oauth_version=1.0 HTTP/1.1
+User-Agent: OAuth/1 Simple PHP Client v0.1; HybridAuth http://hybridauth.sourceforge.net/
+Host: api.twitter.com
+Accept: */*
+
+
+        )
+
+    [6] => {"id":2793017004,"id_str":"2793017004","name":"Al Ya","screen_name":"sk66cool","location":"Los Angeles, CA","description":"","url":null,"entities":{"description":{"urls":[]}},"protected":false,"followers_count":0,"friends_count":0,"listed_count":0,"created_at":"Sat Sep 06 03:28:26 +0000 2014","favourites_count":0,"utc_offset":null,"time_zone":null,"geo_enabled":false,"verified":false,"statuses_count":0,"lang":"ru","contributors_enabled":false,"is_translator":false,"is_translation_enabled":false,"profile_background_color":"C0DEED","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_tile":false,"profile_image_url":"http:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_1_normal.png","profile_image_url_https":"https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_1_normal.png","profile_link_color":"0084B4","profile_sidebar_border_color":"C0DEED","profile_sidebar_fill_color":"DDEEF6","profile_text_color":"333333","profile_use_background_image":true,"has_extended_profile":true,"default_profile":true,"default_profile_image":true,"following":false,"follow_request_sent":false,"notifications":false}
+    [7] => Backtrace: 
+	1) /includes/services/wsl.watchdog.php(70): wsl_generate_backtrace()
+	2) /includes/services/wsl.watchdog.php(248): wsl_watchdog_log_action('dbg:provider_ap...', Array)
+	3) [internal function]: wsl_watchdog_wsl_log_provider_api_call('OAuth1', 'https://api.twi...', 'GET', NULL, 200, Array, '{"id":279301700...')
+	4) /wp-includes/plugin.php(525): call_user_func_array('wsl_watchdog_ws...', Array)
+	5) /hybridauth/Hybrid/thirdparty/OAuth/OAuth1Client.php(247): do_action('wsl_log_provide...', 'OAuth1', 'https://api.twi...', 'GET', NULL, 200, Array, '{"id":279301700...')
+	6) /hybridauth/Hybrid/thirdparty/OAuth/OAuth1Client.php(171): OAuth1Client->request('https://api.twi...', 'GET', NULL, NULL, NULL)
+	7) /hybridauth/Hybrid/thirdparty/OAuth/OAuth1Client.php(144): OAuth1Client->signedRequest('https://api.twi...', 'GET', Array, NULL, NULL, false)
+	8) /hybridauth/Hybrid/thirdparty/OAuth/OAuth1Client.php(124): OAuth1Client->api('account/verify_...', 'GET', Array, NULL, NULL)
+	9) /hybridauth/Hybrid/Providers/Twitter.php(120): OAuth1Client->get('account/verify_...')
+	10) /hybridauth/Hybrid/Provider_Adapter.php(225): Hybrid_Providers_Twitter->getUserProfile()
+	11) /includes/services/wsl.authentication.php(992): Hybrid_Provider_Adapter->__call('getUserProfile', Array)
+	12) /includes/services/wsl.authentication.php(992): Hybrid_Provider_Adapter->getUserProfile()
+	13) /includes/services/wsl.authentication.php(395): wsl_process_login_request_user_social_profile('Twitter')
+	14) /includes/services/wsl.authentication.php(333): wsl_process_login_get_user_data('Twitter', 'http://muscles....')
+	15) /includes/services/wsl.authentication.php(136): wsl_process_login_end()
+	16) [internal function]: wsl_process_login('')
+	17) /wp-includes/plugin.php(525): call_user_func_array('wsl_process_log...', Array)
+	18) /wp-settings.php(392): do_action('init')
+	19) /wp-config.php(88): require_once('/home/chinamir/...')
+	20) /wp-load.php(37): require_once('/home/chinamir/...')
+	21) /wp-login.php(12): require('/home/chinamir/...')
+    [8] => USER: chinamir. PID: 697390. MEM: 52627KB.
+)
+
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:00:16 -- 37.53.108.70 -- Twitter -- 71 -- wsl_process_login_update_wsl_user_data_start -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticated&provider=Twitter&mode=login -- Array
+(
+    [0] => 
+    [1] => 71
+    [2] => Twitter
+    [3] => Hybrid_Provider_Adapter Object
+        (
+            [id] => Twitter
+            [config] => Array
+                (
+                    [enabled] => 1
+                    [keys] => Array
+                        (
+                            [id] => 
+                            [key] => ZR5oVJDgBbD8CwiSPhNOkxMBG
+                            [secret] => EvX052igoDQkd18PqXKLtUe15ArK0XwSaSQrIzfz11VHTyBNmf
+                        )
+
+                    [scope] => 
+                )
+
+            [params] => Array
+                (
+                    [hauth_return_to] => http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticated&provider=Twitter&mode=login
+                )
+
+            [wrapper] => Hybrid_Providers_Twitter
+            [adapter] => Hybrid_Providers_Twitter Object
+                (
+                    [request_tokens_raw] => 
+                    [access_tokens_raw] => 
+                    [providerId] => Twitter
+                    [config] => Array
+                        (
+                            [enabled] => 1
+                            [keys] => Array
+                                (
+                                    [id] => 
+                                    [key] => ZR5oVJDgBbD8CwiSPhNOkxMBG
+                                    [secret] => EvX052igoDQkd18PqXKLtUe15ArK0XwSaSQrIzfz11VHTyBNmf
+                                )
+
+                            [scope] => 
+                        )
+
+                    [params] => Array
+                        (
+                            [hauth_return_to] => http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticated&provider=Twitter&mode=login
+                        )
+
+                    [endpoint] => 
+                    [user] => Hybrid_User Object
+                        (
+                            [providerId] => Twitter
+                            [timestamp] => 1449673216
+                            [profile] => Hybrid_User_Profile Object
+                                (
+                                    [identifier] => 
+                                    [webSiteURL] => 
+                                    [profileURL] => 
+                                    [photoURL] => 
+                                    [displayName] => 
+                                    [description] => 
+                                    [firstName] => 
+                                    [lastName] => 
+                                    [gender] => 
+                                    [language] => 
+                                    [age] => 
+                                    [birthDay] => 
+                                    [birthMonth] => 
+                                    [birthYear] => 
+                                    [email] => 
+                                    [emailVerified] => 
+                                    [phone] => 
+                                    [address] => 
+                                    [country] => 
+                                    [region] => 
+                                    [city] => 
+                                    [zip] => 
+                                )
+
+                        )
+
+                    [api] => OAuth1Client Object
+                        (
+                            [api_base_url] => https://api.twitter.com/1.1/
+                            [authorize_url] => https://api.twitter.com/oauth/authenticate
+                            [authenticate_url] => 
+                            [request_token_url] => https://api.twitter.com/oauth/request_token
+                            [access_token_url] => https://api.twitter.com/oauth/access_token
+                            [request_token_method] => GET
+                            [access_token_method] => GET
+                            [redirect_uri] => 
+                            [decode_json] => 1
+                            [curl_time_out] => 30
+                            [curl_connect_time_out] => 30
+                            [curl_ssl_verifypeer] => 
+                            [curl_auth_header] => 
+                            [curl_useragent] => OAuth/1 Simple PHP Client v0.1; HybridAuth http://hybridauth.sourceforge.net/
+                            [curl_proxy] => 
+                            [http_code] => 
+                            [http_info] => 
+                            [http_header] => 
+                            [sha1_method] => OAuthSignatureMethod_HMAC_SHA1 Object
+                                (
+                                )
+
+                            [consumer] => OAuthConsumer Object
+                                (
+                                    [key] => ZR5oVJDgBbD8CwiSPhNOkxMBG
+                                    [secret] => EvX052igoDQkd18PqXKLtUe15ArK0XwSaSQrIzfz11VHTyBNmf
+                                    [callback_url] => 
+                                )
+
+                            [token] => OAuthConsumer Object
+                                (
+                                    [key] => 2793017004-UydDzOK1E8YGdtAoBDZAq9OjqiPeZMDhAelU0Zm
+                                    [secret] => zTYJaG4MNfEvszTS1u79bWSMX1v9yCMPwNwlaZcclD3wC
+                                    [callback_url] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [4] => Hybrid_User_Profile Object
+        (
+            [identifier] => 2793017004
+            [webSiteURL] => 
+            [profileURL] => http://twitter.com/sk66cool
+            [photoURL] => http://abs.twimg.com/sticky/default_profile_images/default_profile_1.png
+            [displayName] => sk66cool
+            [description] => 
+            [firstName] => Al Ya
+            [lastName] => 
+            [gender] => 
+            [language] => 
+            [age] => 
+            [birthDay] => 
+            [birthMonth] => 
+            [birthYear] => 
+            [email] => 
+            [emailVerified] => 
+            [phone] => 
+            [address] => 
+            [country] => 
+            [region] => Los Angeles, CA
+            [city] => 
+            [zip] => 
+        )
+
+    [5] => Backtrace: 
+	1) /includes/services/wsl.watchdog.php(70): wsl_generate_backtrace()
+	2) /includes/services/wsl.watchdog.php(206): wsl_watchdog_log_action('wsl_process_log...', Array, 71)
+	3) [internal function]: wsl_watchdog_wsl_process_login_update_wsl_user_data_start(false, 71, 'Twitter', Object(Hybrid_Provider_Adapter), Object(Hybrid_User_Profile))
+	4) /wp-includes/plugin.php(525): call_user_func_array('wsl_watchdog_ws...', Array)
+	5) /includes/services/wsl.authentication.php(784): do_action('wsl_process_log...', false, 71, 'Twitter', Object(Hybrid_Provider_Adapter), Object(Hybrid_User_Profile), Object(WP_User))
+	6) /includes/services/wsl.authentication.php(359): wsl_process_login_update_wsl_user_data(false, 71, 'Twitter', Object(Hybrid_Provider_Adapter), Object(Hybrid_User_Profile), Object(WP_User))
+	7) /includes/services/wsl.authentication.php(136): wsl_process_login_end()
+	8) [internal function]: wsl_process_login('')
+	9) /wp-includes/plugin.php(525): call_user_func_array('wsl_process_log...', Array)
+	10) /wp-settings.php(392): do_action('init')
+	11) /wp-config.php(88): require_once('/home/chinamir/...')
+	12) /wp-load.php(37): require_once('/home/chinamir/...')
+	13) /wp-login.php(12): require('/home/chinamir/...')
+    [6] => USER: chinamir. PID: 697390. MEM: 52667KB.
+)
+
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:00:16 -- 37.53.108.70 -- Twitter -- 71 -- wsl_process_login_authenticate_wp_user_start -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticated&provider=Twitter&mode=login -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:00:16 -- 37.53.108.70 -- Twitter -- 71 -- wsl_hook_process_login_before_wp_set_auth_cookie -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticated&provider=Twitter&mode=login -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:00:16 -- 37.53.108.70 -- Twitter -- 71 -- wsl_hook_process_login_before_wp_safe_redirect -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticated&provider=Twitter&mode=login -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:03:42 -- 37.53.108.70 -- Google -- 0 -- wsl_process_login -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Google&redirect_to=http%3A%2F%2Fmuscles.tick.in.ua%2Fwp-login.php -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:03:42 -- 37.53.108.70 -- Google -- 0 -- wsl_process_login_begin_start -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Google&redirect_to=http%3A%2F%2Fmuscles.tick.in.ua%2Fwp-login.php -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:03:43 -- 37.53.108.70 -- Google -- 0 -- wsl_process_login -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Google&redirect_to=http%3A%2F%2Fmuscles.tick.in.ua%2Fwp-login.php&redirect_to_provider=true -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:03:43 -- 37.53.108.70 -- Google -- 0 -- wsl_process_login_begin_start -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Google&redirect_to=http%3A%2F%2Fmuscles.tick.in.ua%2Fwp-login.php&redirect_to_provider=true -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:03:43 -- 37.53.108.70 -- Google -- 0 -- wsl_hook_process_login_before_hybridauth_authenticate -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Google&redirect_to=http%3A%2F%2Fmuscles.tick.in.ua%2Fwp-login.php&redirect_to_provider=true -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:03:51 -- 37.53.108.70 -- Google -- 0 -- wsl_process_login -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Google&redirect_to=http%3A%2F%2Fmuscles.tick.in.ua%2Fwp-login.php&redirect_to_provider=true -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:03:51 -- 37.53.108.70 -- Google -- 0 -- wsl_process_login_begin_start -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Google&redirect_to=http%3A%2F%2Fmuscles.tick.in.ua%2Fwp-login.php&redirect_to_provider=true -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:03:51 -- 37.53.108.70 -- Google -- 0 -- wsl_hook_process_login_before_hybridauth_authenticate -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Google&redirect_to=http%3A%2F%2Fmuscles.tick.in.ua%2Fwp-login.php&redirect_to_provider=true -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:03:51 -- 37.53.108.70 -- Google -- 0 -- wsl_hook_process_login_after_hybridauth_authenticate -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Google&redirect_to=http%3A%2F%2Fmuscles.tick.in.ua%2Fwp-login.php&redirect_to_provider=true -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:03:52 -- 37.53.108.70 -- Google -- 0 -- wsl_process_login -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticated&provider=Google&mode=login -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:03:52 -- 37.53.108.70 -- Google -- 0 -- wsl_process_login_end_start -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticated&provider=Google&mode=login -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:03:52 -- 37.53.108.70 -- Google -- 0 -- dbg:provider_api_call -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticated&provider=Google&mode=login -- Array
+(
+    [0] => OAuth2
+    [1] => https://www.googleapis.com/plus/v1/people/me?access_token=ya29.RQL_NYMY1VzPghJEYqWzOY353NKS8ll04E9f6HKHLktoTOqA0mxxShC9JAHBqPdiW2lTMSo
+    [2] => GET
+    [3] => Array
+        (
+            [access_token] => ya29.RQL_NYMY1VzPghJEYqWzOY353NKS8ll04E9f6HKHLktoTOqA0mxxShC9JAHBqPdiW2lTMSo
+        )
+
+    [4] => 200
+    [5] => Array
+        (
+            [url] => https://www.googleapis.com/plus/v1/people/me?access_token=ya29.RQL_NYMY1VzPghJEYqWzOY353NKS8ll04E9f6HKHLktoTOqA0mxxShC9JAHBqPdiW2lTMSo
+            [content_type] => application/json; charset=UTF-8
+            [http_code] => 200
+            [header_size] => 483
+            [request_size] => 255
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.376763
+            [namelookup_time] => 0.000525
+            [connect_time] => 0.035293
+            [pretransfer_time] => 0.176811
+            [size_upload] => 0
+            [size_download] => 623
+            [speed_download] => 1653
+            [speed_upload] => 0
+            [download_content_length] => 623
+            [upload_content_length] => 0
+            [starttransfer_time] => 0.376754
+            [redirect_time] => 0
+            [certinfo] => Array
+                (
+                )
+
+            [primary_ip] => 216.58.211.42
+            [redirect_url] => 
+        )
+
+    [6] => {
+ "kind": "plus#person",
+ "etag": "\"MrhFVuKLF7zHXL6gE2l7cEdzuiA/4t5N8GdDgUnNtfpHtklQXv9aoJI\"",
+ "gender": "male",
+ "emails": [
+  {
+   "value": "sk65cool@gmail.com",
+   "type": "account"
+  }
+ ],
+ "objectType": "person",
+ "id": "117639116898372972885",
+ "displayName": "Al Ya",
+ "name": {
+  "familyName": "Ya",
+  "givenName": "Al"
+ },
+ "url": "https://plus.google.com/117639116898372972885",
+ "image": {
+  "url": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=50",
+  "isDefault": true
+ },
+ "isPlusUser": true,
+ "language": "ru",
+ "circledByCount": 0,
+ "verified": false
+}
+
+    [7] => Backtrace: 
+	1) /includes/services/wsl.watchdog.php(70): wsl_generate_backtrace()
+	2) /includes/services/wsl.watchdog.php(248): wsl_watchdog_log_action('dbg:provider_ap...', Array)
+	3) [internal function]: wsl_watchdog_wsl_log_provider_api_call('OAuth2', 'https://www.goo...', 'GET', Array, 200, Array, '{\n "kind": "plu...')
+	4) /wp-includes/plugin.php(525): call_user_func_array('wsl_watchdog_ws...', Array)
+	5) /hybridauth/Hybrid/thirdparty/OAuth/OAuth2Client.php(209): do_action('wsl_log_provide...', 'OAuth2', 'https://www.goo...', 'GET', Array, 200, Array, '{\n "kind": "plu...')
+	6) /hybridauth/Hybrid/thirdparty/OAuth/OAuth2Client.php(111): OAuth2Client->request('https://www.goo...', Array, 'GET')
+	7) /hybridauth/Hybrid/Providers/Google.php(73): OAuth2Client->api('https://www.goo...')
+	8) /hybridauth/Hybrid/Provider_Adapter.php(225): Hybrid_Providers_Google->getUserProfile()
+	9) /includes/services/wsl.authentication.php(992): Hybrid_Provider_Adapter->__call('getUserProfile', Array)
+	10) /includes/services/wsl.authentication.php(992): Hybrid_Provider_Adapter->getUserProfile()
+	11) /includes/services/wsl.authentication.php(395): wsl_process_login_request_user_social_profile('Google')
+	12) /includes/services/wsl.authentication.php(333): wsl_process_login_get_user_data('Google', 'http://muscles....')
+	13) /includes/services/wsl.authentication.php(136): wsl_process_login_end()
+	14) [internal function]: wsl_process_login('')
+	15) /wp-includes/plugin.php(525): call_user_func_array('wsl_process_log...', Array)
+	16) /wp-settings.php(392): do_action('init')
+	17) /wp-config.php(88): require_once('/home/chinamir/...')
+	18) /wp-load.php(37): require_once('/home/chinamir/...')
+	19) /wp-login.php(12): require('/home/chinamir/...')
+    [8] => USER: chinamir. PID: 682150. MEM: 52429KB.
+)
+
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:04:51 -- 37.53.108.70 -- Google -- 0 -- wsl_process_login -- http://muscles.tick.in.ua/wp-login.php -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:04:51 -- 37.53.108.70 -- Google -- 0 -- wsl_process_login_end_start -- http://muscles.tick.in.ua/wp-login.php -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:04:51 -- 37.53.108.70 -- Google -- 0 -- wsl_process_login_create_wp_user_start -- http://muscles.tick.in.ua/wp-login.php -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:04:51 -- 37.53.108.70 -- Google -- 0 -- wsl_hook_process_login_alter_wp_insert_user_data -- http://muscles.tick.in.ua/wp-login.php -- Array
+(
+    [0] => Array
+        (
+            [user_login] => Al_Ya
+            [user_email] => sk65cool@gmail.com
+            [display_name] => Al Ya
+            [first_name] => Al
+            [last_name] => Ya
+            [user_url] => https://plus.google.com/117639116898372972885
+            [description] => 
+            [user_pass] => (TcqPNowm)uv
+            [role] => subscriber
+        )
+
+    [1] => Google
+    [2] => stdClass Object
+        (
+            [identifier] => 117639116898372972885
+            [webSiteURL] => 
+            [profileURL] => https://plus.google.com/117639116898372972885
+            [photoURL] => https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=200
+            [displayName] => Al Ya
+            [description] => 
+            [firstName] => Al
+            [lastName] => Ya
+            [gender] => male
+            [language] => 
+            [age] => 
+            [birthDay] => 0
+            [birthMonth] => 0
+            [birthYear] => 0
+            [email] => sk65cool@gmail.com
+            [emailVerified] => sk65cool@gmail.com
+            [phone] => 
+            [address] => 
+            [country] => 
+            [region] => 
+            [city] => 
+            [zip] => 
+        )
+
+    [3] => Backtrace: 
+	1) /includes/services/wsl.watchdog.php(70): wsl_generate_backtrace()
+	2) /includes/services/wsl.watchdog.php(197): wsl_watchdog_log_action('wsl_hook_proces...', Array)
+	3) [internal function]: wsl_watchdog_wsl_hook_process_login_alter_wp_insert_user_data(Array, 'Google', Object(stdClass))
+	4) /wp-includes/plugin.php(235): call_user_func_array('wsl_watchdog_ws...', Array)
+	5) /includes/services/wsl.authentication.php(719): apply_filters('wsl_hook_proces...', Array, 'Google', Object(stdClass))
+	6) /includes/services/wsl.authentication.php(338): wsl_process_login_create_wp_user('Google', Object(stdClass), 'Al_Ya', 'sk65cool@gmail....')
+	7) /includes/services/wsl.authentication.php(136): wsl_process_login_end()
+	8) [internal function]: wsl_process_login('')
+	9) /wp-includes/plugin.php(525): call_user_func_array('wsl_process_log...', Array)
+	10) /wp-settings.php(392): do_action('init')
+	11) /wp-config.php(88): require_once('/home/chinamir/...')
+	12) /wp-load.php(37): require_once('/home/chinamir/...')
+	13) /wp-login.php(12): require('/home/chinamir/...')
+    [4] => USER: chinamir. PID: 682150. MEM: 52422KB.
+)
+
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:04:51 -- 37.53.108.70 -- Google -- 117 -- wsl_process_login_update_wsl_user_data_start -- http://muscles.tick.in.ua/wp-login.php -- Array
+(
+    [0] => 1
+    [1] => 117
+    [2] => Google
+    [3] => Hybrid_Provider_Adapter Object
+        (
+            [id] => Google
+            [config] => Array
+                (
+                    [enabled] => 1
+                    [keys] => Array
+                        (
+                            [id] => 306580490941-ilv99itpfsl1ir1u7n14od2pfgfggupo.apps.googleusercontent.com
+                            [key] => 
+                            [secret] => kVmoeCfaXS_0zNl6Mrb-FOKL
+                        )
+
+                    [scope] => profile https://www.googleapis.com/auth/plus.profile.emails.read
+                )
+
+            [params] => Array
+                (
+                    [hauth_return_to] => http://muscles.tick.in.ua/wp-login.php
+                )
+
+            [wrapper] => Hybrid_Providers_Google
+            [adapter] => Hybrid_Providers_Google Object
+                (
+                    [scope] => profile https://www.googleapis.com/auth/plus.profile.emails.read
+                    [providerId] => Google
+                    [config] => Array
+                        (
+                            [enabled] => 1
+                            [keys] => Array
+                                (
+                                    [id] => 306580490941-ilv99itpfsl1ir1u7n14od2pfgfggupo.apps.googleusercontent.com
+                                    [key] => 
+                                    [secret] => kVmoeCfaXS_0zNl6Mrb-FOKL
+                                )
+
+                            [scope] => profile https://www.googleapis.com/auth/plus.profile.emails.read
+                        )
+
+                    [params] => Array
+                        (
+                            [hauth_return_to] => http://muscles.tick.in.ua/wp-login.php
+                        )
+
+                    [endpoint] => 
+                    [user] => Hybrid_User Object
+                        (
+                            [providerId] => Google
+                            [timestamp] => 1449673491
+                            [profile] => Hybrid_User_Profile Object
+                                (
+                                    [identifier] => 
+                                    [webSiteURL] => 
+                                    [profileURL] => 
+                                    [photoURL] => 
+                                    [displayName] => 
+                                    [description] => 
+                                    [firstName] => 
+                                    [lastName] => 
+                                    [gender] => 
+                                    [language] => 
+                                    [age] => 
+                                    [birthDay] => 
+                                    [birthMonth] => 
+                                    [birthYear] => 
+                                    [email] => 
+                                    [emailVerified] => 
+                                    [phone] => 
+                                    [address] => 
+                                    [country] => 
+                                    [region] => 
+                                    [city] => 
+                                    [zip] => 
+                                )
+
+                        )
+
+                    [api] => OAuth2Client Object
+                        (
+                            [api_base_url] => https://www.googleapis.com/plus/v1/
+                            [authorize_url] => https://accounts.google.com/o/oauth2/auth
+                            [token_url] => https://accounts.google.com/o/oauth2/token
+                            [token_info_url] => https://www.googleapis.com/oauth2/v2/tokeninfo
+                            [client_id] => 306580490941-ilv99itpfsl1ir1u7n14od2pfgfggupo.apps.googleusercontent.com
+                            [client_secret] => kVmoeCfaXS_0zNl6Mrb-FOKL
+                            [redirect_uri] => 
+                            [access_token] => ya29.RQL_NYMY1VzPghJEYqWzOY353NKS8ll04E9f6HKHLktoTOqA0mxxShC9JAHBqPdiW2lTMSo
+                            [refresh_token] => 
+                            [access_token_expires_in] => 3597
+                            [access_token_expires_at] => 1449677028
+                            [sign_token_name] => access_token
+                            [decode_json] => 1
+                            [curl_time_out] => 30
+                            [curl_connect_time_out] => 30
+                            [curl_ssl_verifypeer] => 
+                            [curl_ssl_verifyhost] => 
+                            [curl_header] => Array
+                                (
+                                )
+
+                            [curl_useragent] => OAuth/2 Simple PHP Client v0.1; HybridAuth http://hybridauth.sourceforge.net/
+                            [curl_authenticate_method] => POST
+                            [curl_proxy] => 
+                            [http_code] => 
+                            [http_info] => 
+                        )
+
+                )
+
+        )
+
+    [4] => stdClass Object
+        (
+            [identifier] => 117639116898372972885
+            [webSiteURL] => 
+            [profileURL] => https://plus.google.com/117639116898372972885
+            [photoURL] => https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=200
+            [displayName] => Al Ya
+            [description] => 
+            [firstName] => Al
+            [lastName] => Ya
+            [gender] => male
+            [language] => 
+            [age] => 
+            [birthDay] => 0
+            [birthMonth] => 0
+            [birthYear] => 0
+            [email] => sk65cool@gmail.com
+            [emailVerified] => sk65cool@gmail.com
+            [phone] => 
+            [address] => 
+            [country] => 
+            [region] => 
+            [city] => 
+            [zip] => 
+        )
+
+    [5] => Backtrace: 
+	1) /includes/services/wsl.watchdog.php(70): wsl_generate_backtrace()
+	2) /includes/services/wsl.watchdog.php(206): wsl_watchdog_log_action('wsl_process_log...', Array, 117)
+	3) [internal function]: wsl_watchdog_wsl_process_login_update_wsl_user_data_start(true, 117, 'Google', Object(Hybrid_Provider_Adapter), Object(stdClass))
+	4) /wp-includes/plugin.php(525): call_user_func_array('wsl_watchdog_ws...', Array)
+	5) /includes/services/wsl.authentication.php(784): do_action('wsl_process_log...', true, 117, 'Google', Object(Hybrid_Provider_Adapter), Object(stdClass), Object(WP_User))
+	6) /includes/services/wsl.authentication.php(359): wsl_process_login_update_wsl_user_data(true, 117, 'Google', Object(Hybrid_Provider_Adapter), Object(stdClass), Object(WP_User))
+	7) /includes/services/wsl.authentication.php(136): wsl_process_login_end()
+	8) [internal function]: wsl_process_login('')
+	9) /wp-includes/plugin.php(525): call_user_func_array('wsl_process_log...', Array)
+	10) /wp-settings.php(392): do_action('init')
+	11) /wp-config.php(88): require_once('/home/chinamir/...')
+	12) /wp-load.php(37): require_once('/home/chinamir/...')
+	13) /wp-login.php(12): require('/home/chinamir/...')
+    [6] => USER: chinamir. PID: 682150. MEM: 53178KB.
+)
+
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:04:51 -- 37.53.108.70 -- Google -- 117 -- wsl_process_login_authenticate_wp_user_start -- http://muscles.tick.in.ua/wp-login.php -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:04:51 -- 37.53.108.70 -- Google -- 117 -- wsl_hook_process_login_before_wp_set_auth_cookie -- http://muscles.tick.in.ua/wp-login.php -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:04:51 -- 37.53.108.70 -- Google -- 117 -- wsl_hook_process_login_before_wp_safe_redirect -- http://muscles.tick.in.ua/wp-login.php -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:05:56 -- 37.53.108.70 -- Google -- 0 -- wsl_process_login -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Google&redirect_to=http%3A%2F%2Fmuscles.tick.in.ua%2Fwp-login.php -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:05:56 -- 37.53.108.70 -- Google -- 0 -- wsl_process_login_begin_start -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Google&redirect_to=http%3A%2F%2Fmuscles.tick.in.ua%2Fwp-login.php -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:05:57 -- 37.53.108.70 -- Google -- 0 -- wsl_process_login -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Google&redirect_to=http%3A%2F%2Fmuscles.tick.in.ua%2Fwp-login.php&redirect_to_provider=true -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:05:57 -- 37.53.108.70 -- Google -- 0 -- wsl_process_login_begin_start -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Google&redirect_to=http%3A%2F%2Fmuscles.tick.in.ua%2Fwp-login.php&redirect_to_provider=true -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:05:57 -- 37.53.108.70 -- Google -- 0 -- wsl_hook_process_login_before_hybridauth_authenticate -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Google&redirect_to=http%3A%2F%2Fmuscles.tick.in.ua%2Fwp-login.php&redirect_to_provider=true -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:06:08 -- 37.53.108.70 -- Google -- 0 -- wsl_process_login -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Google&redirect_to=http%3A%2F%2Fmuscles.tick.in.ua%2Fwp-login.php&redirect_to_provider=true -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:06:08 -- 37.53.108.70 -- Google -- 0 -- wsl_process_login_begin_start -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Google&redirect_to=http%3A%2F%2Fmuscles.tick.in.ua%2Fwp-login.php&redirect_to_provider=true -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:06:08 -- 37.53.108.70 -- Google -- 0 -- wsl_hook_process_login_before_hybridauth_authenticate -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Google&redirect_to=http%3A%2F%2Fmuscles.tick.in.ua%2Fwp-login.php&redirect_to_provider=true -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:06:08 -- 37.53.108.70 -- Google -- 0 -- wsl_hook_process_login_after_hybridauth_authenticate -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticate&mode=login&provider=Google&redirect_to=http%3A%2F%2Fmuscles.tick.in.ua%2Fwp-login.php&redirect_to_provider=true -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:06:09 -- 37.53.108.70 -- Google -- 0 -- wsl_process_login -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticated&provider=Google&mode=login -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:06:09 -- 37.53.108.70 -- Google -- 0 -- wsl_process_login_end_start -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticated&provider=Google&mode=login -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:06:10 -- 37.53.108.70 -- Google -- 0 -- dbg:provider_api_call -- http://muscles.tick.in.ua/wp-login.php?action=wordpress_social_authenticated&provider=Google&mode=login -- Array
+(
+    [0] => OAuth2
+    [1] => https://www.googleapis.com/plus/v1/people/me?access_token=ya29.RQKSOF6Wb5NbWtS8oD77SwGYovOYGhzYiX3VdS4ocBkOVrSIAsc1X2okKd-5FEX393gh
+    [2] => GET
+    [3] => Array
+        (
+            [access_token] => ya29.RQKSOF6Wb5NbWtS8oD77SwGYovOYGhzYiX3VdS4ocBkOVrSIAsc1X2okKd-5FEX393gh
+        )
+
+    [4] => 200
+    [5] => Array
+        (
+            [url] => https://www.googleapis.com/plus/v1/people/me?access_token=ya29.RQKSOF6Wb5NbWtS8oD77SwGYovOYGhzYiX3VdS4ocBkOVrSIAsc1X2okKd-5FEX393gh
+            [content_type] => application/json; charset=UTF-8
+            [http_code] => 200
+            [header_size] => 483
+            [request_size] => 252
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0.415933
+            [namelookup_time] => 0.000529
+            [connect_time] => 0.054082
+            [pretransfer_time] => 0.172552
+            [size_upload] => 0
+            [size_download] => 623
+            [speed_download] => 1497
+            [speed_upload] => 0
+            [download_content_length] => 623
+            [upload_content_length] => 0
+            [starttransfer_time] => 0.415923
+            [redirect_time] => 0
+            [certinfo] => Array
+                (
+                )
+
+            [primary_ip] => 216.58.211.42
+            [redirect_url] => 
+        )
+
+    [6] => {
+ "kind": "plus#person",
+ "etag": "\"MrhFVuKLF7zHXL6gE2l7cEdzuiA/UHR9QKbmAPnsa5q57nseXJ0_0fA\"",
+ "gender": "male",
+ "emails": [
+  {
+   "value": "sk66cool@gmail.com",
+   "type": "account"
+  }
+ ],
+ "objectType": "person",
+ "id": "101132425962333478865",
+ "displayName": "al ya",
+ "name": {
+  "familyName": "ya",
+  "givenName": "al"
+ },
+ "url": "https://plus.google.com/101132425962333478865",
+ "image": {
+  "url": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=50",
+  "isDefault": true
+ },
+ "isPlusUser": true,
+ "language": "ru",
+ "circledByCount": 0,
+ "verified": false
+}
+
+    [7] => Backtrace: 
+	1) /includes/services/wsl.watchdog.php(70): wsl_generate_backtrace()
+	2) /includes/services/wsl.watchdog.php(248): wsl_watchdog_log_action('dbg:provider_ap...', Array)
+	3) [internal function]: wsl_watchdog_wsl_log_provider_api_call('OAuth2', 'https://www.goo...', 'GET', Array, 200, Array, '{\n "kind": "plu...')
+	4) /wp-includes/plugin.php(525): call_user_func_array('wsl_watchdog_ws...', Array)
+	5) /hybridauth/Hybrid/thirdparty/OAuth/OAuth2Client.php(209): do_action('wsl_log_provide...', 'OAuth2', 'https://www.goo...', 'GET', Array, 200, Array, '{\n "kind": "plu...')
+	6) /hybridauth/Hybrid/thirdparty/OAuth/OAuth2Client.php(111): OAuth2Client->request('https://www.goo...', Array, 'GET')
+	7) /hybridauth/Hybrid/Providers/Google.php(73): OAuth2Client->api('https://www.goo...')
+	8) /hybridauth/Hybrid/Provider_Adapter.php(225): Hybrid_Providers_Google->getUserProfile()
+	9) /includes/services/wsl.authentication.php(992): Hybrid_Provider_Adapter->__call('getUserProfile', Array)
+	10) /includes/services/wsl.authentication.php(992): Hybrid_Provider_Adapter->getUserProfile()
+	11) /includes/services/wsl.authentication.php(395): wsl_process_login_request_user_social_profile('Google')
+	12) /includes/services/wsl.authentication.php(333): wsl_process_login_get_user_data('Google', 'http://muscles....')
+	13) /includes/services/wsl.authentication.php(136): wsl_process_login_end()
+	14) [internal function]: wsl_process_login('')
+	15) /wp-includes/plugin.php(525): call_user_func_array('wsl_process_log...', Array)
+	16) /wp-settings.php(392): do_action('init')
+	17) /wp-config.php(88): require_once('/home/chinamir/...')
+	18) /wp-load.php(37): require_once('/home/chinamir/...')
+	19) /wp-login.php(12): require('/home/chinamir/...')
+    [8] => USER: chinamir. PID: 697390. MEM: 52429KB.
+)
+
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:06:29 -- 37.53.108.70 -- Google -- 0 -- wsl_process_login -- http://muscles.tick.in.ua/wp-login.php -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:06:29 -- 37.53.108.70 -- Google -- 0 -- wsl_process_login_end_start -- http://muscles.tick.in.ua/wp-login.php -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:06:29 -- 37.53.108.70 -- Google -- 0 -- wsl_process_login_create_wp_user_start -- http://muscles.tick.in.ua/wp-login.php -- 
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:06:29 -- 37.53.108.70 -- Google -- 0 -- wsl_hook_process_login_alter_wp_insert_user_data -- http://muscles.tick.in.ua/wp-login.php -- Array
+(
+    [0] => Array
+        (
+            [user_login] => client1
+            [user_email] => sk66cool@gmail.com
+            [display_name] => al ya
+            [first_name] => al
+            [last_name] => ya
+            [user_url] => https://plus.google.com/101132425962333478865
+            [description] => 
+            [user_pass] => !s3ymt5Izc^1
+            [role] => subscriber
+        )
+
+    [1] => Google
+    [2] => stdClass Object
+        (
+            [identifier] => 101132425962333478865
+            [webSiteURL] => 
+            [profileURL] => https://plus.google.com/101132425962333478865
+            [photoURL] => https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=200
+            [displayName] => al ya
+            [description] => 
+            [firstName] => al
+            [lastName] => ya
+            [gender] => male
+            [language] => 
+            [age] => 
+            [birthDay] => 0
+            [birthMonth] => 0
+            [birthYear] => 0
+            [email] => sk66cool@gmail.com
+            [emailVerified] => sk66cool@gmail.com
+            [phone] => 
+            [address] => 
+            [country] => 
+            [region] => 
+            [city] => 
+            [zip] => 
+        )
+
+    [3] => Backtrace: 
+	1) /includes/services/wsl.watchdog.php(70): wsl_generate_backtrace()
+	2) /includes/services/wsl.watchdog.php(197): wsl_watchdog_log_action('wsl_hook_proces...', Array)
+	3) [internal function]: wsl_watchdog_wsl_hook_process_login_alter_wp_insert_user_data(Array, 'Google', Object(stdClass))
+	4) /wp-includes/plugin.php(235): call_user_func_array('wsl_watchdog_ws...', Array)
+	5) /includes/services/wsl.authentication.php(719): apply_filters('wsl_hook_proces...', Array, 'Google', Object(stdClass))
+	6) /includes/services/wsl.authentication.php(338): wsl_process_login_create_wp_user('Google', Object(stdClass), 'client1', 'sk66cool@gmail....')
+	7) /includes/services/wsl.authentication.php(136): wsl_process_login_end()
+	8) [internal function]: wsl_process_login('')
+	9) /wp-includes/plugin.php(525): call_user_func_array('wsl_process_log...', Array)
+	10) /wp-settings.php(392): do_action('init')
+	11) /wp-config.php(88): require_once('/home/chinamir/...')
+	12) /wp-load.php(37): require_once('/home/chinamir/...')
+	13) /wp-login.php(12): require('/home/chinamir/...')
+    [4] => USER: chinamir. PID: 682150. MEM: 52452KB.
+)
+
+usfni9vdumb6m0u6sldnq399n7 -- 09-12-2015 15:06:29 -- 37.53.108.70 -- Google -- 0 -- wsl_process_login_render_notice_page -- http://muscles.tick.in.ua/wp-login.php -- 

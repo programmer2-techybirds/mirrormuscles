@@ -1,0 +1,726 @@
+/*--------------------------------------------------------------
+This is the BuddyBoss Inbox stylesheet.
+--------------------------------------------------------------*/
+
+.screen-reader-text {
+    display: none;
+}
+
+#buddypress div#message-threads.messages-notices ul li.thread-options {
+    margin-top: 35px;
+}
+
+#send-reply .bbm-attachment-wrapper,
+#send_message_form .bbm-attachment-wrapper {
+    padding: 0 0 15px;
+}
+
+#wp-message_content-wrap {
+    margin-bottom: 1.5rem;
+    margin-top: -1.5rem;
+}
+
+#buddypress .standard-form textarea#message_content {
+    display: block;
+    margin-bottom: 10px;
+}
+
+/* Label wrapper */
+
+#message-recipients .button.confirm {
+    vertical-align: baseline;
+}
+
+.bbm_label_wrapper {
+    display: inline-block;
+    margin-left: 2px;
+    min-width: 62px;
+    vertical-align: top;
+}
+
+.bbm_label_wrapper dl, .bbm_label_wrapper dt, .bbm_label_wrapper dd {
+    margin: 0 !important;
+}
+
+.bbm_label_wrapper .multiSel {
+    display: none;
+}
+
+/* Dropdown with multiple select */
+.bbm_label_dropdown dd, .bbm_label_dropdown dt {
+    margin: 0px;
+    padding: 0px;
+}
+
+.bbm_label_dropdown ul {
+    margin: -1px 0 0 0;
+}
+
+.bbm_label_dropdown dd {
+    position: relative;
+}
+
+.bbm_label_dropdown a,
+.bbm_label_dropdown a:visited {
+    text-decoration: none;
+    outline: none;
+}
+
+.bbm_label_dropdown dt a {
+    overflow: hidden;
+    border: 0;
+}
+
+.bbm_label_dropdown dt a span, .bbm_label_dropdown .multiSel span {
+    cursor: pointer;
+    display: inline-block;
+    font-weight: normal;
+}
+
+.bbm_label_dropdown dd ul {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    color: #000;
+    display: none;
+    left: 0px;
+    min-width: 160px;
+    padding: 0;
+    position: absolute;
+    top: 4px;
+    list-style: none;
+    overflow: auto;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    -moz-box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+    -webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+    box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+    z-index: 20;
+}
+
+.bbm_label_dropdown span.value {
+    display: none;
+}
+
+.bbm_label_dropdown dd ul li a {
+    border: none;
+    display: block;
+    text-decoration: none;
+}
+
+.bbm_label_dropdown button {
+    background-color: #6BBE92;
+    width: 302px;
+    border: 0;
+    padding: 10px 0;
+    margin: 5px 0;
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+}
+
+.bbm_label_dropdown .multiSelect li {
+    padding: 2px 12px;
+    margin: 0;
+}
+
+.bbm_label_dropdown .multiSelect li.bbm_label_title {
+    border-bottom: 1px solid #ddd;
+    font-weight: 600;
+    margin-bottom: 10px;
+    padding: 9px 12px;
+}
+
+.bbm_label_dropdown .multiSelect li:last-child {
+    border-top: 1px solid #ddd;
+    margin-top: 10px;
+    padding: 6px 12px 7px;
+    text-indent: 0;
+}
+
+#message-threads.messages-table .bbm-label,
+.bbm-label {
+    display: inline-block;
+    font-size: 11px;
+    margin-bottom: 5px;
+    margin-right: 3px;
+    padding: 3px 5px;
+}
+
+#message-threads.messages-table .bbm-label a,
+#buddypress .thread-labels .bbm-label a,
+.bbm-label a {
+    color: #fff;
+}
+
+.bbm-label-input {
+    float: left;
+}
+
+.bbm-label-wrap {
+    margin-bottom: 8px;
+    overflow: hidden;
+    padding-left: 6px;
+}
+
+.white-popup-block {
+    background: #FFF;
+    padding: 20px 30px;
+    text-align: left;
+    max-width: 650px;
+    margin: 40px auto;
+    position: relative;
+}
+
+div#bbm_add_label_popup {
+    width: 260px;
+    text-align: center;
+}
+
+div#bbm_add_label_popup h3 {
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: 14px;
+}
+
+div#bbm_add_label_popup button.mfp-close {
+    width: 30px;
+    height: 30px;
+    line-height: 0px;
+    font-size: 25px;
+    background: none;
+    color: black;
+}
+
+div#bbm_add_label_popup input#label_add,
+div#bbm_add_label_popup input.bbm-label-name {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    width: 100%;
+}
+
+.mfp-content .bbm-li-left {
+    padding-left: 0;
+    list-style: none;
+}
+
+.mfp-content .bbm-li-left li {
+    margin-bottom: 20px;
+}
+
+.mfp-content .bbm-li-left li:last-child {
+    margin-bottom: 0;
+}
+
+#buddypress .standard-form .bbm-li-no-margin li:first-child {
+    margin-left: 0px;
+}
+
+#buddypress .standard-form .bbm-li-left li {
+    float: left;
+    list-style: none;
+    margin-right: 25px;
+}
+
+#buddypress .standard-form ul.bbm-li-left {
+    overflow: hidden;
+    margin-bottom: 10px;
+    padding: 0;
+}
+
+#buddypress .standard-form .bbm-distance-bottom {
+    margin-bottom: 30px;
+    overflow: hidden;
+}
+
+#buddypress .standard-form .bbm-distance {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+
+.bbm-uploaded-file {
+    margin-left: 10px;
+    display: inline-block;
+    font-size: smaller;
+    padding: 2px 5px;
+    background: #F4FFF4;
+}
+
+.bbm-uploaded-file a.remove-uploaded-file {
+    margin-left: 10px;
+}
+
+/* Visual Editor */
+
+.wp-editor-container {
+    border: 1px solid #dedede;
+}
+
+.wp-editor-container > textarea#message_content {
+    width: 100% !important;
+    border-radius: 0 !important;
+    background-color: #fff !important;
+}
+
+#buddypress #send_message_form.standard-form div.submit,
+#buddypress #send-reply.standard-form div.submit {
+    float: left;
+    margin-bottom: 10px;
+    clear: none;
+}
+
+input#save_as_draft {
+    margin-bottom: 10px;
+    float: left;
+    margin-right: 10px;
+}
+/* Drafts */
+#buddypress table#message-threads.drafts {
+    width: 100%;
+}
+
+.drafts .button.confirm {
+    max-width: 40%;
+    margin-left: 7px;
+}
+
+#buddypress #message-threads.drafts .button.confirm {
+    margin: 0px;
+    margin-left: 20px;
+}
+
+.drafts .thread-avatar {
+    min-width: 50px;
+}
+
+.drafts .thread-labels {
+    display: none;
+}
+
+#buddypress th.thread-checkbox, #buddypress td.thread-avatar {
+    text-align: center;
+}
+
+#buddypress th.thread-options {
+    padding: 15px 10px;
+}
+
+.thread-subject-label {
+    display: inline-block;
+    line-height: 1;
+    margin-left: 10px;
+    vertical-align: top;
+}
+
+.thread-subject-label span {
+    display: inline-block;
+    font-size: 11px;
+    font-weight: 600;
+    line-height: 1.3;
+    margin: 0 4px;
+    padding: 3px 5px;
+}
+
+body #buddypress .thread-subject-label span a {
+    color: #fff;
+}
+
+#buddypress form#send_message_form .send-notice-label input#send-notice {
+    clear: none;
+    float: none;
+}
+
+.bbm_label_delete {
+    color: #4c4c4c;
+    cursor: pointer;
+    display: none;
+    float: right;
+    margin-right: 1px;
+    margin-top: 5px;
+}
+
+.bbm_label_dropdown .multiSelect li:hover .bbm_label_delete {
+    display: block;
+}
+.bbm-attachment.thumbnail a.attachment-single span {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    background: rgba(0,0,0,0.6);
+    color: white;
+    width: 162px;
+    position: absolute;
+    bottom: 0px;
+    box-sizing: border-box;
+    height: 30px;
+    padding: 0px 7px;
+    line-height: 30px;
+    display:none;
+}
+.bbm-attachment.thumbnail a.attachment-single:hover span {
+    display:block;
+}
+.bbm-attachment.thumbnail a.attachment-single span.vprev {
+    width: 162px;
+    height: 112px;
+    line-height: 112px;
+    background: rgba(0,0,0,0.05);
+    color: rgba(0,0,0,0.4);
+    font-size: 20px;
+    text-align: center;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+.bbm-attachment.thumbnail a.attachment-single:hover span.vprev {
+    background: rgba(0,0,0,0.12);
+}
+
+.bbm-attachment.bbm-attachment {
+    margin-left: 42px;
+}
+.bbm-attachment h4 {
+    font-size: 13px;
+    padding-bottom: 14px;
+    padding-top: 12px;
+}
+
+.bbm-attachment.thumbnail a.attachment-single {
+    width: 162px;
+    display: block;
+    float: left;
+    margin: 0 15px 10px 0;
+    position: relative;
+    height: 110px;
+    overflow: hidden;
+}
+.bbm-attachment.thumbnail a.attachment-single img {
+    width:162px;
+    height:110px;
+}
+
+.bbm-attachment.thumbnail a.attachment-single span.vprev,
+.bbm-attachment.thumbnail a.attachment-single img {
+    display: block;
+}
+
+.bbm-attachment.filename a {
+    padding-right: 16px;
+    padding-bottom: 5px;
+}
+
+.kleo-page .bbm-attachment {
+    margin-bottom: 20px;
+    margin-left: 50px;
+    margin-top: -10px;
+}
+
+.kleo-page #wp-message_content-editor-container button {
+    border: 0 none !important;
+    line-height: 1 !important;
+    padding: 4px 8px !important;
+}
+
+#bb-buddyboss-attachment {
+    font-weight: bold;
+}
+
+#bb-buddyboss-attachment:hover {
+    cursor: pointer;
+}
+
+.bbm-attachment-wrapper i {
+    font-size: 18px;
+}
+
+.messages #buddypress .standard-form div.submit {
+    padding: 0;
+}
+
+#leftcolumn .bb-label-container .bb-label-name {
+    height: 36px;
+    max-width: 100%;
+    padding: 0 10px;
+}
+
+/* Attachments */
+
+.bbm-attachment.thumbnail {
+    margin-top: 10px;
+}
+
+/* Label colors */
+
+.label-color-1 {
+    background: #de491b;
+}
+
+.label-color-2 {
+    background: #ef953b;
+}
+
+.label-color-3 {
+    background: #21c221;
+}
+
+.label-color-4 {
+    background: #219ac2;
+}
+
+.label-color-5 {
+    background: #39d185;
+}
+
+.label-color-6 {
+    background: #33bdbd;
+}
+
+.label-color-7 {
+    background: #875bb3;
+}
+
+.label-color-8 {
+    background: #c33bc3;
+}
+
+.label-color-9 {
+    background: #da3e8c;
+}
+
+.label-color-10 {
+    background: #66c3c3;
+}
+
+.label-color-11 {
+    background: #3399FF;
+}
+
+.label-color-12 {
+    background: #5151c4;
+}
+
+.label-color-13 {
+    background: #758fbd;
+}
+
+.label-color-14 {
+    background: #4a5d7f;
+}
+
+.label-color-15 {
+    background: #893389;
+}
+
+.label-color-16 {
+    background: #832525;
+}
+
+.label-color-17 {
+    background: #6fc86f;
+}
+
+.label-color-18 {
+    background: #329a32;
+}
+
+.label-color-19 {
+    background: #B8860B;
+}
+
+.label-color-20 {
+    background: #FF4500;
+}
+
+/* 2015 support */
+.bp-user #buddypress #message-threads tr td.thread-info a:after {
+    content: ' ';
+}
+
+#messages-select {
+    margin-bottom: 1rem;
+}
+
+.kleo-page .html-active button.wp-switch-editor.switch-html,
+.kleo-page .tmce-active button.wp-switch-editor.switch-tmce {
+    background: #f5f5f5 !important;
+}
+
+.kleo-page .bbm_label_wrapper .bbm_label_dropdown .button {
+    border-radius: 4px;
+    display: inline-block;
+    font-size: 11px;
+    height: 30px;
+    line-height: 30px;
+    padding: 0 10px;
+    text-transform: uppercase;
+}
+
+.kleo-page #buddypress div#message-thread div.message-metadata img.avatar {
+    box-sizing: content-box;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    margin-right: 10px;
+}
+
+.kleo-page #buddypress div#message-thread #send-reply div.message-box,
+.kleo-page #buddypress div#message-thread div.message-content {
+    margin-bottom: 20px;
+    margin-left: 50px;
+}
+
+body.messages .message-content ul, body.messages .message-content ol {
+    list-style: initial;
+    padding: 5px;
+    padding-left: 16px;
+}
+body.messages .message-content ol {
+    list-style-type: decimal;
+}
+
+.message-box .message-star-actions {
+    display: inline-block;
+    line-height: 1;
+    margin: 0 10px;
+}
+
+.autodraftnotify {
+    margin-bottom: 20px;
+    font-size: 12px;
+}
+
+@media screen and (max-width: 720px) {
+    /*
+        .thread-options, .thread-labels, .thread-label {
+            display: none;
+        }
+    */
+    .bp-user #buddypress #message-threads th {
+        display: none;
+    }
+    .bp-user #buddypress #message-threads {
+        border-spacing: 0;
+        border-width: 1px 0 0 1px;
+        width: 100%;
+    }
+    .bp-user #buddypress #message-threads tr td {
+        background: transparent;
+        display: inline-block;
+        float: left;
+        border-style: solid;
+        border-color: #ddd;
+        border-width: 1px 1px 0 1px;
+        box-sizing: border-box;
+    }
+    #buddypress .messages-notices .bulk-select-check, #buddypress .messages-notices .notification-actions, #buddypress .messages-notices .thread-star, #buddypress .messages-notices td.thread-options, #buddypress .notifications .bulk-select-check, #buddypress .notifications .notification-actions, #buddypress .notifications .thread-star, #buddypress .notifications td.thread-options {
+        text-align: center;
+    }
+    .bp-user #buddypress #message-threads td.bulk-select-check, .bp-user #buddypress #message-threads td.thread-star, .bp-user #buddypress #message-threads th.bulk-select-all {
+        border-right: 0;
+        width: 30px;
+    }
+    .bp-user #buddypress #message-threads tr td.thread-labels {
+        padding-bottom: 4px;
+    }
+    .bp-user #buddypress #message-threads tr td.thread-labels.empty {
+        display: none;
+    }
+    .bp-user #buddypress #message-threads tr td.thread-from {
+        text-align: left;
+    }
+    .bp-user #buddypress #message-threads tr td.thread-from .avatar{
+        vertical-align: middle;
+    }
+    .bp-user #buddypress #message-threads tr td.thread-from,
+    .bp-user #buddypress #message-threads tr td.thread-options {
+        border-left: 0;
+        width: -webkit-calc(100% - 30px);
+        width: -moz-calc(100% - 30px);
+        width: calc(100% - 30px);
+        margin-left: 0;
+    }
+    .bp-user #buddypress #message-threads tr td.bulk-select-check,
+    .bp-user #buddypress #message-threads tr td.thread-from {
+        height: 3.5em;
+    }
+    .bp-user #buddypress #message-threads tr span.activity {
+        display: block;
+        float: right;
+        line-height: 2;
+    }
+    .bp-user #buddypress #message-threads tr td.thread-labels,
+    .bp-user #buddypress #message-threads tr td.thread-info {
+        padding-left: 41px;
+        width: 100%;
+    }
+
+    .bp-user #buddypress #message-threads tr td.thread-info a::after {
+        content: " – " attr(title);
+        font-size: 12px;
+    }
+    .bp-user #buddypress #message-threads tr td.thread-options, .bp-user #buddypress #message-threads tr td.thread-star {
+        border-bottom-color: #b7b7b7;
+        border-bottom-width: 1px;
+        height: 2.4em;
+        padding-bottom: .2em;
+        padding-top: .2em;
+    }
+
+    .bp-user #buddypress #message-threads tr td.thread-options {
+        text-align: right;
+    }
+}
+
+@media screen and (max-width: 720px) {
+    .bp-user.notices #buddypress #item-body #message-threads tr td {
+        background: transparent;
+        border: 0;
+        display: inline-block;
+        float: left;
+        padding: 0 !important;
+        text-align: left;
+        width: 100% !important;
+    }
+
+    .bp-user.notices #buddypress #item-body #message-threads tr td:nth-child(2) {
+        padding-top: 20px !important;
+    }
+
+    .bp-user.notices #buddypress #item-body #message-threads tr td:last-child {
+        padding-bottom: 20px !important;
+        padding-top: 10px !important;
+    }
+
+    .bp-user.notices #buddypress #item-body #message-threads tr td p {
+        margin-bottom: 12px;
+    }
+
+    .bp-user.notices #buddypress #item-body #message-threads tr {
+        border-bottom: 1px solid #ddd;
+    }
+
+    .bp-user.notices #buddypress #item-body #message-threads tr span.activity {
+        float: left;
+    }
+
+    .bp-user.notices #buddypress #item-body #message-threads tr td:empty {
+        display: none;
+    }
+
+    .bp-user.notices #message-threads.notices-table a.button {
+        display: inline-block;
+    }
+}
+
+@media screen and (max-width: 620px) {
+    .bp-user #buddypress #message-threads tr span.activity {
+        clear: both;
+        font-size: 11px;
+        width: 100%;
+    }
+
+    .bp-user #buddypress #message-threads tr td.bulk-select-check,
+    .bp-user #buddypress #message-threads tr td.thread-from {
+        height: 5.2em;
+    }
+}

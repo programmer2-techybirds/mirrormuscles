@@ -1,0 +1,183 @@
+/*--------------------------------------------------------------
+This is your custom stylesheet.
+
+Add your own styles here to make theme updates easier.
+To override any styles from other stylesheets, simply copy them into here and edit away.
+
+Make sure to respect the media queries! Otherwise you may
+accidentally add desktop styles to the mobile layout.
+
+You're the boss, so have fun editing!
+
+--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+1.0 - Global Styles
+2.0 - Responsive media queries (mobile styles)
+	2.1 - MAXIMUM width of 720 pixels (phones landscape)
+	2.2 - MAXIMUM width of 350 pixels (phones portrait)
+	2.3 - MINIMUM width of 721 pixels (tablets+)
+	2.4 - MINIMUM width of 1040 pixels (desktops and laptops)
+--------------------------------------------------------------*/
+/*--------------------------------------------------------------
+1.0 - Global Styles
+--------------------------------------------------------------*/
+
+
+html{
+  height: auto;
+  background-color: #232429;
+  background: url(../images/login_orig.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+body.login{
+  background: none !important;
+}
+
+body.login #login{
+  margin: 5% 15%;
+  padding: 0px 70px 35px;
+  border: 1px solid #fff;
+  border: 1px solid rgba(0,0,0,0.7);
+  background: rgba(48, 69, 92,0.7) url(../images/forms-bg.png);
+  overflow: hidden;
+  border-radius: 3px;
+  color: #fff;
+}
+
+.login form .input, .login form .input:active{
+  background: #232429;
+  -webkit-box-shadow: none;
+  -webkit-text-fill-color: none;
+}
+
+.login form input:-webkit-autofill{
+  -webkit-box-shadow: none;
+  -webkit-text-fill-color: none;
+}
+
+
+input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0px 1000px #272a31 inset !important;
+  box-shadow: 0 0 0px 1000px #272a31 inset !important;
+  -moz-box-shadow: 0 0 0px 1000px #272a31 inset !important;
+  -o-box-shadow: 0 0 0px 1000px #272a31 inset !important;
+  color: #fff !important;
+  -webkit-text-fill-color: #fff !important;
+}
+
+#login h1 a{
+	margin-top: 30px;
+}
+
+.login h1 a{
+	background-repeat: no-repeat;
+}
+
+#login #login_error, #login .login .message{
+  color: #777;
+}
+
+.wp-social-login-provider-list a{
+	border-radius: 5px;
+}
+
+#login form p.submit input{
+	border-radius: 5px;
+	text-shadow: none;
+	font-weight: 600;
+}
+
+
+.login form .forgetmenot input[type="checkbox"]{
+  opacity: 0;
+}
+
+.login form .forgetmenot input[type="checkbox"] + strong:before{
+  content: '';
+  position: absolute;
+  border: none;
+  border-radius: 50%;
+  -webkit-box-shadow: 0 0 0 2px #fff;
+  -moz-box-shadow: 0 0 0 2px #fff;
+  box-shadow: 0 0 0 2px #fff;
+  z-index: 0;
+  top: 3px;
+  left: -24px;
+  width: 12px;
+  height: 12px;
+  cursor: pointer;
+}
+
+.login form .forgetmenot input[type="checkbox"]:checked + strong:before{
+  line-height: 1;
+  border: none;
+  background: transparent;
+  background-color: transparent !important;
+  padding: 0;
+    -webkit-box-shadow: 0 0 0 2px #fff;
+  -moz-box-shadow: 0 0 0 2px #fff;
+  box-shadow: 0 0 0 2px #fff;
+  cursor: pointer;
+}
+
+.login form .forgetmenot input[type="checkbox"]:checked + strong:after{
+    content: "\2714";
+    font-size: 24px;
+    position: absolute;
+    color: #fff;
+    line-height: 1;
+    cursor: pointer;
+    top: -9px;
+    left: -26px;
+}
+
+.login form .input, .login form .input:active {
+    -webkit-box-shadow: none;
+    -webkit-text-fill-color: none;
+    color: white;
+    border: 2px solid #a92d2b;
+    border-radius: 4px;
+    background: transparent;
+    margin-bottom: 10px;
+}
+
+
+.wp-social-login-provider-list a.wp-social-login-provider-google:before {
+    background-image: none;
+    content: "\f0d5";
+    font: normal normal normal 16px/1 FontAwesome;
+    left: 10px;
+    padding-right: 5px;
+}
+
+@media screen and (max-width: 720px) {
+	body.login #login{
+	  margin: 0% auto;
+	  padding: 0px 35px;
+	  border: 1px solid #fff;
+	  border: 1px solid rgba(0,0,0,0.7);
+	  background: rgba(48, 69, 92,0.7) url(../images/forms-bg.png);
+	  overflow: hidden;
+	  border-radius: 3px;
+	  color: #fff;
+	}
+	#login h1 a {
+		background: url(https://www.mirrormuscles.com/wp-content/uploads/2017/05/logo-1.png) no-repeat 50% 0;
+		background-size: auto;
+		overflow: hidden;
+		text-indent: -9999px;
+		display: block;
+		height: 80px;
+		width: 230px !important;
+		margin: 0 auto;
+		padding: 0;
+	}
+
+}
+

@@ -1,0 +1,66 @@
+#buddypress .template-workout-log #workout-log-tabs #add-wl-container .text-center .chosen-container.chosen-container-single.exercisename.form-group,
+#buddypress .template-workout-log #workout-log-tabs #saved-workout-logs .saved-wl-container .text-center .chosen-container.chosen-container-single.exercisename.form-group,
+#buddypress .template-workout-log #workout-log-tabs #saved-advanced-workout-logs .saved-wl-container .text-center .chosen-container.chosen-container-single.exercisename.form-group,
+#buddypress .template-workout-log #workout-log-tabs #saved-advanced-workout-logs .saved-wl-container .text-center .chosen-container.chosen-container-single.exercisename.form-group
+{
+	margin: 0 auto;	
+}
+
+#buddypress .template-workout-log #workout-log-tabs #add-wl-container .text-center 
+.chosen-container.chosen-container-single.chosen-container-single-nosearch,
+#buddypress .template-workout-log #workout-log-tabs #saved-workout-logs .text-center 
+.chosen-container.chosen-container-single.chosen-container-single-nosearch,
+#buddypress .template-workout-log #workout-log-tabs #saved-advanced-workout-logs .text-center 
+.chosen-container.chosen-container-single.chosen-container-single-nosearch,
+#buddypress .template-workout-log #workout-log-tabs #saved-advanced-workout-logs .text-center 
+.chosen-container.chosen-container-single.chosen-container-single-nosearch
+{
+    width: 100px;
+    margin: 0 auto;
+}
+
+#buddypress .template-workout-log #workout-log-tabs #add-wl-container .text-center 
+.chosen-container.chosen-container-single.chosen-container-single-nosearch .chosen-drop .chosen-search,
+#buddypress .template-workout-log #workout-log-tabs #saved-workout-logs .text-center 
+.chosen-container.chosen-container-single.chosen-container-single-nosearch .chosen-drop .chosen-search,
+#buddypress .template-workout-log #workout-log-tabs #saved-advanced-workout-logs .text-center 
+.chosen-container.chosen-container-single.chosen-container-single-nosearch .chosen-drop .chosen-search,
+#buddypress .template-workout-log #workout-log-tabs #saved-advanced-workout-logs .text-center 
+.chosen-container.chosen-container-single.chosen-container-single-nosearch .chosen-drop .chosen-search
+{
+	display: none;
+}
+
+#buddypress .template-workout-log #workout-log-tabs #add-wl-container .text-center .chosen-drop,
+#buddypress .template-workout-log #workout-log-tabs #saved-workout-logs .text-center .chosen-drop,
+#buddypress .template-workout-log #workout-log-tabs #saved-advanced-workout-logs .text-center .chosen-drop,
+#buddypress .template-workout-log #workout-log-tabs #saved-advanced-workout-logs .text-center .chosen-container .chosen-drop
+{
+  	max-height:280px;
+  	overflow-y:auto;
+}
+
+#buddypress .template-workout-log #workout-log-tabs #add-wl-container .text-center .chosen-drop .active-result,
+#buddypress .template-workout-log #workout-log-tabs #saved-workout-logs .text-center .chosen-drop .active-result,
+#buddypress .template-workout-log #workout-log-tabs #saved-advanced-workout-logs .text-center .chosen-drop .active-result,
+#buddypress .template-workout-log #workout-log-tabs #saved-advanced-workout-logs .text-center .chosen-drop .active-result
+{
+	padding-left: 10px;
+}
+
+#buddypress .template-workout-log #workout-log-tabs #add-wl-container .text-center #add-awl-repeats-weight-table,
+#buddypress .template-workout-log #workout-log-tabs #saved-advanced-workout-logs .text-center #add-awl-repeats-weight-table
+{
+	position: relative;
+    width: 550px;
+}
+
+#buddypress .template-workout-log #workout-log-tabs #add-advanced-workout-logs #add-wl-container .text-center .form-group.form-inline label,
+#buddypress .template-workout-log #workout-log-tabs #saved-advanced-workout-logs .edit-wl-form .text-center .form-group.form-inline.col-md-6.text-right
+{
+    text-align: center !important;
+}
+
+.form-group.form-inline.col-md-6.text-right.text-center-xs.text-center-sm{
+	text-align: center !important;
+}

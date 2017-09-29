@@ -1,0 +1,466 @@
+# Copyright (C) 2017 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://www.buddyboss.com/contact/\n"
+"POT-Creation-Date: 2017-06-03 11:53:24+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: BuddyBoss <support@buddyboss.com>\n"
+"Language-Team: BuddyBoss <support@buddyboss.com>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: buddyboss-inbox.php:79
+msgid "Couldn't load main class at:<br/>%s"
+msgstr ""
+
+#: buddyboss-inbox.php:85
+msgid "<h1>Fatal error:</h1><hr/><pre>%s</pre>"
+msgstr ""
+
+#: buddyboss-inbox.php:122
+msgid "Please first download and activate BuddyPress plugin"
+msgstr ""
+
+#: includes/admin.php:137
+msgid "General"
+msgstr ""
+
+#: includes/admin.php:140
+msgid "General Settings"
+msgstr ""
+
+#: includes/admin.php:142 templates/attachments.php:7
+msgid "Attachments"
+msgstr ""
+
+#: includes/admin.php:143
+msgid "Labels"
+msgstr ""
+
+#: includes/admin.php:144 includes/bbm-drafts.php:144
+#: includes/main-class.php:735
+msgid "Drafts"
+msgstr ""
+
+#: includes/admin.php:145
+msgid "Visual Editor"
+msgstr ""
+
+#: includes/admin.php:149
+msgid "Support"
+msgstr ""
+
+#: includes/admin.php:170 includes/admin.php:227
+#: includes/buddyboss-plugin-updater.php:10
+msgid "BuddyBoss Inbox"
+msgstr ""
+
+#: includes/admin.php:170
+msgid "Inbox"
+msgstr ""
+
+#: includes/admin.php:186
+msgid "Settings"
+msgstr ""
+
+#: includes/admin.php:223
+msgid "Settings saved."
+msgstr ""
+
+#: includes/admin.php:223
+msgid "Dismiss this notice."
+msgstr ""
+
+#: includes/admin.php:271
+msgid "Attach files to your messages"
+msgstr ""
+
+#: includes/admin.php:277
+msgid "Attachments Preview"
+msgstr ""
+
+#: includes/admin.php:279
+msgid "Thumbnail + File Name"
+msgstr ""
+
+#: includes/admin.php:280
+msgid "File Name"
+msgstr ""
+
+#: includes/admin.php:286
+msgid "Allowed File Formats"
+msgstr ""
+
+#: includes/admin.php:287
+msgid "Image"
+msgstr ""
+
+#: includes/admin.php:291
+msgid "Video"
+msgstr ""
+
+#: includes/admin.php:295
+msgid "Text"
+msgstr ""
+
+#: includes/admin.php:299
+msgid "Audio"
+msgstr ""
+
+#: includes/admin.php:303
+msgid "Compressed (PDF, ZIP, Flash, etc.)"
+msgstr ""
+
+#: includes/admin.php:307
+msgid "Office Documents (Word, Pages, etc.)"
+msgstr ""
+
+#: includes/admin.php:310
+msgid "Maximum File Size"
+msgstr ""
+
+#: includes/admin.php:312
+msgid "MB"
+msgstr ""
+
+#: includes/admin.php:318
+msgid ""
+"Based on your server's PHP configuration, maximum file size cannot exceed "
+"<strong>%s MB.</strong>"
+msgstr ""
+
+#: includes/admin.php:339
+msgid "Organize your messages into labelled categories"
+msgstr ""
+
+#: includes/admin.php:351
+msgid "Save unsent messages as drafts"
+msgstr ""
+
+#: includes/admin.php:356
+msgid "Auto Save"
+msgstr ""
+
+#: includes/admin.php:357
+msgid "Enable auto save"
+msgstr ""
+
+#: includes/admin.php:375
+msgid "Add formatting to your messages"
+msgstr ""
+
+#: includes/bbm-ajax.php:17
+msgid "Attachment deleted successfully!"
+msgstr ""
+
+#: includes/bbm-ajax.php:129 includes/bbm-ajax.php:132
+msgid "All changes saved."
+msgstr ""
+
+#: includes/bbm-ajax.php:187
+msgid "Draft updated successfully!"
+msgstr ""
+
+#: includes/bbm-ajax.php:190
+msgid "Draft saved successfully!"
+msgstr ""
+
+#: includes/bbm-ajax.php:216
+msgid "Label added to conversation"
+msgstr ""
+
+#: includes/bbm-ajax.php:235
+msgid "Label removed from conversation"
+msgstr ""
+
+#: includes/bbm-ajax.php:251
+msgid "Label cannot be empty!"
+msgstr ""
+
+#: includes/bbm-ajax.php:265
+msgid "Label created successfully!"
+msgstr ""
+
+#: includes/bbm-ajax.php:292
+msgid "Label deleted successfully"
+msgstr ""
+
+#: includes/bbm-attachment.php:31
+msgid "Your file name must contain the term &#8220;custom&#8221;"
+msgstr ""
+
+#: includes/bbm-drafts.php:132
+msgid "Save Draft"
+msgstr ""
+
+#: includes/bbm-drafts.php:147
+msgid "Drafts <span> (%s) </span>"
+msgstr ""
+
+#: includes/bbm-drafts.php:149
+msgid "Drafts <span>%s</span>"
+msgstr ""
+
+#: includes/bbm-drafts.php:260
+msgid "Please Migrate your Database"
+msgstr ""
+
+#: includes/bbm-drafts.php:260
+msgid "Click Here"
+msgstr ""
+
+#: includes/bbm-drafts.php:265
+msgid "Migration done successfully!"
+msgstr ""
+
+#: includes/bbm-frontend.php:207
+msgid "Attach Another File"
+msgstr ""
+
+#: includes/bbm-frontend.php:207
+msgid "Attach File"
+msgstr ""
+
+#: includes/bbm-functions.php:338
+msgid "Select:"
+msgstr ""
+
+#: includes/bbm-functions.php:342
+msgid "None"
+msgstr ""
+
+#: includes/bbm-functions.php:346
+msgid "Delete Selected"
+msgstr ""
+
+#: includes/bbm-labels.php:97 includes/bbm-labels.php:297
+msgid "Label"
+msgstr ""
+
+#: includes/bbm-labels.php:244
+msgid "Label as:"
+msgstr ""
+
+#: includes/bbm-labels.php:259
+msgid "No labels available."
+msgstr ""
+
+#: includes/bbm-labels.php:263
+msgid "Create new"
+msgstr ""
+
+#: includes/bbm-labels.php:272
+msgid "Add Label"
+msgstr ""
+
+#: includes/bbm-labels.php:280
+msgid "Label Name"
+msgstr ""
+
+#: includes/bbm-labels.php:284
+msgid "Save"
+msgstr ""
+
+#: includes/buddyboss-plugin-updater.php:49
+msgid ""
+"To receive updates for BuddyBoss products, please install and activate the "
+"plugin %s"
+msgstr ""
+
+#: includes/help-support.php:5
+msgid "Here is a video tutorial to get you started:"
+msgstr ""
+
+#: includes/help-support.php:13
+msgid "Need more help?"
+msgstr ""
+
+#: includes/help-support.php:16
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: includes/help-support.php:17
+msgid "Current Version &amp; Release Notes"
+msgstr ""
+
+#: includes/help-support.php:18
+msgid "How to Update"
+msgstr ""
+
+#: includes/main-class.php:194 includes/main-class.php:203
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: includes/main-class.php:603
+msgid "Allowed Files"
+msgstr ""
+
+#: includes/main-class.php:615
+msgid "Uploaded file must not be more than %s mb"
+msgstr ""
+
+#: includes/main-class.php:616
+msgid ""
+"Selected file not allowed to be uploaded. It must be one of the following: "
+"%s"
+msgstr ""
+
+#: includes/main-class.php:617
+msgid "Error! File could not be uploaded."
+msgstr ""
+
+#: includes/main-class.php:619
+msgid "Remove"
+msgstr ""
+
+#: includes/main-class.php:620
+msgid "Uploading..."
+msgstr ""
+
+#: includes/main-class.php:621
+msgid "Saving as draft..."
+msgstr ""
+
+#: includes/main-class.php:624
+msgid "Download Attachment"
+msgstr ""
+
+#: includes/main-class.php:742
+msgid "All Member Notices"
+msgstr ""
+
+#: templates/attachments.php:20 templates/attachments.php:37
+msgid "Download attachment"
+msgstr ""
+
+#: templates/drafts.php:14
+msgid "Select all"
+msgstr ""
+
+#: templates/drafts.php:15
+#: templates/members/single/messages/messages-loop.php:14
+msgid "From"
+msgstr ""
+
+#: templates/drafts.php:16 templates/members/single/messages/compose.php:33
+#: templates/members/single/messages/messages-loop.php:15
+msgid "Subject"
+msgstr ""
+
+#: templates/drafts.php:30
+#: templates/members/single/messages/messages-loop.php:33
+msgid "Actions"
+msgstr ""
+
+#: templates/drafts.php:41 templates/drafts.php:112
+msgid "Select this message"
+msgstr ""
+
+#: templates/drafts.php:46 templates/drafts.php:117
+#: templates/members/single/messages/messages-loop.php:52
+msgid "To:"
+msgstr ""
+
+#: templates/drafts.php:52 templates/drafts.php:69 templates/drafts.php:80
+#: templates/drafts.php:123 templates/drafts.php:137 templates/drafts.php:148
+msgid "Draft"
+msgstr ""
+
+#: templates/drafts.php:63 templates/drafts.php:131
+#: templates/members/single/messages/messages-loop.php:65
+msgid "View Message"
+msgstr ""
+
+#: templates/drafts.php:89 templates/drafts.php:157
+#: templates/members/single/messages/single.php:24
+msgid "Delete Message"
+msgstr ""
+
+#: templates/drafts.php:89 templates/drafts.php:157
+#: templates/members/single/messages/messages-loop.php:88
+#: templates/members/single/messages/single.php:24
+msgid "Delete"
+msgstr ""
+
+#: templates/drafts.php:178
+#: templates/members/single/messages/messages-loop.php:113
+msgid "Sorry, no messages were found."
+msgstr ""
+
+#: templates/members/single/messages/compose.php:5
+msgid "Send To (Username or Friend's Name)"
+msgstr ""
+
+#: templates/members/single/messages/compose.php:29
+msgid "This is a notice to all users."
+msgstr ""
+
+#: templates/members/single/messages/compose.php:36
+msgid "Message"
+msgstr ""
+
+#: templates/members/single/messages/compose.php:91
+msgid "Send Message"
+msgstr ""
+
+#: templates/members/single/messages/messages-loop.php:30
+msgid "Star"
+msgstr ""
+
+#: templates/members/single/messages/messages-loop.php:50
+msgid "From:"
+msgstr ""
+
+#: templates/members/single/messages/messages-loop.php:83
+msgid "Read"
+msgstr ""
+
+#: templates/members/single/messages/messages-loop.php:85
+msgid "Unread"
+msgstr ""
+
+#: templates/members/single/messages/single.php:14
+msgid "You are alone in this conversation."
+msgstr ""
+
+#: templates/members/single/messages/single.php:18
+msgid "Conversation between %s and you."
+msgstr ""
+
+#: templates/members/single/messages/single.php:95
+msgid "Send a Reply"
+msgstr ""
+
+#: templates/members/single/messages/single.php:125
+msgid "Send Reply"
+msgstr ""
+
+#: includes/bbm-functions.php:343
+msgctxt "Message dropdown filter"
+msgid "All"
+msgstr ""
+
+#: includes/bbm-template-extend.php:75
+msgctxt "Message pagination previous text"
+msgid "&larr;"
+msgstr ""
+
+#: includes/bbm-template-extend.php:76
+msgctxt "Message pagination next text"
+msgid "&rarr;"
+msgstr ""

@@ -1,0 +1,105 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Mass Messaging for Buddypress - by Alkaweb\n"
+"POT-Creation-Date: 2016-10-21 13:58+0200\n"
+"PO-Revision-Date: 2016-10-21 13:57+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: alkaweb-mass-messaging-for-buddypress.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: alkaweb-mass-messaging-for-buddypress.php:104
+msgid "Subject"
+msgstr ""
+
+#: alkaweb-mass-messaging-for-buddypress.php:105
+msgid "Content"
+msgstr ""
+
+#: alkaweb-mass-messaging-for-buddypress.php:107
+msgid "Receivers"
+msgstr ""
+
+#: alkaweb-mass-messaging-for-buddypress.php:109
+#: alkaweb-mass-messaging-for-buddypress.php:110
+msgid "All"
+msgstr ""
+
+#: alkaweb-mass-messaging-for-buddypress.php:113
+msgid "Groups"
+msgstr ""
+
+#: alkaweb-mass-messaging-for-buddypress.php:124
+msgid "Groups component is not active."
+msgstr ""
+
+#: alkaweb-mass-messaging-for-buddypress.php:129
+msgid "Roles"
+msgstr ""
+
+#: alkaweb-mass-messaging-for-buddypress.php:145
+msgid "Send Messages"
+msgstr ""
+
+#: alkaweb-mass-messaging-for-buddypress.php:150
+#, php-format
+msgid ""
+"Did you find this plugin useful? Please let us know <a href=\"%s\" target="
+"\"_blank\">here</a>."
+msgstr ""
+
+#: alkaweb-mass-messaging-for-buddypress.php:156
+#, php-format
+msgid ""
+"Please activate the <a href=\"%s\">BuddyPress private messaging component</"
+"a> in order to use this plugin"
+msgstr ""
+
+#: alkaweb-mass-messaging-for-buddypress.php:179
+msgid "Please fill Subject and Content fields"
+msgstr ""
+
+#: alkaweb-mass-messaging-for-buddypress.php:224
+#, php-format
+msgid "%s message sent succesfully"
+msgid_plural "%s messages sent succesfully"
+msgstr[0] ""
+msgstr[1] ""
+
+#: alkaweb-mass-messaging-for-buddypress.php:226
+msgid "An error occurred, please try again"
+msgstr ""
+
+#: alkaweb-mass-messaging-for-buddypress.php:241
+msgid "Send as a private message to all users."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Mass Messaging for Buddypress - by Alkaweb"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Allow to send mass messages to all members, all members of specific groups, "
+"all memebrs with specific roles."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Alkaweb"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://woffice.io/"
+msgstr ""

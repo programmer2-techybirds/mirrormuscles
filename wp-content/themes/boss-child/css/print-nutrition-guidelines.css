@@ -1,0 +1,79 @@
+@media print{
+    @page {size: portrait}
+    
+    #macronutrient-presets-slider,
+    #keto-presets-slider{
+        display: none;
+    }
+
+    .calculator-print-container{
+        display: block !important;
+        width: 100%;
+    }
+  
+    .calculator-print-container h4{
+        text-align: center;
+        font-family: 'Ubuntu';
+        font-size: 18px !important;
+        text-align: center;
+        padding: 20px 0;
+        background: #30455C !important;
+        color: #fff !important;
+        -webkit-print-color-adjust:exact;
+    }
+    
+    .calculator-print-container .calculator-results-title{
+        color: #575757 !important;
+        margin: 20px auto 10px;
+        font-size: 18px !important;
+        -webkit-print-color-adjust:exact;
+    }
+
+    .calculator-print-container table.calculator-results-table,
+    .calculator-print-container table#keto-results-table{
+        width: 100%;
+    }
+    
+    .calculator-print-container table.calculator-results-table td{
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .calculator-print-container table.calculator-results-table td h3{
+        color: #fff !important;
+        -webkit-print-color-adjust:exact;
+    }
+
+    .calculator-print-container table.calculator-results-table td.protein{
+        background: #BC5F54 !important;
+        color: #fff !important;
+        -webkit-print-color-adjust:exact;
+    }
+
+    .calculator-print-container table.calculator-results-table td.fat{
+        background: #E4B101 !important;
+        color: #fff !important;
+        -webkit-print-color-adjust:exact;
+    }
+
+    .calculator-print-container table.calculator-results-table td.carbs{
+        background: #4BB89A !important;
+        color: #fff !important;
+        -webkit-print-color-adjust:exact;
+    }
+
+    .calculator-print-container .pieLabel div{
+        color: #fff !important;
+        -webkit-print-color-adjust:exact;
+    }
+
+    .calculator-print-container .calculator-results-pie-legend table{
+        width: 320px !important;
+        margin: 0 auto;
+        display: block;
+    }
+
+    
+
+
+}

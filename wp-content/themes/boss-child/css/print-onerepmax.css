@@ -1,0 +1,34 @@
+@media print{
+    @page {size: portrait}
+  
+    .print_container{
+        display: block !important;
+        width: 100%;
+    }
+  
+    .print_container .onerepmax_maximum{
+        text-align: center;
+        font-family: 'Ubuntu';
+        font-size: 18px !important;
+        text-align: center;
+        padding: 20px 0;
+        background: #30455C !important;
+        color: #fff !important;
+        -webkit-print-color-adjust:exact;
+    }
+
+    .print_container .onerepmax_maximum span{
+        font-size: 24px !important;
+        color: #fff !important;
+        -webkit-print-color-adjust:exact;
+    }
+
+    .print_container input.form-control {
+        border: none !important;
+        border-bottom: 1px solid #575757 !important;
+        font-size: 18px !important;
+        -webkit-print-color-adjust:exact;
+    }
+
+
+}

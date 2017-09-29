@@ -1,0 +1,148 @@
+    @media print{
+    
+    @page {size: landscape}
+  
+    .food-plan-container {
+      border: none !important;
+      padding: 20px !important;
+      background: #E7FCFF !important;
+      -webkit-print-color-adjust:exact;
+    }
+
+    .btn-group{
+      display: none !important;
+    }
+
+    .diary-plan-title{
+      color: #30455c !important;
+      text-transform: uppercase;
+      -webkit-print-color-adjust:exact;
+    }
+
+    .diary-plan-title+p{
+      color: #737373 !important;
+      -webkit-print-color-adjust:exact;
+    }
+
+    .meal-table-saved,
+    .food-plan-in-total{
+      width: 100%;
+      border: none;
+      margin-bottom: 30px;
+    }
+
+
+    table.meal-table-saved td{
+      color: #fff !important;
+      background: #4dcade !important;
+      text-transform: uppercase;
+      text-align: center;
+      padding: 10px;
+      border: none;
+      -webkit-print-color-adjust: exact;
+    }
+
+    table.meal-table-saved tr.meal-title td{
+      font-size: 18px !important;
+    }
+
+    .meal-table-saved tr.ingredient-row td{
+      background: #fff !important;
+      color: #575757 !important;
+      border: 1px solid #4dcade !important;
+      text-align: center !important;
+      padding: 10px !important;
+      -webkit-print-color-adjust:exact;
+    }
+
+    .food-plan-in-total tr.meal-total td{
+      font-weight: 600 !important;
+      font-size: 18px !important;
+      background: #4dcade !important;
+      color: #fff !important;
+      padding: 10px !important;
+      text-align: center;
+      -webkit-print-color-adjust:exact;
+
+    }
+
+    table.meal-table-saved td.calories,
+    table.food-plan-in-total td.calories{
+      background: #969497 !important;
+      -webkit-print-color-adjust:exact;
+    }
+
+    table.meal-table-saved td.protein,
+    table.food-plan-in-total td.protein{
+      background: #BC5F54 !important;
+      -webkit-print-color-adjust:exact;
+    }
+
+    table.meal-table-saved td.fat,
+    table.food-plan-in-total td.fat{
+      background: #E4B101 !important;
+      -webkit-print-color-adjust:exact;
+    }
+
+    table.meal-table-saved td.carbs,
+    table.food-plan-in-total td.carbs{
+      background: #4BB89A !important;
+      -webkit-print-color-adjust:exact;
+    }
+    
+
+    #diaries_print_container{
+      display: block !important;
+      width: 100%;
+      text-align: center;
+      padding: 15px;
+      background: #E7FCFF !important;
+      border: 1px solid #4dcade;
+      overflow: hidden;
+      -webkit-print-color-adjust:exact;
+    }
+
+
+  #diaries_print_container table{
+    width: 100%;
+    margin-bottom: 15px;
+  }
+
+    #diaries_print_container table td{
+      background: #fff !important;
+      color: #949697;
+      border: 1px solid #4dcade;
+      text-align: center;
+      padding: 5px;
+      -webkit-print-color-adjust:exact;
+    }
+
+    #diaries_print_container table td.heads{
+      font-size: 12px;
+      background: #30455c !important;
+      color: #fff !important;
+      border: 1px solid #30455c;
+      -webkit-print-color-adjust:exact;
+    }
+
+    #diaries_print_container table td.dose_yes{
+      background: #FD6703 !important;
+      -webkit-print-color-adjust:exact;
+    }
+
+    #diaries_print_container table td.dayname{
+      width: 100px;
+    }
+
+
+
+  #buddypress table td{
+    vertical-align: middle;
+    white-space: nowrap;
+    overflow: hidden;
+    -o-text-overflow: ellipsis;
+    -ms-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+  }
+
+} 

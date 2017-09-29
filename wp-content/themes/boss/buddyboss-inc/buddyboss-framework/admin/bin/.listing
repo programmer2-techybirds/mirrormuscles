@@ -1,0 +1,7 @@
+drwxr-xr-x   2 muscles  muscles      4096 May 16 10:16 .
+drwxr-xr-x   7 muscles  muscles      4096 May 16 10:16 ..
+-rw-r--r--   1 muscles  muscles        24 May 16 10:16 CNAME
+-rw-r--r--   1 muscles  muscles       793 May 16 10:16 commit-uncompressed-files.sh
+-rw-r--r--   1 muscles  muscles      2594 May 16 10:16 install-wp-tests.sh
+-rw-r--r--   1 muscles  muscles      1072 May 16 10:16 update-codex.sh
+-rw-r--r--   1 muscles  muscles      1425 May 16 10:16 update-mirrors-docs.sh

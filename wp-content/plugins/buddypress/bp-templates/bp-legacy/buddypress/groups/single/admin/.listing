@@ -1,0 +1,9 @@
+drwxr-xr-x   2 muscles  muscles      4096 May 16 11:55 .
+drwxr-xr-x   4 muscles  muscles      4096 May 16 11:55 ..
+-rw-r--r--   1 muscles  muscles      1324 May 16 11:55 delete-group.php
+-rw-r--r--   1 muscles  muscles      1427 May 16 11:55 edit-details.php
+-rw-r--r--   1 muscles  muscles      2448 May 16 11:55 group-avatar.php
+-rw-r--r--   1 muscles  muscles       669 May 16 11:55 group-cover-image.php
+-rw-r--r--   1 muscles  muscles      5359 May 16 11:55 group-settings.php
+-rw-r--r--   1 muscles  muscles      9315 May 16 11:55 manage-members.php
+-rw-r--r--   1 muscles  muscles       638 May 16 11:55 membership-requests.php
